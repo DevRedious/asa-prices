@@ -13,7 +13,8 @@ prix sous forme de données structurées, mises à jour chaque jour.
 ## Données
 
 - [Prix au format JSON](https://devredious.github.io/asa-prices/asa-prices.json) : le jeu de données complet, mis à jour quotidiennement. Un objet par produit, avec le détail des offres par boutique et par marché, le meilleur prix converti en euros, les remises en cours et leur date de fin, ainsi que la date de sortie de chaque produit.
-- [Page de consultation](https://devredious.github.io/asa-prices/) : les mêmes données rendues en tableau HTML statique.
+- [Page de consultation, français](https://devredious.github.io/asa-prices/fr/) : les mêmes données rendues en tableau HTML statique.
+- [Consultation page, English](https://devredious.github.io/asa-prices/en/) : the same data as a static HTML table.
 - [Dépôt source et historique](https://github.com/DevRedious/asa-prices) : chaque changement de prix est un commit, ce qui fait de l'historique Git un historique de prix consultable.
 
 ## Notes d'interprétation

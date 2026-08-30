@@ -17,7 +17,8 @@
 
   <p align="center">
     <i>Relevé quotidien des prix du catalogue ARK: Survival Ascended sur PlayStation, Xbox et Steam.</i><br>
-    <a href="https://devredious.github.io/asa-prices/">Consulter les prix</a> &nbsp;·&nbsp;
+    <a href="https://devredious.github.io/asa-prices/fr/">Consulter les prix</a> &nbsp;·&nbsp;
+    <a href="https://devredious.github.io/asa-prices/en/">English</a> &nbsp;·&nbsp;
     <a href="https://devredious.github.io/asa-prices/asa-prices.json">Jeu de données JSON</a> &nbsp;·&nbsp;
     Dépôt <a href="https://github.com/DevRedious/asa-prices">DevRedious/asa-prices</a>
   </p>
@@ -33,6 +34,9 @@ L'historique des prix est l'historique Git de ce dépôt : `git log -p asa-price
 ```
 https://devredious.github.io/asa-prices/asa-prices.json
 ```
+
+Le site est publié en français (`/fr/`) et en anglais (`/en/`). La racine aiguille
+selon la langue du navigateur, avec des liens visibles si JavaScript est désactivé.
 
 Fichier statique servi par CDN : appelez-le autant que vous voulez.
 
