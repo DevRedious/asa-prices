@@ -1,14 +1,13 @@
 {
   "schema": 1,
-  "generated_at": "2026-08-30T20:47:53.878Z",
+  "generated_at": "2026-08-30T21:00:14.500Z",
   "game": "ARK: Survival Ascended",
   "markets": [
     "FR",
     "BE",
     "GB",
     "US",
-    "CA",
-    "FR/BE"
+    "CA"
   ],
   "rates": {
     "EUR": 1,
@@ -17,7 +16,7 @@
     "CAD": 1.613
   },
   "counts": {
-    "products": 25,
+    "products": 24,
     "on_sale": 10,
     "offers": 282
   },
@@ -1995,6 +1994,19 @@
           "released_at": "2024-04-01T17:00:00.000Z",
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NLQCCNGN3DX"
+        },
+        {
+          "store": "playstation",
+          "market": "FR/BE",
+          "currency": "EUR",
+          "price": 9.89,
+          "price_eur": 9.89,
+          "original": 29.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-09T22:59:00.000Z",
+          "released_at": "2024-04-01T17:00:00.000Z",
+          "status": "sale",
+          "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-BOBSTALLTALES000"
         },
         {
           "store": "playstation",
@@ -4005,33 +4017,6 @@
         "xbox": "2025-10-08T02:00:00.000Z",
         "playstation": "2025-10-08T01:00:00.000Z"
       },
-      "free": true,
-      "on_sale": false,
-      "best_price_eur": null,
-      "best_store": null,
-      "best_market": null
-    },
-    {
-      "key": "bobstalltales000",
-      "name": "BOBSTALLTALES000",
-      "offers": [
-        {
-          "store": "playstation",
-          "market": "FR/BE",
-          "currency": "EUR",
-          "price": 0,
-          "price_eur": 0,
-          "original": 0,
-          "discount_pct": 0,
-          "offer_until": null,
-          "released_at": null,
-          "status": "no_price",
-          "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-BOBSTALLTALES000"
-        }
-      ],
-      "released_at": null,
-      "released_ts": null,
-      "released_by_store": {},
       "free": true,
       "on_sale": false,
       "best_price_eur": null,
