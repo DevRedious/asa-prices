@@ -28,7 +28,7 @@
 
 ---
 
-Le fichier [`asa-prices.json`](asa-prices.json) est régénéré chaque jour vers 9 h (Europe/Paris).
+Le fichier [`asa-prices.json`](../asa-prices.json) est régénéré chaque jour vers 9 h (Europe/Paris).
 L'historique des prix est l'historique Git de ce dépôt : `git log -p asa-prices.json`.
 
 ## Utilisation
