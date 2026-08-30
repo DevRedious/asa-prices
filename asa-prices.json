@@ -1,1003 +1,2309 @@
 {
- "schema": 1,
- "generated_at": "2026-08-30T12:00:00Z",
- "game": "ARK: Survival Ascended",
- "markets": [
-  "FR/BE",
-  "FR"
- ],
- "rates": {
-  "EUR": 1
- },
- "counts": {
-  "products": 24,
-  "on_sale": 10,
-  "offers": 60
- },
- "products": [
-  {
-   "key": "animated series 109 costumes pack",
-   "name": "ARK Animated Series 109-Costumes Pack",
-   "offers": [
-    {
-     "store": "playstation",
-     "market": "FR/BE",
-     "currency": "EUR",
-     "price": 4.94,
-     "price_eur": 4.94,
-     "original": 14.99,
-     "discount_pct": 0,
-     "offer_until": "2026-09-09T22:59:00.000Z",
-     "status": "sale",
-     "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ANIMATEDSERIES01"
-    },
-    {
-     "store": "xbox",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 4.94,
-     "price_eur": 4.94,
-     "original": 14.99,
-     "discount_pct": 0,
-     "offer_until": "2026-09-04T09:59:59.0000000Z",
-     "status": "sale",
-     "url": "https://www.xbox.com/fr-FR/games/store/ark-animated-series-109-costumes-pack/9pd404nwvvwt"
-    },
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 4.94,
-     "price_eur": 4.94,
-     "original": 14.99,
-     "discount_pct": 67,
-     "offer_until": "2026-09-07T17:00:00+00:00",
-     "status": "sale",
-     "url": "https://store.steampowered.com/app/3571730/ARK_Animated_Series_109Costumes_Pack"
-    }
-   ],
-   "free": false,
-   "on_sale": true,
-   "best_price_eur": 4.94,
-   "best_store": "playstation",
-   "best_market": "FR/BE"
+  "schema": 1,
+  "generated_at": "2026-08-30T15:01:49.266Z",
+  "game": "ARK: Survival Ascended",
+  "markets": [
+    "FR",
+    "BE",
+    "CA",
+    "FR/BE"
+  ],
+  "rates": {
+    "EUR": 1,
+    "CAD": 1.613
   },
-  {
-   "key": "fantastic tames drakelings",
-   "name": "ARK Fantastic Tames - Drakelings",
-   "offers": [
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "bundled",
-     "url": "https://store.steampowered.com/app/3720200/ARK_Fantastic_Tames__Drakelings"
-    }
-   ],
-   "free": true,
-   "on_sale": false,
-   "best_price_eur": null,
-   "best_store": null,
-   "best_market": null
+  "counts": {
+    "products": 24,
+    "on_sale": 10,
+    "offers": 144
   },
-  {
-   "key": "fantastic tames dreadmare",
-   "name": "ARK Fantastic Tames - Dreadmare",
-   "offers": [
+  "products": [
     {
-     "store": "playstation",
-     "market": "FR/BE",
-     "currency": "EUR",
-     "price": 1.64,
-     "price_eur": 1.64,
-     "original": 4.99,
-     "discount_pct": 0,
-     "offer_until": "2026-09-09T22:59:00.000Z",
-     "status": "sale",
-     "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ASADREADMAREDLC1"
+      "key": "animated series 109 costumes pack",
+      "name": "ARK Animated Series 109-Costumes Pack",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 4.94,
+          "price_eur": 4.94,
+          "original": 14.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": "2025-03-27T20:59:21.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/3571730/ARK_Animated_Series_109Costumes_Pack"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 4.94,
+          "price_eur": 4.94,
+          "original": 14.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": "2025-03-27T20:59:21.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/3571730/ARK_Animated_Series_109Costumes_Pack"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 7.09,
+          "price_eur": 4.4,
+          "original": 21.5,
+          "discount_pct": 67,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": "2025-03-27T20:59:21.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/3571730/ARK_Animated_Series_109Costumes_Pack"
+        },
+        {
+          "store": "xbox",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 4.94,
+          "price_eur": 4.94,
+          "original": 14.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-04T09:59:59.0000000Z",
+          "released_at": "2025-03-27T21:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9PD404NWVVWT"
+        },
+        {
+          "store": "xbox",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 4.94,
+          "price_eur": 4.94,
+          "original": 14.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-04T09:59:59.0000000Z",
+          "released_at": "2025-03-27T21:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9PD404NWVVWT"
+        },
+        {
+          "store": "xbox",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 7.11,
+          "price_eur": 4.41,
+          "original": 21.55,
+          "discount_pct": 67,
+          "offer_until": "2026-09-04T09:59:59.0000000Z",
+          "released_at": "2025-03-27T21:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9PD404NWVVWT"
+        },
+        {
+          "store": "playstation",
+          "market": "FR/BE",
+          "currency": "EUR",
+          "price": 4.94,
+          "price_eur": 4.94,
+          "original": 14.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-09T22:59:00.000Z",
+          "released_at": "2025-03-27T15:05:32.000Z",
+          "status": "sale",
+          "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ANIMATEDSERIES01"
+        }
+      ],
+      "released_at": "2025-03-27T15:05:32.000Z",
+      "released_ts": 1743087932,
+      "released_by_store": {
+        "steam": "2025-03-27T20:59:21.000Z",
+        "xbox": "2025-03-27T21:00:00.000Z",
+        "playstation": "2025-03-27T15:05:32.000Z"
+      },
+      "free": false,
+      "on_sale": true,
+      "best_price_eur": 4.4,
+      "best_store": "steam",
+      "best_market": "CA"
     },
     {
-     "store": "xbox",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 1.64,
-     "price_eur": 1.64,
-     "original": 4.99,
-     "discount_pct": 0,
-     "offer_until": "2026-09-04T09:59:59.0000000Z",
-     "status": "sale",
-     "url": "https://www.xbox.com/fr-FR/games/store/ark-fantastic-tames-dreadmare/9pczk1gnd95z"
+      "key": "fantastic tames drakelings",
+      "name": "ARK Fantastic Tames - Drakelings",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-12-18T00:50:43.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/3720200/ARK_Fantastic_Tames__Drakelings"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-12-18T00:50:43.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/3720200/ARK_Fantastic_Tames__Drakelings"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-12-18T00:50:43.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/3720200/ARK_Fantastic_Tames__Drakelings"
+        }
+      ],
+      "released_at": "2025-12-18T00:50:43.000Z",
+      "released_ts": 1766019043,
+      "released_by_store": {
+        "steam": "2025-12-18T00:50:43.000Z"
+      },
+      "free": true,
+      "on_sale": false,
+      "best_price_eur": null,
+      "best_store": null,
+      "best_market": null
     },
     {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 1.64,
-     "price_eur": 1.64,
-     "original": 4.99,
-     "discount_pct": 67,
-     "offer_until": "2026-09-07T17:00:00+00:00",
-     "status": "sale",
-     "url": "https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames__Dreadmare"
+      "key": "fantastic tames dreadmare",
+      "name": "ARK Fantastic Tames - Dreadmare",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 1.64,
+          "price_eur": 1.64,
+          "original": 4.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": "2024-10-30T23:00:39.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames__Dreadmare"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 1.64,
+          "price_eur": 1.64,
+          "original": 4.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": "2024-10-30T23:00:39.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames__Dreadmare"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 2.24,
+          "price_eur": 1.39,
+          "original": 6.8,
+          "discount_pct": 67,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": "2024-10-30T23:00:39.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames__Dreadmare"
+        },
+        {
+          "store": "xbox",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 1.64,
+          "price_eur": 1.64,
+          "original": 4.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-04T09:59:59.0000000Z",
+          "released_at": "2024-10-30T23:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9PCZK1GND95Z"
+        },
+        {
+          "store": "xbox",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 1.64,
+          "price_eur": 1.64,
+          "original": 4.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-04T09:59:59.0000000Z",
+          "released_at": "2024-10-30T23:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9PCZK1GND95Z"
+        },
+        {
+          "store": "xbox",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 2.3,
+          "price_eur": 1.43,
+          "original": 6.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-04T09:59:59.0000000Z",
+          "released_at": "2024-10-30T23:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9PCZK1GND95Z"
+        },
+        {
+          "store": "playstation",
+          "market": "FR/BE",
+          "currency": "EUR",
+          "price": 1.64,
+          "price_eur": 1.64,
+          "original": 4.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-09T22:59:00.000Z",
+          "released_at": "2024-10-30T23:00:00.000Z",
+          "status": "sale",
+          "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ASADREADMAREDLC1"
+        }
+      ],
+      "released_at": "2024-10-30T23:00:00.000Z",
+      "released_ts": 1730329200,
+      "released_by_store": {
+        "steam": "2024-10-30T23:00:39.000Z",
+        "xbox": "2024-10-30T23:00:00.000Z",
+        "playstation": "2024-10-30T23:00:00.000Z"
+      },
+      "free": false,
+      "on_sale": true,
+      "best_price_eur": 1.39,
+      "best_store": "steam",
+      "best_market": "CA"
+    },
+    {
+      "key": "fantastic tames elderclaw",
+      "name": "ARK Fantastic Tames - Elderclaw",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-12-18T00:51:37.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/3982300/ARK_Fantastic_Tames__Elderclaw"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-12-18T00:51:37.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/3982300/ARK_Fantastic_Tames__Elderclaw"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-12-18T00:51:37.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/3982300/ARK_Fantastic_Tames__Elderclaw"
+        }
+      ],
+      "released_at": "2025-12-18T00:51:37.000Z",
+      "released_ts": 1766019097,
+      "released_by_store": {
+        "steam": "2025-12-18T00:51:37.000Z"
+      },
+      "free": true,
+      "on_sale": false,
+      "best_price_eur": null,
+      "best_store": null,
+      "best_market": null
+    },
+    {
+      "key": "fantastic tames pyromane",
+      "name": "ARK Fantastic Tames - Pyromane",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 1.64,
+          "price_eur": 1.64,
+          "original": 4.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": "2024-06-05T02:15:47.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames__Pyromane"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 1.64,
+          "price_eur": 1.64,
+          "original": 4.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": "2024-06-05T02:15:47.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames__Pyromane"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 2.25,
+          "price_eur": 1.39,
+          "original": 6.82,
+          "discount_pct": 67,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": "2024-06-05T02:15:47.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames__Pyromane"
+        },
+        {
+          "store": "xbox",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 1.64,
+          "price_eur": 1.64,
+          "original": 4.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-04T09:59:59.0000000Z",
+          "released_at": "2024-06-05T02:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9N6DQ0G4CW2V"
+        },
+        {
+          "store": "xbox",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 1.64,
+          "price_eur": 1.64,
+          "original": 4.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-04T09:59:59.0000000Z",
+          "released_at": "2024-06-05T02:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9N6DQ0G4CW2V"
+        },
+        {
+          "store": "xbox",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 2.3,
+          "price_eur": 1.43,
+          "original": 6.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-04T09:59:59.0000000Z",
+          "released_at": "2024-06-05T02:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9N6DQ0G4CW2V"
+        },
+        {
+          "store": "playstation",
+          "market": "FR/BE",
+          "currency": "EUR",
+          "price": 1.64,
+          "price_eur": 1.64,
+          "original": 4.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-09T22:59:00.000Z",
+          "released_at": "2024-06-05T02:00:00.000Z",
+          "status": "sale",
+          "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ASAFIRELIONDLC00"
+        }
+      ],
+      "released_at": "2024-06-05T02:00:00.000Z",
+      "released_ts": 1717552800,
+      "released_by_store": {
+        "steam": "2024-06-05T02:15:47.000Z",
+        "xbox": "2024-06-05T02:00:00.000Z",
+        "playstation": "2024-06-05T02:00:00.000Z"
+      },
+      "free": false,
+      "on_sale": true,
+      "best_price_eur": 1.39,
+      "best_store": "steam",
+      "best_market": "CA"
+    },
+    {
+      "key": "fantastic tames season 1",
+      "name": "ARK Fantastic Tames Season 1",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 9.99,
+          "price_eur": 9.99,
+          "original": 9.99,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-05-20T13:04:29.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/4558510/ARK_Fantastic_Tames_Season_1"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 9.99,
+          "price_eur": 9.99,
+          "original": 9.99,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-05-20T13:04:29.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/4558510/ARK_Fantastic_Tames_Season_1"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 13.75,
+          "price_eur": 8.52,
+          "original": 13.75,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-05-20T13:04:29.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/4558510/ARK_Fantastic_Tames_Season_1"
+        },
+        {
+          "store": "xbox",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 9.99,
+          "price_eur": 9.99,
+          "original": 9.99,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-05-20T01:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9PJB6T8P7M06"
+        },
+        {
+          "store": "xbox",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 9.99,
+          "price_eur": 9.99,
+          "original": 9.99,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-05-20T01:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9PJB6T8P7M06"
+        },
+        {
+          "store": "xbox",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 13.64,
+          "price_eur": 8.46,
+          "original": 13.64,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-05-20T01:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9PJB6T8P7M06"
+        },
+        {
+          "store": "playstation",
+          "market": "FR/BE",
+          "currency": "EUR",
+          "price": 9.99,
+          "price_eur": 9.99,
+          "original": 9.99,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-05-20T01:00:00.000Z",
+          "status": "sale",
+          "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-FANTASTICSEASON1"
+        }
+      ],
+      "released_at": "2026-05-20T01:00:00.000Z",
+      "released_ts": 1779238800,
+      "released_by_store": {
+        "steam": "2026-05-20T13:04:29.000Z",
+        "xbox": "2026-05-20T01:00:00.000Z",
+        "playstation": "2026-05-20T01:00:00.000Z"
+      },
+      "free": false,
+      "on_sale": false,
+      "best_price_eur": 8.46,
+      "best_store": "xbox",
+      "best_market": "CA"
+    },
+    {
+      "key": "tides of fortune",
+      "name": "ARK Tides of Fortune",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 19.99,
+          "price_eur": 19.99,
+          "original": 19.99,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-07-03T21:32:51.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/4558480/ARK_Tides_of_Fortune"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 19.99,
+          "price_eur": 19.99,
+          "original": 19.99,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-07-03T21:32:51.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/4558480/ARK_Tides_of_Fortune"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 27.99,
+          "price_eur": 17.35,
+          "original": 27.99,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-07-03T21:32:51.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/4558480/ARK_Tides_of_Fortune"
+        },
+        {
+          "store": "xbox",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 19.99,
+          "price_eur": 19.99,
+          "original": 19.99,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-07-03T21:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9NW717HPJDK9"
+        },
+        {
+          "store": "xbox",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 19.99,
+          "price_eur": 19.99,
+          "original": 19.99,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-07-03T21:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9NW717HPJDK9"
+        },
+        {
+          "store": "xbox",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 27.99,
+          "price_eur": 17.35,
+          "original": 27.99,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-07-03T21:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9NW717HPJDK9"
+        },
+        {
+          "store": "playstation",
+          "market": "FR/BE",
+          "currency": "EUR",
+          "price": 19.99,
+          "price_eur": 19.99,
+          "original": 19.99,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-07-02T23:00:00.000Z",
+          "status": "sale",
+          "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-TIDESOFFORTUNE01"
+        }
+      ],
+      "released_at": "2026-07-02T23:00:00.000Z",
+      "released_ts": 1783033200,
+      "released_by_store": {
+        "steam": "2026-07-03T21:32:51.000Z",
+        "xbox": "2026-07-03T21:00:00.000Z",
+        "playstation": "2026-07-02T23:00:00.000Z"
+      },
+      "free": false,
+      "on_sale": false,
+      "best_price_eur": 17.35,
+      "best_store": "steam",
+      "best_market": "CA"
+    },
+    {
+      "key": "aberration",
+      "name": "ARK: Aberration Ascended",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2024-09-05T17:54:11.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/3059650/ARK_Aberration_Ascended"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2024-09-05T17:54:11.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/3059650/ARK_Aberration_Ascended"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2024-09-05T17:54:11.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/3059650/ARK_Aberration_Ascended"
+        },
+        {
+          "store": "xbox",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-05T17:00:00.000Z",
+          "status": "free",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9NCMLJBDK2VP"
+        },
+        {
+          "store": "xbox",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-05T17:00:00.000Z",
+          "status": "free",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9NCMLJBDK2VP"
+        },
+        {
+          "store": "xbox",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-05T17:00:00.000Z",
+          "status": "free",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9NCMLJBDK2VP"
+        },
+        {
+          "store": "playstation",
+          "market": "FR/BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-03T01:00:00.000Z",
+          "status": "free",
+          "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ASAABERRATIONDLC"
+        }
+      ],
+      "released_at": "2024-09-05T17:54:11.000Z",
+      "released_ts": 1725558851,
+      "released_by_store": {
+        "steam": "2024-09-05T17:54:11.000Z",
+        "xbox": "2025-06-05T17:00:00.000Z",
+        "playstation": "2025-06-03T01:00:00.000Z"
+      },
+      "free": true,
+      "on_sale": false,
+      "best_price_eur": null,
+      "best_store": null,
+      "best_market": null
+    },
+    {
+      "key": "astraeos",
+      "name": "ARK: Astraeos",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 4.94,
+          "price_eur": 4.94,
+          "original": 14.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": "2025-02-14T05:06:32.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/3483400/ARK_Astraeos"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 4.94,
+          "price_eur": 4.94,
+          "original": 14.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": "2025-02-14T05:06:32.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/3483400/ARK_Astraeos"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 7.09,
+          "price_eur": 4.4,
+          "original": 21.49,
+          "discount_pct": 67,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": "2025-02-14T05:06:32.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/3483400/ARK_Astraeos"
+        },
+        {
+          "store": "xbox",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 4.94,
+          "price_eur": 4.94,
+          "original": 14.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-04T09:59:59.0000000Z",
+          "released_at": "2025-02-14T05:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9NDWFV6QL35S"
+        },
+        {
+          "store": "xbox",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 4.94,
+          "price_eur": 4.94,
+          "original": 14.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-04T09:59:59.0000000Z",
+          "released_at": "2025-02-14T05:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9NDWFV6QL35S"
+        },
+        {
+          "store": "xbox",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 7.11,
+          "price_eur": 4.41,
+          "original": 21.57,
+          "discount_pct": 67,
+          "offer_until": "2026-09-04T09:59:59.0000000Z",
+          "released_at": "2025-02-14T05:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9NDWFV6QL35S"
+        },
+        {
+          "store": "playstation",
+          "market": "FR/BE",
+          "currency": "EUR",
+          "price": 4.94,
+          "price_eur": 4.94,
+          "original": 14.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-09T22:59:00.000Z",
+          "released_at": "2025-02-14T05:00:00.000Z",
+          "status": "sale",
+          "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ASAASTRAEOSDLC00"
+        }
+      ],
+      "released_at": "2025-02-14T05:00:00.000Z",
+      "released_ts": 1739509200,
+      "released_by_store": {
+        "steam": "2025-02-14T05:06:32.000Z",
+        "xbox": "2025-02-14T05:00:00.000Z",
+        "playstation": "2025-02-14T05:00:00.000Z"
+      },
+      "free": false,
+      "on_sale": true,
+      "best_price_eur": 4.4,
+      "best_store": "steam",
+      "best_market": "CA"
+    },
+    {
+      "key": "big small survive them all",
+      "name": "ARK: Big & Small, Survive them All",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 14.5,
+          "price_eur": 14.5,
+          "original": 58.04,
+          "discount_pct": 75,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": null,
+          "status": "sale",
+          "url": "https://store.steampowered.com/bundle/27909/"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 14.5,
+          "price_eur": 14.5,
+          "original": 58.04,
+          "discount_pct": 75,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": null,
+          "status": "sale",
+          "url": "https://store.steampowered.com/bundle/27909/"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 19.34,
+          "price_eur": 11.99,
+          "original": 77.39,
+          "discount_pct": 75,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": null,
+          "status": "sale",
+          "url": "https://store.steampowered.com/bundle/27909/"
+        }
+      ],
+      "released_at": null,
+      "released_ts": null,
+      "released_by_store": {},
+      "free": false,
+      "on_sale": true,
+      "best_price_eur": 11.99,
+      "best_store": "steam",
+      "best_market": "CA"
+    },
+    {
+      "key": "bob s bundle",
+      "name": "ARK: Bob's Bundle",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 16.9,
+          "price_eur": 16.9,
+          "original": 59.98,
+          "discount_pct": 72,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": null,
+          "status": "sale",
+          "url": "https://store.steampowered.com/bundle/44687/"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 16.9,
+          "price_eur": 16.9,
+          "original": 59.98,
+          "discount_pct": 72,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": null,
+          "status": "sale",
+          "url": "https://store.steampowered.com/bundle/44687/"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 22.82,
+          "price_eur": 14.15,
+          "original": 80.8,
+          "discount_pct": 72,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": null,
+          "status": "sale",
+          "url": "https://store.steampowered.com/bundle/44687/"
+        },
+        {
+          "store": "xbox",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 63.49,
+          "price_eur": 63.49,
+          "original": 63.49,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2024-12-17T18:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9NF0RTSMR2ST"
+        },
+        {
+          "store": "xbox",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 63.99,
+          "price_eur": 63.99,
+          "original": 63.99,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2024-12-17T18:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9NF0RTSMR2ST"
+        },
+        {
+          "store": "xbox",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 76.99,
+          "price_eur": 47.73,
+          "original": 76.99,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2024-12-17T18:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9NF0RTSMR2ST"
+        },
+        {
+          "store": "playstation",
+          "market": "FR/BE",
+          "currency": "EUR",
+          "price": 59.99,
+          "price_eur": 59.99,
+          "original": 59.99,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2024-12-16T18:00:00.000Z",
+          "status": "sale",
+          "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ASABOBSBUNDLEDLC"
+        }
+      ],
+      "released_at": "2024-12-16T18:00:00.000Z",
+      "released_ts": 1734372000,
+      "released_by_store": {
+        "xbox": "2024-12-17T18:00:00.000Z",
+        "playstation": "2024-12-16T18:00:00.000Z"
+      },
+      "free": false,
+      "on_sale": true,
+      "best_price_eur": 14.15,
+      "best_store": "steam",
+      "best_market": "CA"
+    },
+    {
+      "key": "bob s tall tales",
+      "name": "ARK: Bob's Tall Tales",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 9.89,
+          "price_eur": 9.89,
+          "original": 29.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": "2024-04-02T01:00:59.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/2881150/ARK_Bobs_Tall_Tales"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 9.89,
+          "price_eur": 9.89,
+          "original": 29.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": "2024-04-02T01:00:59.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/2881150/ARK_Bobs_Tall_Tales"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 13.53,
+          "price_eur": 8.39,
+          "original": 41,
+          "discount_pct": 67,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": "2024-04-02T01:00:59.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/2881150/ARK_Bobs_Tall_Tales"
+        },
+        {
+          "store": "xbox",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 9.89,
+          "price_eur": 9.89,
+          "original": 29.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-04T09:59:59.0000000Z",
+          "released_at": "2024-04-01T17:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9NLQCCNGN3DX"
+        },
+        {
+          "store": "xbox",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 9.89,
+          "price_eur": 9.89,
+          "original": 29.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-04T09:59:59.0000000Z",
+          "released_at": "2024-04-01T17:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9NLQCCNGN3DX"
+        },
+        {
+          "store": "xbox",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 13.66,
+          "price_eur": 8.47,
+          "original": 41.4,
+          "discount_pct": 67,
+          "offer_until": "2026-09-04T09:59:59.0000000Z",
+          "released_at": "2024-04-01T17:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9NLQCCNGN3DX"
+        },
+        {
+          "store": "playstation",
+          "market": "FR/BE",
+          "currency": "EUR",
+          "price": 9.89,
+          "price_eur": 9.89,
+          "original": 29.99,
+          "discount_pct": 67,
+          "offer_until": "2026-09-09T22:59:00.000Z",
+          "released_at": "2024-04-01T17:00:00.000Z",
+          "status": "sale",
+          "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-BOBSTALLTALES000"
+        }
+      ],
+      "released_at": "2024-04-01T17:00:00.000Z",
+      "released_ts": 1711990800,
+      "released_by_store": {
+        "steam": "2024-04-02T01:00:59.000Z",
+        "xbox": "2024-04-01T17:00:00.000Z",
+        "playstation": "2024-04-01T17:00:00.000Z"
+      },
+      "free": false,
+      "on_sale": true,
+      "best_price_eur": 8.39,
+      "best_store": "steam",
+      "best_market": "CA"
+    },
+    {
+      "key": "dragontopia",
+      "name": "ARK: Dragontopia",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 29.99,
+          "price_eur": 29.99,
+          "original": 29.99,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-07-03T21:32:38.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/4558490/ARK_Dragontopia"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 29.99,
+          "price_eur": 29.99,
+          "original": 29.99,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-07-03T21:32:38.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/4558490/ARK_Dragontopia"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 41.79,
+          "price_eur": 25.91,
+          "original": 41.79,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-07-03T21:32:38.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/4558490/ARK_Dragontopia"
+        },
+        {
+          "store": "xbox",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 29.99,
+          "price_eur": 29.99,
+          "original": 29.99,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-07-02T23:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9NB7PMZ290KX"
+        },
+        {
+          "store": "xbox",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 29.99,
+          "price_eur": 29.99,
+          "original": 29.99,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-07-02T23:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9NB7PMZ290KX"
+        },
+        {
+          "store": "xbox",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 41.79,
+          "price_eur": 25.91,
+          "original": 41.79,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-07-02T23:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9NB7PMZ290KX"
+        },
+        {
+          "store": "playstation",
+          "market": "FR/BE",
+          "currency": "EUR",
+          "price": 29.99,
+          "price_eur": 29.99,
+          "original": 29.99,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-07-02T23:00:00.000Z",
+          "status": "sale",
+          "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-DRAGONTOPIADLC01"
+        }
+      ],
+      "released_at": "2026-07-02T23:00:00.000Z",
+      "released_ts": 1783033200,
+      "released_by_store": {
+        "steam": "2026-07-03T21:32:38.000Z",
+        "xbox": "2026-07-02T23:00:00.000Z",
+        "playstation": "2026-07-02T23:00:00.000Z"
+      },
+      "free": false,
+      "on_sale": false,
+      "best_price_eur": 25.91,
+      "best_store": "steam",
+      "best_market": "CA"
+    },
+    {
+      "key": "extinction",
+      "name": "ARK: Extinction Ascended",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2024-12-20T17:20:12.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/3349320/ARK_Extinction_Ascended"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2024-12-20T17:20:12.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/3349320/ARK_Extinction_Ascended"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2024-12-20T17:20:12.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/3349320/ARK_Extinction_Ascended"
+        },
+        {
+          "store": "xbox",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-05T17:00:00.000Z",
+          "status": "free",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9NNQXQHD415B"
+        },
+        {
+          "store": "xbox",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-05T17:00:00.000Z",
+          "status": "free",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9NNQXQHD415B"
+        },
+        {
+          "store": "xbox",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-05T17:00:00.000Z",
+          "status": "free",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9NNQXQHD415B"
+        },
+        {
+          "store": "playstation",
+          "market": "FR/BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-03T01:00:00.000Z",
+          "status": "free",
+          "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ASAEXTINCTIONDLC"
+        }
+      ],
+      "released_at": "2024-12-20T17:20:12.000Z",
+      "released_ts": 1734715212,
+      "released_by_store": {
+        "steam": "2024-12-20T17:20:12.000Z",
+        "xbox": "2025-06-05T17:00:00.000Z",
+        "playstation": "2025-06-03T01:00:00.000Z"
+      },
+      "free": true,
+      "on_sale": false,
+      "best_price_eur": null,
+      "best_store": null,
+      "best_market": null
+    },
+    {
+      "key": "genesis  part 1",
+      "name": "ARK: Genesis Ascended Part 1",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-07-03T21:32:57.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/4558470/ARK_Genesis_Ascended_Part_1"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-07-03T21:32:57.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/4558470/ARK_Genesis_Ascended_Part_1"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-07-03T21:32:57.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/4558470/ARK_Genesis_Ascended_Part_1"
+        },
+        {
+          "store": "xbox",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-07-02T23:00:00.000Z",
+          "status": "free",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9P4ND7M5PKPC"
+        },
+        {
+          "store": "xbox",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-07-02T23:00:00.000Z",
+          "status": "free",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9P4ND7M5PKPC"
+        },
+        {
+          "store": "xbox",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-07-02T23:00:00.000Z",
+          "status": "free",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9P4ND7M5PKPC"
+        },
+        {
+          "store": "playstation",
+          "market": "FR/BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2026-07-02T23:00:00.000Z",
+          "status": "free",
+          "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-GENESISASCENDED1"
+        }
+      ],
+      "released_at": "2026-07-02T23:00:00.000Z",
+      "released_ts": 1783033200,
+      "released_by_store": {
+        "steam": "2026-07-03T21:32:57.000Z",
+        "xbox": "2026-07-02T23:00:00.000Z",
+        "playstation": "2026-07-02T23:00:00.000Z"
+      },
+      "free": true,
+      "on_sale": false,
+      "best_price_eur": null,
+      "best_store": null,
+      "best_market": null
+    },
+    {
+      "key": "lost colony",
+      "name": "ARK: Lost Colony",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-12-19T10:46:22.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/3583650/ARK_Lost_Colony"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-12-19T10:46:22.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/3583650/ARK_Lost_Colony"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-12-19T10:46:22.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/3583650/ARK_Lost_Colony"
+        }
+      ],
+      "released_at": "2025-12-19T10:46:22.000Z",
+      "released_ts": 1766141182,
+      "released_by_store": {
+        "steam": "2025-12-19T10:46:22.000Z"
+      },
+      "free": true,
+      "on_sale": false,
+      "best_price_eur": null,
+      "best_store": null,
+      "best_market": null
+    },
+    {
+      "key": "lost colony expansion pass",
+      "name": "ARK: Lost Colony Expansion Pass",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 14.99,
+          "price_eur": 14.99,
+          "original": 29.99,
+          "discount_pct": 50,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": "2025-06-18T23:12:29.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/3720100/ARK_Lost_Colony_Expansion_Pass"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 14.99,
+          "price_eur": 14.99,
+          "original": 29.99,
+          "discount_pct": 50,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": "2025-06-18T23:12:29.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/3720100/ARK_Lost_Colony_Expansion_Pass"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 20.72,
+          "price_eur": 12.85,
+          "original": 41.45,
+          "discount_pct": 50,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": "2025-06-18T23:12:29.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/3720100/ARK_Lost_Colony_Expansion_Pass"
+        },
+        {
+          "store": "xbox",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 14.99,
+          "price_eur": 14.99,
+          "original": 29.99,
+          "discount_pct": 50,
+          "offer_until": "2026-09-04T09:59:59.0000000Z",
+          "released_at": "2025-06-18T23:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9PCSM2RFXT8K"
+        },
+        {
+          "store": "xbox",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 14.99,
+          "price_eur": 14.99,
+          "original": 29.99,
+          "discount_pct": 50,
+          "offer_until": "2026-09-04T09:59:59.0000000Z",
+          "released_at": "2025-06-18T23:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9PCSM2RFXT8K"
+        },
+        {
+          "store": "xbox",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 20.7,
+          "price_eur": 12.83,
+          "original": 41.4,
+          "discount_pct": 50,
+          "offer_until": "2026-09-04T09:59:59.0000000Z",
+          "released_at": "2025-06-18T23:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9PCSM2RFXT8K"
+        },
+        {
+          "store": "playstation",
+          "market": "FR/BE",
+          "currency": "EUR",
+          "price": 14.99,
+          "price_eur": 14.99,
+          "original": 29.99,
+          "discount_pct": 50,
+          "offer_until": "2026-09-09T22:59:00.000Z",
+          "released_at": "2025-11-19T02:00:00.000Z",
+          "status": "sale",
+          "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-LOSTCOLONYEXPASS"
+        }
+      ],
+      "released_at": "2025-06-18T23:00:00.000Z",
+      "released_ts": 1750287600,
+      "released_by_store": {
+        "steam": "2025-06-18T23:12:29.000Z",
+        "xbox": "2025-06-18T23:00:00.000Z",
+        "playstation": "2025-11-19T02:00:00.000Z"
+      },
+      "free": false,
+      "on_sale": true,
+      "best_price_eur": 12.83,
+      "best_store": "xbox",
+      "best_market": "CA"
+    },
+    {
+      "key": "lost colony original soundtrack",
+      "name": "ARK: Lost Colony Original Soundtrack",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-12-25T04:23:50.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/4274580/ARK_Lost_Colony_Original_Soundtrack"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-12-25T04:23:50.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/4274580/ARK_Lost_Colony_Original_Soundtrack"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-12-25T04:23:50.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/4274580/ARK_Lost_Colony_Original_Soundtrack"
+        }
+      ],
+      "released_at": "2025-12-25T04:23:50.000Z",
+      "released_ts": 1766636630,
+      "released_by_store": {
+        "steam": "2025-12-25T04:23:50.000Z"
+      },
+      "free": true,
+      "on_sale": false,
+      "best_price_eur": null,
+      "best_store": null,
+      "best_market": null
+    },
+    {
+      "key": "ragnarok",
+      "name": "ARK: Ragnarok Ascended",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-20T06:29:18.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/3675020/ARK_Ragnarok_Ascended"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-20T06:29:18.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/3675020/ARK_Ragnarok_Ascended"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-20T06:29:18.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/3675020/ARK_Ragnarok_Ascended"
+        },
+        {
+          "store": "xbox",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-20T06:00:00.000Z",
+          "status": "free",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9PL29W01BR9C"
+        },
+        {
+          "store": "xbox",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-20T06:00:00.000Z",
+          "status": "free",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9PL29W01BR9C"
+        },
+        {
+          "store": "xbox",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-20T06:00:00.000Z",
+          "status": "free",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9PL29W01BR9C"
+        },
+        {
+          "store": "playstation",
+          "market": "FR/BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-19T01:00:00.000Z",
+          "status": "free",
+          "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ASARAGNAROKDLC00"
+        }
+      ],
+      "released_at": "2025-06-19T01:00:00.000Z",
+      "released_ts": 1750294800,
+      "released_by_store": {
+        "steam": "2025-06-20T06:29:18.000Z",
+        "xbox": "2025-06-20T06:00:00.000Z",
+        "playstation": "2025-06-19T01:00:00.000Z"
+      },
+      "free": true,
+      "on_sale": false,
+      "best_price_eur": null,
+      "best_store": null,
+      "best_market": null
+    },
+    {
+      "key": "scorched earth",
+      "name": "ARK: Scorched Earth Ascended",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2024-04-02T01:06:35.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/2849450/ARK_Scorched_Earth_Ascended"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2024-04-02T01:06:35.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/2849450/ARK_Scorched_Earth_Ascended"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2024-04-02T01:06:35.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/2849450/ARK_Scorched_Earth_Ascended"
+        },
+        {
+          "store": "xbox",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-05T17:00:00.000Z",
+          "status": "free",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9PMXGQM52HZK"
+        },
+        {
+          "store": "xbox",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-05T17:00:00.000Z",
+          "status": "free",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9PMXGQM52HZK"
+        },
+        {
+          "store": "xbox",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-05T17:00:00.000Z",
+          "status": "free",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9PMXGQM52HZK"
+        },
+        {
+          "store": "playstation",
+          "market": "FR/BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-03T01:00:00.000Z",
+          "status": "free",
+          "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-SCORCHEDEARTH000"
+        }
+      ],
+      "released_at": "2024-04-02T01:06:35.000Z",
+      "released_ts": 1712019995,
+      "released_by_store": {
+        "steam": "2024-04-02T01:06:35.000Z",
+        "xbox": "2025-06-05T17:00:00.000Z",
+        "playstation": "2025-06-03T01:00:00.000Z"
+      },
+      "free": true,
+      "on_sale": false,
+      "best_price_eur": null,
+      "best_store": null,
+      "best_market": null
+    },
+    {
+      "key": "survival",
+      "name": "ARK: Survival Ascended",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 11.24,
+          "price_eur": 11.24,
+          "original": 44.99,
+          "discount_pct": 75,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": "2023-10-26T05:07:25.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/2399830/ARK_Survival_Ascended"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 11.24,
+          "price_eur": 11.24,
+          "original": 44.99,
+          "discount_pct": 75,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": "2023-10-26T05:07:25.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/2399830/ARK_Survival_Ascended"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 15,
+          "price_eur": 9.3,
+          "original": 60,
+          "discount_pct": 75,
+          "offer_until": "2026-09-07T17:00:00.000Z",
+          "released_at": "2023-10-26T05:07:25.000Z",
+          "status": "sale",
+          "url": "https://store.steampowered.com/app/2399830/ARK_Survival_Ascended"
+        },
+        {
+          "store": "xbox",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 11.24,
+          "price_eur": 11.24,
+          "original": 44.99,
+          "discount_pct": 75,
+          "offer_until": "2026-09-04T09:59:59.0000000Z",
+          "released_at": "2023-11-21T17:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9P33VJGVPHVP"
+        },
+        {
+          "store": "xbox",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 11.24,
+          "price_eur": 11.24,
+          "original": 44.99,
+          "discount_pct": 75,
+          "offer_until": "2026-09-04T09:59:59.0000000Z",
+          "released_at": "2023-11-21T17:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9P33VJGVPHVP"
+        },
+        {
+          "store": "xbox",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 15.44,
+          "price_eur": 9.57,
+          "original": 61.76,
+          "discount_pct": 75,
+          "offer_until": "2026-09-04T09:59:59.0000000Z",
+          "released_at": "2023-11-21T17:00:00.000Z",
+          "status": "sale",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9P33VJGVPHVP"
+        },
+        {
+          "store": "playstation",
+          "market": "FR/BE",
+          "currency": "EUR",
+          "price": 11.24,
+          "price_eur": 11.24,
+          "original": 44.99,
+          "discount_pct": 75,
+          "offer_until": "2026-09-09T22:59:00.000Z",
+          "released_at": "2023-11-30T17:00:00.000Z",
+          "status": "sale",
+          "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-SURVIVALASCENDED"
+        }
+      ],
+      "released_at": "2023-10-26T05:07:25.000Z",
+      "released_ts": 1698296845,
+      "released_by_store": {
+        "steam": "2023-10-26T05:07:25.000Z",
+        "xbox": "2023-11-21T17:00:00.000Z",
+        "playstation": "2023-11-30T17:00:00.000Z"
+      },
+      "free": false,
+      "on_sale": true,
+      "best_price_eur": 9.3,
+      "best_store": "steam",
+      "best_market": "CA"
+    },
+    {
+      "key": "the center",
+      "name": "ARK: The Center Ascended",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2024-06-05T02:11:41.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/2827030/ARK_The_Center_Ascended"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2024-06-05T02:11:41.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/2827030/ARK_The_Center_Ascended"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2024-06-05T02:11:41.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/2827030/ARK_The_Center_Ascended"
+        },
+        {
+          "store": "xbox",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-05T17:00:00.000Z",
+          "status": "free",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9PCHBW1J6TLW"
+        },
+        {
+          "store": "xbox",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-05T17:00:00.000Z",
+          "status": "free",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9PCHBW1J6TLW"
+        },
+        {
+          "store": "xbox",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-05T17:00:00.000Z",
+          "status": "free",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9PCHBW1J6TLW"
+        },
+        {
+          "store": "playstation",
+          "market": "FR/BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-06-03T01:00:00.000Z",
+          "status": "free",
+          "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ASATHECENTERDLC0"
+        }
+      ],
+      "released_at": "2024-06-05T02:11:41.000Z",
+      "released_ts": 1717553501,
+      "released_by_store": {
+        "steam": "2024-06-05T02:11:41.000Z",
+        "xbox": "2025-06-05T17:00:00.000Z",
+        "playstation": "2025-06-03T01:00:00.000Z"
+      },
+      "free": true,
+      "on_sale": false,
+      "best_price_eur": null,
+      "best_store": null,
+      "best_market": null
+    },
+    {
+      "key": "valguero",
+      "name": "ARK: Valguero Ascended",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-10-08T02:18:38.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/3982310/ARK_Valguero_Ascended"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-10-08T02:18:38.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/3982310/ARK_Valguero_Ascended"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-10-08T02:18:38.000Z",
+          "status": "no_price",
+          "url": "https://store.steampowered.com/app/3982310/ARK_Valguero_Ascended"
+        },
+        {
+          "store": "xbox",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-10-08T02:00:00.000Z",
+          "status": "free",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9P4WZPC5P3R9"
+        },
+        {
+          "store": "xbox",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-10-08T02:00:00.000Z",
+          "status": "free",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9P4WZPC5P3R9"
+        },
+        {
+          "store": "xbox",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-10-08T02:00:00.000Z",
+          "status": "free",
+          "url": "https://www.xbox.com/fr-FR/games/store/-/9P4WZPC5P3R9"
+        },
+        {
+          "store": "playstation",
+          "market": "FR/BE",
+          "currency": "EUR",
+          "price": 0,
+          "price_eur": 0,
+          "original": 0,
+          "discount_pct": 0,
+          "offer_until": null,
+          "released_at": "2025-10-08T01:00:00.000Z",
+          "status": "free",
+          "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ASAVALGUERODLC00"
+        }
+      ],
+      "released_at": "2025-10-08T01:00:00.000Z",
+      "released_ts": 1759885200,
+      "released_by_store": {
+        "steam": "2025-10-08T02:18:38.000Z",
+        "xbox": "2025-10-08T02:00:00.000Z",
+        "playstation": "2025-10-08T01:00:00.000Z"
+      },
+      "free": true,
+      "on_sale": false,
+      "best_price_eur": null,
+      "best_store": null,
+      "best_market": null
+    },
+    {
+      "key": "super survival summer",
+      "name": "Super Survival Summer!",
+      "offers": [
+        {
+          "store": "steam",
+          "market": "FR",
+          "currency": "EUR",
+          "price": 215.57,
+          "price_eur": 215.57,
+          "original": 249.65,
+          "discount_pct": 14,
+          "offer_until": "2026-09-08T17:00:00.000Z",
+          "released_at": null,
+          "status": "sale",
+          "url": "https://store.steampowered.com/bundle/69433/"
+        },
+        {
+          "store": "steam",
+          "market": "BE",
+          "currency": "EUR",
+          "price": 215.57,
+          "price_eur": 215.57,
+          "original": 249.65,
+          "discount_pct": 14,
+          "offer_until": "2026-09-08T17:00:00.000Z",
+          "released_at": null,
+          "status": "sale",
+          "url": "https://store.steampowered.com/bundle/69433/"
+        },
+        {
+          "store": "steam",
+          "market": "CA",
+          "currency": "CAD",
+          "price": 279.89,
+          "price_eur": 173.52,
+          "original": 325.41,
+          "discount_pct": 14,
+          "offer_until": "2026-09-08T17:00:00.000Z",
+          "released_at": null,
+          "status": "sale",
+          "url": "https://store.steampowered.com/bundle/69433/"
+        }
+      ],
+      "released_at": null,
+      "released_ts": null,
+      "released_by_store": {},
+      "free": false,
+      "on_sale": true,
+      "best_price_eur": 173.52,
+      "best_store": "steam",
+      "best_market": "CA"
     }
-   ],
-   "free": false,
-   "on_sale": true,
-   "best_price_eur": 1.64,
-   "best_store": "playstation",
-   "best_market": "FR/BE"
-  },
-  {
-   "key": "fantastic tames elderclaw",
-   "name": "ARK Fantastic Tames - Elderclaw",
-   "offers": [
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "bundled",
-     "url": "https://store.steampowered.com/app/3982300/ARK_Fantastic_Tames__Elderclaw"
-    }
-   ],
-   "free": true,
-   "on_sale": false,
-   "best_price_eur": null,
-   "best_store": null,
-   "best_market": null
-  },
-  {
-   "key": "fantastic tames pyromane",
-   "name": "ARK Fantastic Tames - Pyromane",
-   "offers": [
-    {
-     "store": "playstation",
-     "market": "FR/BE",
-     "currency": "EUR",
-     "price": 1.64,
-     "price_eur": 1.64,
-     "original": 4.99,
-     "discount_pct": 0,
-     "offer_until": "2026-09-09T22:59:00.000Z",
-     "status": "sale",
-     "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ASAFIRELIONDLC00"
-    },
-    {
-     "store": "xbox",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 1.64,
-     "price_eur": 1.64,
-     "original": 4.99,
-     "discount_pct": 0,
-     "offer_until": "2026-09-04T09:59:59.0000000Z",
-     "status": "sale",
-     "url": "https://www.xbox.com/fr-FR/games/store/ark-fantastic-tames-pyromane/9n6dq0g4cw2v"
-    },
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 1.64,
-     "price_eur": 1.64,
-     "original": 4.99,
-     "discount_pct": 67,
-     "offer_until": "2026-09-07T17:00:00+00:00",
-     "status": "sale",
-     "url": "https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames__Pyromane"
-    }
-   ],
-   "free": false,
-   "on_sale": true,
-   "best_price_eur": 1.64,
-   "best_store": "playstation",
-   "best_market": "FR/BE"
-  },
-  {
-   "key": "fantastic tames season 1",
-   "name": "ARK Fantastic Tames Season 1",
-   "offers": [
-    {
-     "store": "playstation",
-     "market": "FR/BE",
-     "currency": "EUR",
-     "price": 9.99,
-     "price_eur": 9.99,
-     "original": 9.99,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "sale",
-     "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-FANTASTICSEASON1"
-    },
-    {
-     "store": "xbox",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 9.99,
-     "price_eur": 9.99,
-     "original": 9.99,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "sale",
-     "url": "https://www.xbox.com/fr-FR/games/store/ark-fantastic-tames-season-1/9pjb6t8p7m06"
-    },
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 9.99,
-     "price_eur": 9.99,
-     "original": 9.99,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "sale",
-     "url": "https://store.steampowered.com/app/4558510/ARK_Fantastic_Tames_Season_1"
-    }
-   ],
-   "free": false,
-   "on_sale": false,
-   "best_price_eur": 9.99,
-   "best_store": "playstation",
-   "best_market": "FR/BE"
-  },
-  {
-   "key": "aberration",
-   "name": "ARK: Aberration Ascended",
-   "offers": [
-    {
-     "store": "playstation",
-     "market": "FR/BE",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "free",
-     "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ASAABERRATIONDLC"
-    },
-    {
-     "store": "xbox",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "free",
-     "url": "https://www.xbox.com/fr-FR/games/store/ark-aberration-ascended/9ncmljbdk2vp"
-    },
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "free",
-     "url": "https://store.steampowered.com/app/3059650/ARK_Aberration_Ascended"
-    }
-   ],
-   "free": true,
-   "on_sale": false,
-   "best_price_eur": null,
-   "best_store": null,
-   "best_market": null
-  },
-  {
-   "key": "astraeos",
-   "name": "ARK: Astraeos",
-   "offers": [
-    {
-     "store": "playstation",
-     "market": "FR/BE",
-     "currency": "EUR",
-     "price": 4.94,
-     "price_eur": 4.94,
-     "original": 14.99,
-     "discount_pct": 0,
-     "offer_until": "2026-09-09T22:59:00.000Z",
-     "status": "sale",
-     "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ASAASTRAEOSDLC00"
-    },
-    {
-     "store": "xbox",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 4.94,
-     "price_eur": 4.94,
-     "original": 14.99,
-     "discount_pct": 0,
-     "offer_until": "2026-09-04T09:59:59.0000000Z",
-     "status": "sale",
-     "url": "https://www.xbox.com/fr-FR/games/store/ark-astraeos/9ndwfv6ql35s"
-    },
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 4.94,
-     "price_eur": 4.94,
-     "original": 14.99,
-     "discount_pct": 67,
-     "offer_until": "2026-09-07T17:00:00+00:00",
-     "status": "sale",
-     "url": "https://store.steampowered.com/app/3483400/ARK_Astraeos"
-    }
-   ],
-   "free": false,
-   "on_sale": true,
-   "best_price_eur": 4.94,
-   "best_store": "playstation",
-   "best_market": "FR/BE"
-  },
-  {
-   "key": "big small survive them all",
-   "name": "ARK: Big & Small, Survive them All",
-   "offers": [
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 14.5,
-     "price_eur": 14.5,
-     "original": 58.04,
-     "discount_pct": 75,
-     "offer_until": "2026-09-07T17:00:00+00:00",
-     "status": "sale",
-     "url": "https://store.steampowered.com/bundle/27909/"
-    }
-   ],
-   "free": false,
-   "on_sale": true,
-   "best_price_eur": 14.5,
-   "best_store": "steam",
-   "best_market": "FR"
-  },
-  {
-   "key": "bob s bundle",
-   "name": "ARK: Bob's Bundle (édition)",
-   "offers": [
-    {
-     "store": "playstation",
-     "market": "FR/BE",
-     "currency": "EUR",
-     "price": 59.99,
-     "price_eur": 59.99,
-     "original": 59.99,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "sale",
-     "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ASABOBSBUNDLEDLC"
-    },
-    {
-     "store": "xbox",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 63.49,
-     "price_eur": 63.49,
-     "original": 63.49,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "sale",
-     "url": "https://www.xbox.com/fr-FR/games/store/ark-bobs-bundle/9nf0rtsmr2st"
-    },
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 16.9,
-     "price_eur": 16.9,
-     "original": 59.98,
-     "discount_pct": 72,
-     "offer_until": "2026-09-07T17:00:00+00:00",
-     "status": "sale",
-     "url": "https://store.steampowered.com/bundle/44687/"
-    }
-   ],
-   "free": false,
-   "on_sale": true,
-   "best_price_eur": 16.9,
-   "best_store": "steam",
-   "best_market": "FR"
-  },
-  {
-   "key": "bob s tall tales",
-   "name": "ARK: Bob's Tall Tales",
-   "offers": [
-    {
-     "store": "playstation",
-     "market": "FR/BE",
-     "currency": "EUR",
-     "price": 9.89,
-     "price_eur": 9.89,
-     "original": 29.99,
-     "discount_pct": 0,
-     "offer_until": "2026-09-09T22:59:00.000Z",
-     "status": "sale",
-     "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-BOBSTALLTALES000"
-    },
-    {
-     "store": "xbox",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 9.89,
-     "price_eur": 9.89,
-     "original": 29.99,
-     "discount_pct": 0,
-     "offer_until": "2026-09-04T09:59:59.0000000Z",
-     "status": "sale",
-     "url": "https://www.xbox.com/fr-FR/games/store/ark-bobs-tall-tales/9nlqccngn3dx"
-    },
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 9.89,
-     "price_eur": 9.89,
-     "original": 29.99,
-     "discount_pct": 67,
-     "offer_until": "2026-09-07T17:00:00+00:00",
-     "status": "sale",
-     "url": "https://store.steampowered.com/app/2881150/ARK_Bobs_Tall_Tales"
-    }
-   ],
-   "free": false,
-   "on_sale": true,
-   "best_price_eur": 9.89,
-   "best_store": "playstation",
-   "best_market": "FR/BE"
-  },
-  {
-   "key": "dragontopia",
-   "name": "ARK: Dragontopia",
-   "offers": [
-    {
-     "store": "playstation",
-     "market": "FR/BE",
-     "currency": "EUR",
-     "price": 29.99,
-     "price_eur": 29.99,
-     "original": 29.99,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "sale",
-     "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-DRAGONTOPIADLC01"
-    },
-    {
-     "store": "xbox",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 29.99,
-     "price_eur": 29.99,
-     "original": 29.99,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "sale",
-     "url": "https://www.xbox.com/fr-FR/games/store/ark-dragontopia/9nb7pmz290kx"
-    },
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 29.99,
-     "price_eur": 29.99,
-     "original": 29.99,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "sale",
-     "url": "https://store.steampowered.com/app/4558490/ARK_Dragontopia"
-    }
-   ],
-   "free": false,
-   "on_sale": false,
-   "best_price_eur": 29.99,
-   "best_store": "playstation",
-   "best_market": "FR/BE"
-  },
-  {
-   "key": "extinction",
-   "name": "ARK: Extinction Ascended",
-   "offers": [
-    {
-     "store": "playstation",
-     "market": "FR/BE",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "free",
-     "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ASAEXTINCTIONDLC"
-    },
-    {
-     "store": "xbox",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "free",
-     "url": "https://www.xbox.com/fr-FR/games/store/ark-extinction-ascended/9nnqxqhd415b"
-    },
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "free",
-     "url": "https://store.steampowered.com/app/3349320/ARK_Extinction_Ascended"
-    }
-   ],
-   "free": true,
-   "on_sale": false,
-   "best_price_eur": null,
-   "best_store": null,
-   "best_market": null
-  },
-  {
-   "key": "genesis  part 1",
-   "name": "ARK: Genesis Ascended Part 1",
-   "offers": [
-    {
-     "store": "playstation",
-     "market": "FR/BE",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "free",
-     "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-GENESISASCENDED1"
-    },
-    {
-     "store": "xbox",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "free",
-     "url": "https://www.xbox.com/fr-FR/games/store/ark-genesis-ascended-part-1/9p4nd7m5pkpc"
-    },
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "free",
-     "url": "https://store.steampowered.com/app/4558470/ARK_Genesis_Ascended_Part_1"
-    }
-   ],
-   "free": true,
-   "on_sale": false,
-   "best_price_eur": null,
-   "best_store": null,
-   "best_market": null
-  },
-  {
-   "key": "lost colony",
-   "name": "ARK: Lost Colony",
-   "offers": [
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "bundled",
-     "url": "https://store.steampowered.com/app/3583650/ARK_Lost_Colony"
-    }
-   ],
-   "free": true,
-   "on_sale": false,
-   "best_price_eur": null,
-   "best_store": null,
-   "best_market": null
-  },
-  {
-   "key": "lost colony expansion pass",
-   "name": "ARK: Lost Colony Expansion Pass",
-   "offers": [
-    {
-     "store": "playstation",
-     "market": "FR/BE",
-     "currency": "EUR",
-     "price": 14.99,
-     "price_eur": 14.99,
-     "original": 29.99,
-     "discount_pct": 0,
-     "offer_until": "2026-09-09T22:59:00.000Z",
-     "status": "sale",
-     "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-LOSTCOLONYEXPASS"
-    },
-    {
-     "store": "xbox",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 14.99,
-     "price_eur": 14.99,
-     "original": 29.99,
-     "discount_pct": 0,
-     "offer_until": "2026-09-04T09:59:59.0000000Z",
-     "status": "sale",
-     "url": "https://www.xbox.com/fr-FR/games/store/ark-lost-colony-expansion-pass/9pcsm2rfxt8k"
-    },
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 14.99,
-     "price_eur": 14.99,
-     "original": 29.99,
-     "discount_pct": 50,
-     "offer_until": "2026-09-07T17:00:00+00:00",
-     "status": "sale",
-     "url": "https://store.steampowered.com/app/3720100/ARK_Lost_Colony_Expansion_Pass"
-    }
-   ],
-   "free": false,
-   "on_sale": true,
-   "best_price_eur": 14.99,
-   "best_store": "playstation",
-   "best_market": "FR/BE"
-  },
-  {
-   "key": "lost colony original soundtrack",
-   "name": "ARK: Lost Colony Original Soundtrack",
-   "offers": [
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "bundled",
-     "url": "https://store.steampowered.com/app/4274580/ARK_Lost_Colony_Original_Soundtrack"
-    }
-   ],
-   "free": true,
-   "on_sale": false,
-   "best_price_eur": null,
-   "best_store": null,
-   "best_market": null
-  },
-  {
-   "key": "ragnarok",
-   "name": "ARK: Ragnarok Ascended",
-   "offers": [
-    {
-     "store": "playstation",
-     "market": "FR/BE",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "free",
-     "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ASARAGNAROKDLC00"
-    },
-    {
-     "store": "xbox",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "free",
-     "url": "https://www.xbox.com/fr-FR/games/store/ark-ragnarok-ascended/9pl29w01br9c"
-    },
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "free",
-     "url": "https://store.steampowered.com/app/3675020/ARK_Ragnarok_Ascended"
-    }
-   ],
-   "free": true,
-   "on_sale": false,
-   "best_price_eur": null,
-   "best_store": null,
-   "best_market": null
-  },
-  {
-   "key": "scorched earth",
-   "name": "ARK: Scorched Earth Ascended",
-   "offers": [
-    {
-     "store": "playstation",
-     "market": "FR/BE",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "free",
-     "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-SCORCHEDEARTH000"
-    },
-    {
-     "store": "xbox",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "free",
-     "url": "https://www.xbox.com/fr-FR/games/store/ark-scorched-earth-ascended/9pmxgqm52hzk"
-    },
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "free",
-     "url": "https://store.steampowered.com/app/2849450/ARK_Scorched_Earth_Ascended"
-    }
-   ],
-   "free": true,
-   "on_sale": false,
-   "best_price_eur": null,
-   "best_store": null,
-   "best_market": null
-  },
-  {
-   "key": "survival",
-   "name": "ARK: Survival Ascended (jeu de base)",
-   "offers": [
-    {
-     "store": "playstation",
-     "market": "FR/BE",
-     "currency": "EUR",
-     "price": 11.24,
-     "price_eur": 11.24,
-     "original": 44.99,
-     "discount_pct": 0,
-     "offer_until": "2026-09-09T22:59:00.000Z",
-     "status": "sale",
-     "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-SURVIVALASCENDED"
-    },
-    {
-     "store": "xbox",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 11.24,
-     "price_eur": 11.24,
-     "original": 44.99,
-     "discount_pct": 0,
-     "offer_until": "2026-09-04T09:59:59.0000000Z",
-     "status": "sale",
-     "url": "https://www.xbox.com/fr-FR/games/store/ark-survival-ascended/9p33vjgvphvp"
-    },
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 11.24,
-     "price_eur": 11.24,
-     "original": 44.99,
-     "discount_pct": 75,
-     "offer_until": "2026-09-07T17:00:00+00:00",
-     "status": "sale",
-     "url": "https://store.steampowered.com/app/2399830/ARK_Survival_Ascended"
-    }
-   ],
-   "free": false,
-   "on_sale": true,
-   "best_price_eur": 11.24,
-   "best_store": "playstation",
-   "best_market": "FR/BE"
-  },
-  {
-   "key": "the center",
-   "name": "ARK: The Center Ascended",
-   "offers": [
-    {
-     "store": "playstation",
-     "market": "FR/BE",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "free",
-     "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ASATHECENTERDLC0"
-    },
-    {
-     "store": "xbox",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "free",
-     "url": "https://www.xbox.com/fr-FR/games/store/ark-the-center-ascended/9pchbw1j6tlw"
-    },
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "free",
-     "url": "https://store.steampowered.com/app/2827030/ARK_The_Center_Ascended"
-    }
-   ],
-   "free": true,
-   "on_sale": false,
-   "best_price_eur": null,
-   "best_store": null,
-   "best_market": null
-  },
-  {
-   "key": "tides of fortune",
-   "name": "ARK: Tides of Fortune",
-   "offers": [
-    {
-     "store": "playstation",
-     "market": "FR/BE",
-     "currency": "EUR",
-     "price": 19.99,
-     "price_eur": 19.99,
-     "original": 19.99,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "sale",
-     "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-TIDESOFFORTUNE01"
-    },
-    {
-     "store": "xbox",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 19.99,
-     "price_eur": 19.99,
-     "original": 19.99,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "sale",
-     "url": "https://www.xbox.com/fr-FR/games/store/ark-tides-of-fortune/9nw717hpjdk9"
-    },
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 19.99,
-     "price_eur": 19.99,
-     "original": 19.99,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "sale",
-     "url": "https://store.steampowered.com/app/4558480/ARK_Tides_of_Fortune"
-    }
-   ],
-   "free": false,
-   "on_sale": false,
-   "best_price_eur": 19.99,
-   "best_store": "playstation",
-   "best_market": "FR/BE"
-  },
-  {
-   "key": "valguero",
-   "name": "ARK: Valguero Ascended",
-   "offers": [
-    {
-     "store": "playstation",
-     "market": "FR/BE",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "free",
-     "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ASAVALGUERODLC00"
-    },
-    {
-     "store": "xbox",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "free",
-     "url": "https://www.xbox.com/fr-FR/games/store/ark-valguero-ascended/9p4wzpc5p3r9"
-    },
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 0,
-     "price_eur": 0,
-     "original": 0,
-     "discount_pct": 0,
-     "offer_until": null,
-     "status": "free",
-     "url": "https://store.steampowered.com/app/3982310/ARK_Valguero_Ascended"
-    }
-   ],
-   "free": true,
-   "on_sale": false,
-   "best_price_eur": null,
-   "best_store": null,
-   "best_market": null
-  },
-  {
-   "key": "super survival summer",
-   "name": "Super Survival Summer!",
-   "offers": [
-    {
-     "store": "steam",
-     "market": "FR",
-     "currency": "EUR",
-     "price": 215.57,
-     "price_eur": 215.57,
-     "original": 249.65,
-     "discount_pct": 14,
-     "offer_until": "2026-09-08T17:00:00+00:00",
-     "status": "sale",
-     "url": "https://store.steampowered.com/bundle/69433/"
-    }
-   ],
-   "free": false,
-   "on_sale": true,
-   "best_price_eur": 215.57,
-   "best_store": "steam",
-   "best_market": "FR"
-  }
- ]
+  ]
 }
