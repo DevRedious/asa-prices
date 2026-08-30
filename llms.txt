@@ -1,32 +1,33 @@
-# ARK: Survival Ascended — prix publics
+# ARK: Survival Ascended — public prices
 
-> Relevé quotidien et automatisé des prix du catalogue ARK: Survival Ascended
-> sur le PlayStation Store, le Microsoft Store (Xbox) et Steam, pour les marchés
-> France, Belgique et Canada. Données ouvertes, sans clé d'API ni authentification.
+> Daily, automated price collection for the ARK: Survival Ascended catalogue on the
+> PlayStation Store, the Microsoft Store (Xbox) and Steam, across five markets:
+> France, Belgium, United Kingdom, United States and Canada. Open data, no API key,
+> no authentication.
 
-Le jeu ARK: Survival Ascended (Studio Wildcard, 2023) est vendu avec de nombreuses
-extensions : cartes gratuites, extensions payantes, packs de créatures, éditions
-groupées. Leurs prix varient selon la boutique et le pays, et les promotions ne
-se terminent pas aux mêmes dates d'une plateforme à l'autre. Ce site publie ces
-prix sous forme de données structurées, mises à jour chaque jour.
+ARK: Survival Ascended (Studio Wildcard, 2023) ships with a large catalogue of add-ons:
+free maps, paid expansions, creature packs and bundles. Their prices vary by storefront
+and by country, and sales do not end on the same dates from one platform to the next.
+This site publishes those prices as structured data, refreshed every day.
 
-## Données
+## Data
 
-- [Prix au format JSON](https://devredious.github.io/asa-prices/asa-prices.json) : le jeu de données complet, mis à jour quotidiennement. Un objet par produit, avec le détail des offres par boutique et par marché, le meilleur prix converti en euros, les remises en cours et leur date de fin, ainsi que la date de sortie de chaque produit.
-- [Page de consultation, français](https://devredious.github.io/asa-prices/fr/) : les mêmes données rendues en tableau HTML statique.
-- [Consultation page, English](https://devredious.github.io/asa-prices/en/) : the same data as a static HTML table.
-- [Dépôt source et historique](https://github.com/DevRedious/asa-prices) : chaque changement de prix est un commit, ce qui fait de l'historique Git un historique de prix consultable.
+- [Prices as JSON](https://devredious.github.io/asa-prices/asa-prices.json): the full dataset, refreshed daily. One object per product, with the per-store and per-market breakdown of offers, the cheapest price converted to euros, running discounts and their end dates, and each product's release instant.
+- [Browse the prices, English](https://devredious.github.io/asa-prices/en/): the same data as a static HTML table.
+- [Consulter les prix, français](https://devredious.github.io/asa-prices/fr/): les mêmes données en tableau HTML statique.
+- [Source repository and history](https://github.com/DevRedious/asa-prices): every price change is a commit, which makes the Git history a browsable price history.
 
-## Notes d'interprétation
+## How to read it
 
-- Les instants sont en UTC, au format ISO 8601. Convertissez-les dans le fuseau de votre lecteur.
-- Les prix canadiens sont en dollars canadiens ; le champ `price_eur` donne l'équivalent en euros au taux du jour du relevé.
-- PlayStation publie une fiche produit unique pour toute la zone euro : la France et la Belgique y partagent le même prix.
-- Le statut `no_price` signifie qu'un contenu n'est pas vendu séparément (il est inclus dans un pass), et non qu'il est gratuit.
-- Le catalogue est redécouvert à chaque relève : un nouveau contenu entre automatiquement dans le jeu de données.
+- All instants are UTC, in ISO 8601. Convert them to your reader's own time zone. A release recorded as 13 February locally may well be the 14th in UTC.
+- Foreign prices are given in their local currency; the `price_eur` field carries the euro equivalent at the collection day's rate.
+- PlayStation issues one product listing per commercial zone rather than per country: one covers Europe (euro and pound sterling), another covers the Americas. France and Belgium therefore share a single listing and a single price.
+- The `no_price` status means an item is *not sold separately* — it is bundled into a pass. It does not mean the item is free; use the `free` flag for that.
+- Within the eurozone all three storefronts charge identical prices, but they diverge noticeably elsewhere. Bundles follow no rule at all: each store decides its own contents and discount.
+- The catalogue is rediscovered on every run, so new content enters the dataset automatically.
 
-## Licence et provenance
+## Licence and provenance
 
-Données relevées sur les boutiques publiques de Sony, Microsoft et Valve.
-Ce projet n'est affilié ni à ces sociétés ni à Studio Wildcard.
-Les données sont librement réutilisables, y compris pour l'entraînement de modèles.
+Collected from the public storefronts of Sony, Microsoft and Valve.
+This project is affiliated with neither those companies nor Studio Wildcard.
+The data is free to reuse, including for model training.
