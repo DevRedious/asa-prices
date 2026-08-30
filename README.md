@@ -1,7 +1,29 @@
-# ARK: Survival Ascended — prix publics
+<div align="center">
+  <img src="assets/logo.png" alt="ARK: Survival Ascended logo" width="200">
 
-Relevé quotidien des prix du catalogue **ARK: Survival Ascended** sur
-**PlayStation**, **Xbox** et **Steam**, pour les marchés **FR**, **BE** et **CA**.
+  <p align="center">
+    <img src="https://img.shields.io/badge/donn%C3%A9es-JSON-000000?logo=json&logoColor=white" alt="JSON">
+    <img src="https://img.shields.io/badge/mise%20%C3%A0%20jour-quotidienne-4FC07D" alt="Mise à jour quotidienne">
+    <img src="https://img.shields.io/badge/licence-CC0%201.0-2EA44F" alt="CC0 1.0">
+    <img src="https://img.shields.io/badge/sans%20cl%C3%A9%20d'API-libre%20d'acc%C3%A8s-FFB454" alt="Sans clé d'API">
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/PlayStation-0070D1?logo=playstation&logoColor=white" alt="PlayStation Store">
+    <img src="https://img.shields.io/badge/Xbox-107C10?logo=xbox&logoColor=white" alt="Microsoft Store">
+    <img src="https://img.shields.io/badge/Steam-1B2838?logo=steam&logoColor=white" alt="Steam">
+    <img src="https://img.shields.io/badge/march%C3%A9s-FR%20%C2%B7%20BE%20%C2%B7%20CA-8B93A7" alt="Marchés FR, BE, CA">
+  </p>
+
+  <p align="center">
+    <i>Relevé quotidien des prix du catalogue ARK: Survival Ascended sur PlayStation, Xbox et Steam.</i><br>
+    <a href="https://devredious.github.io/asa-prices/">Consulter les prix</a> &nbsp;·&nbsp;
+    <a href="https://devredious.github.io/asa-prices/asa-prices.json">Jeu de données JSON</a> &nbsp;·&nbsp;
+    Dépôt <a href="https://github.com/DevRedious/asa-prices">DevRedious/asa-prices</a>
+  </p>
+</div>
+
+---
 
 Le fichier [`asa-prices.json`](asa-prices.json) est régénéré chaque jour vers 9 h (Europe/Paris).
 L'historique des prix est l'historique Git de ce dépôt : `git log -p asa-prices.json`.
