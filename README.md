@@ -2,80 +2,94 @@
   <img src="assets/logo.png" alt="ARK: Survival Ascended logo" width="200">
 
   <p align="center">
-    <img src="https://img.shields.io/badge/donn%C3%A9es-JSON-000000?logo=json&logoColor=white" alt="JSON">
-    <img src="https://img.shields.io/badge/mise%20%C3%A0%20jour-quotidienne-4FC07D" alt="Mise à jour quotidienne">
+    <img src="https://img.shields.io/badge/data-JSON-000000?logo=json&logoColor=white" alt="JSON">
+    <img src="https://img.shields.io/badge/updated-daily-4FC07D" alt="Updated daily">
     <img src="https://img.shields.io/badge/licence-CC0%201.0-2EA44F" alt="CC0 1.0">
-    <img src="https://img.shields.io/badge/sans%20cl%C3%A9%20d'API-libre%20d'acc%C3%A8s-FFB454" alt="Sans clé d'API">
+    <img src="https://img.shields.io/badge/no%20API%20key-free%20access-FFB454" alt="No API key">
   </p>
 
   <p align="center">
     <img src="https://img.shields.io/badge/PlayStation-0070D1?logo=playstation&logoColor=white" alt="PlayStation Store">
     <img src="https://img.shields.io/badge/Xbox-107C10?logo=xbox&logoColor=white" alt="Microsoft Store">
     <img src="https://img.shields.io/badge/Steam-1B2838?logo=steam&logoColor=white" alt="Steam">
-    <img src="https://img.shields.io/badge/march%C3%A9s-FR%20%C2%B7%20BE%20%C2%B7%20CA-8B93A7" alt="Marchés FR, BE, CA">
+    <img src="https://img.shields.io/badge/markets-FR%20%C2%B7%20BE%20%C2%B7%20GB%20%C2%B7%20US%20%C2%B7%20CA-8B93A7" alt="Markets">
   </p>
 
   <p align="center">
-    <i>Relevé quotidien des prix du catalogue ARK: Survival Ascended sur PlayStation, Xbox et Steam.</i><br>
-    <a href="https://devredious.github.io/asa-prices/fr/">Consulter les prix</a> &nbsp;·&nbsp;
-    <a href="https://devredious.github.io/asa-prices/en/">English</a> &nbsp;·&nbsp;
-    <a href="https://devredious.github.io/asa-prices/asa-prices.json">Jeu de données JSON</a> &nbsp;·&nbsp;
-    Dépôt <a href="https://github.com/DevRedious/asa-prices">DevRedious/asa-prices</a>
+    <i>Daily price tracking for the ARK: Survival Ascended catalogue on PlayStation, Xbox and Steam.</i><br>
+    <a href="https://devredious.github.io/asa-prices/en/">Browse prices</a> &nbsp;·&nbsp;
+    <a href="https://devredious.github.io/asa-prices/fr/">Français</a> &nbsp;·&nbsp;
+    <a href="https://devredious.github.io/asa-prices/asa-prices.json">JSON dataset</a> &nbsp;·&nbsp;
+    Repository <a href="https://github.com/DevRedious/asa-prices">DevRedious/asa-prices</a>
   </p>
 </div>
 
+> 🇫🇷 Ce document est aussi disponible en [français](docs/README.fr.md).
+
 ---
 
-Le fichier [`asa-prices.json`](asa-prices.json) est régénéré chaque jour vers 9 h (Europe/Paris).
-L'historique des prix est l'historique Git de ce dépôt : `git log -p asa-prices.json`.
+[`asa-prices.json`](asa-prices.json) is rebuilt every day around 09:00 (Europe/Paris),
+covering **five markets** — France, Belgium, United Kingdom, United States and Canada —
+across all three storefronts. The price history is this repository's Git history:
+`git log -p asa-prices.json`.
 
-## Utilisation
+## Usage
 
 ```
 https://devredious.github.io/asa-prices/asa-prices.json
 ```
 
-Le site est publié en français (`/fr/`) et en anglais (`/en/`). La racine aiguille
-selon la langue du navigateur, avec des liens visibles si JavaScript est désactivé.
-
-Fichier statique servi par CDN : appelez-le autant que vous voulez.
+A static file on a CDN: call it as often as you like, no key and no authentication.
 
 ```js
 const data = await fetch('https://devredious.github.io/asa-prices/asa-prices.json').then(r => r.json());
 const astraeos = data.products.find(p => p.name.includes('Astraeos'));
-console.log(astraeos.best_price_eur, astraeos.best_store);   // 4.4 'steam'
+console.log(astraeos.best_price_eur, astraeos.best_store, astraeos.best_market);
 ```
+
+The site is published in English (`/en/`) and French (`/fr/`). The root redirects
+according to the browser's language, with visible links if JavaScript is disabled.
 
 ## Format
 
-| Champ | Sens |
+| Field | Meaning |
 |---|---|
-| `schema` | version du format ; n'augmente qu'en cas de rupture |
-| `generated_at` | horodatage ISO du relevé |
-| `rates` | taux de conversion vers l'euro au moment du relevé |
-| `counts` | nombre de produits, d'offres, et de produits en promotion |
-| `products[]` | un objet par produit, tous magasins confondus |
+| `schema` | format version; only bumped on a breaking change |
+| `generated_at` | ISO 8601 timestamp of the collection run |
+| `rates` | conversion rates to the euro at collection time |
+| `counts` | number of products, offers, and products on sale |
+| `products[]` | one object per product, across every store |
 
-Pour chaque produit :
+For each product:
 
-| Champ | Sens |
+| Field | Meaning |
 |---|---|
-| `name` | libellé le plus complet trouvé parmi les boutiques |
-| `free` | `true` si le produit n'est vendu nulle part (carte gratuite) |
-| `on_sale` | `true` si au moins une boutique le solde |
-| `best_price_eur` / `best_store` / `best_market` | l'offre la moins chère, convertie en euros |
-| `offers[]` | le détail par boutique et par marché |
+| `name` | the most complete label found across the storefronts |
+| `free` | `true` when the item is sold nowhere (a free map) |
+| `on_sale` | `true` when at least one store discounts it |
+| `best_price_eur` / `best_store` / `best_market` | the cheapest offer, converted to euros |
+| `released_at` / `released_ts` | release instant, in UTC and as a Unix timestamp |
+| `released_by_store` | release instant per storefront — they genuinely differ |
+| `offers[]` | the per-store, per-market breakdown |
 
-Et pour chaque offre : `store`, `market`, `currency`, `price`, `price_eur`,
-`original`, `discount_pct`, `offer_until`, `url`, et `status`
-(`sale` vendu · `free` gratuit · `no_price` inclus dans un pass, pas vendu seul).
+And for each offer: `store`, `market`, `currency`, `price`, `price_eur`, `original`,
+`discount_pct`, `offer_until`, `released_at`, `url`, and `status` — `sale` when sold,
+`free` when free, `no_price` when bundled into a pass and not sold separately.
 
-## Précisions
+## Notes
 
-- Les prix canadiens sont convertis à titre indicatif, au taux du jour du relevé.
-- PlayStation publie une fiche unique pour toute la zone euro : la France et la
-  Belgique y partagent le même prix, et le Canada relève d'une autre fiche, non suivie.
-- Le catalogue est redécouvert à chaque passage : un nouveau DLC entre seul dans le suivi.
+- **All instants are UTC**, in ISO 8601. Render them in your reader's own time zone.
+  A release listed as 13 February locally may well be the 14th in UTC.
+- Foreign prices are converted to euros for indication only, at the collection day's rate.
+- **PlayStation issues one product listing per commercial zone, not per country**:
+  one covers Europe (euro and pound sterling), another the Americas. France and
+  Belgium therefore share the same listing and the same price.
+- `no_price` means *not sold separately* — it does not mean free.
+- The catalogue is rediscovered on every run: new content enters the dataset on its own.
+- Prices are identical across all three stores within the eurozone, but diverge
+  noticeably elsewhere. Bundles follow no rule at all: each store sets its own
+  contents and discount.
 
-Données relevées sur les boutiques publiques de Sony, Microsoft et Valve.
-Ce dépôt n'est affilié ni à ces sociétés ni à Studio Wildcard.
+Collected from the public storefronts of Sony, Microsoft and Valve.
+This project is affiliated with neither those companies nor Studio Wildcard.
+All trademarks belong to their respective owners.
