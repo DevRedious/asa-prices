@@ -324,3 +324,5 @@ Exchange rates used to convert to euros: 1 EUR = 0.8572 GBP, 1 EUR = 1.1643 USD,
 
 Status: `sale` sold · `free` free with the game · `no_price` bundled into a pass, not sold separately.
 All instants are UTC. Foreign prices converted for indication only.
+
+Licensed under CC BY 4.0. Credit: ARK: Survival Ascended price data by DevRedious, https://github.com/DevRedious/asa-prices
