@@ -4,7 +4,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/donn%C3%A9es-JSON-000000?logo=json&logoColor=white" alt="JSON">
     <img src="https://img.shields.io/badge/mise%20%C3%A0%20jour-quotidienne-4FC07D" alt="Mise à jour quotidienne">
-    <img src="https://img.shields.io/badge/licence-CC0%201.0-2EA44F" alt="CC0 1.0">
+    <img src="https://img.shields.io/badge/licence-CC%20BY%204.0-2EA44F" alt="CC BY 4.0">
     <img src="https://img.shields.io/badge/sans%20cl%C3%A9%20d'API-libre%20d'acc%C3%A8s-FFB454" alt="Sans clé d'API">
   </p>
 
@@ -81,3 +81,9 @@ Et pour chaque offre : `store`, `market`, `currency`, `price`, `price_eur`,
 
 Données relevées sur les boutiques publiques de Sony, Microsoft et Valve.
 Ce dépôt n'est affilié ni à ces sociétés ni à Studio Wildcard.
+
+## Attribution
+
+Sous licence [CC BY 4.0](../LICENSE). Toute réutilisation doit créditer la source :
+
+> Données de prix ARK: Survival Ascended par DevRedious, CC BY 4.0 — https://github.com/DevRedious/asa-prices

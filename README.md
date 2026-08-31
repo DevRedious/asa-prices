@@ -4,7 +4,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/data-JSON-000000?logo=json&logoColor=white" alt="JSON">
     <img src="https://img.shields.io/badge/updated-daily-4FC07D" alt="Updated daily">
-    <img src="https://img.shields.io/badge/licence-CC0%201.0-2EA44F" alt="CC0 1.0">
+    <img src="https://img.shields.io/badge/licence-CC%20BY%204.0-2EA44F" alt="CC BY 4.0">
     <img src="https://img.shields.io/badge/no%20API%20key-free%20access-FFB454" alt="No API key">
   </p>
 
@@ -93,3 +93,9 @@ And for each offer: `store`, `market`, `currency`, `price`, `price_eur`, `origin
 Collected from the public storefronts of Sony, Microsoft and Valve.
 This project is affiliated with neither those companies nor Studio Wildcard.
 All trademarks belong to their respective owners.
+
+## Attribution
+
+Licensed under [CC BY 4.0](LICENSE). If you reuse this data, credit it:
+
+> ARK: Survival Ascended price data by DevRedious, CC BY 4.0 — https://github.com/DevRedious/asa-prices

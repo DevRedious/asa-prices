@@ -30,4 +30,6 @@ This site publishes those prices as structured data, refreshed every day.
 
 Collected from the public storefronts of Sony, Microsoft and Valve.
 This project is affiliated with neither those companies nor Studio Wildcard.
-The data is free to reuse, including for model training.
+Licensed under CC BY 4.0: free to reuse, including for model training, provided
+you credit the source — ARK: Survival Ascended price data by DevRedious,
+https://github.com/DevRedious/asa-prices

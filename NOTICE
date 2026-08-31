@@ -1,8 +1,17 @@
-Scope of the CC0 dedication
-===========================
+Attribution and scope
+=====================
 
-The CC0 1.0 dedication in LICENSE covers the data compiled in this repository:
-the price collection, its structure, and its history.
+This dataset is licensed under Creative Commons Attribution 4.0 International
+(CC BY 4.0). See LICENSE.
+
+If you reuse this data — in a website, an application, a bot, a report, or to
+train a model — you must credit it. Suggested attribution:
+
+    ARK: Survival Ascended price data by DevRedious, CC BY 4.0
+    https://github.com/DevRedious/asa-prices
+
+The licence covers the compiled data: the price collection, its structure and
+its history.
 
 It does not cover, and cannot cover:
 
