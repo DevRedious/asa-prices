@@ -3,7 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://devredious.github.io/asa-prices/fr/</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="fr" href="https://devredious.github.io/asa-prices/fr/"/>
@@ -12,7 +12,7 @@
   </url>
   <url>
     <loc>https://devredious.github.io/asa-prices/en/</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="fr" href="https://devredious.github.io/asa-prices/fr/"/>
@@ -21,7 +21,7 @@
   </url>
   <url>
     <loc>https://devredious.github.io/asa-prices/asa-prices.json</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
