@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "generated_at": "2026-08-31T02:16:08.657Z",
+  "healthy": true,
+  "warnings": [],
+  "products": 24,
+  "offers": 282,
+  "offers_by_store": {
+    "steam": 120,
+    "xbox": 90,
+    "playstation": 72
+  },
+  "markets": [
+    "FR",
+    "BE",
+    "GB",
+    "US",
+    "CA"
+  ],
+  "on_sale": 10,
+  "recent_changes": 0
+}

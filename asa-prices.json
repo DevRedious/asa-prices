@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-08-31T02:06:37.736Z",
+  "generated_at": "2026-08-31T02:16:08.657Z",
   "game": "ARK: Survival Ascended",
   "markets": [
     "FR",
@@ -5254,5 +5254,6 @@
       "best_store": "steam",
       "best_market": "CA"
     }
-  ]
+  ],
+  "changes": []
 }

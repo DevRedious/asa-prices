@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ARK: Survival Ascended — price changes</title>
+  <subtitle>Price movements across PlayStation, Xbox and Steam</subtitle>
+  <id>https://devredious.github.io/asa-prices/feed.xml</id>
+  <link href="https://devredious.github.io/asa-prices/feed.xml" rel="self"/>
+  <link href="https://devredious.github.io/asa-prices/en/"/>
+  <updated>2026-08-31T02:16:08.657Z</updated>
+  <author><name>DevRedious</name><uri>https://github.com/DevRedious</uri></author>
+  <rights>CC BY 4.0 — ARK: Survival Ascended price data by DevRedious</rights>
+
+</feed>
