@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-08-31T02:18:11.554Z",
+  "generated_at": "2026-09-01T09:01:22.899Z",
   "healthy": true,
   "warnings": [],
   "products": 24,
@@ -18,5 +18,5 @@
     "CA"
   ],
   "on_sale": 10,
-  "recent_changes": 0
+  "recent_changes": 5
 }

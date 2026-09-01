@@ -5,8 +5,42 @@
   <id>https://devredious.github.io/asa-prices/feed.xml</id>
   <link href="https://devredious.github.io/asa-prices/feed.xml" rel="self"/>
   <link href="https://devredious.github.io/asa-prices/en/"/>
-  <updated>2026-08-31T02:18:11.554Z</updated>
+  <updated>2026-09-01T09:01:22.899Z</updated>
   <author><name>DevRedious</name><uri>https://github.com/DevRedious</uri></author>
   <rights>CC BY 4.0 — ARK: Survival Ascended price data by DevRedious</rights>
-
+  <entry>
+    <title>↓ Super Survival Summer! — 279.89 → 246.59 CAD (steam, CA)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-09-01T09:01:22.899Z-steam-CA-Super%20Survival%20Summer!</id>
+    <updated>2026-09-01T09:01:22.899Z</updated>
+    <link href="https://store.steampowered.com/bundle/69433/"/>
+    <summary>Price drop on steam (CA): 279.89 CAD → 246.59 CAD.</summary>
+  </entry>
+  <entry>
+    <title>↓ Super Survival Summer! — 216.84 → 190.59 USD (steam, US)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-09-01T09:01:22.899Z-steam-US-Super%20Survival%20Summer!</id>
+    <updated>2026-09-01T09:01:22.899Z</updated>
+    <link href="https://store.steampowered.com/bundle/69433/"/>
+    <summary>Price drop on steam (US): 216.84 USD → 190.59 USD.</summary>
+  </entry>
+  <entry>
+    <title>↓ Super Survival Summer! — 181.8 → 159.75 GBP (steam, GB)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-09-01T09:01:22.899Z-steam-GB-Super%20Survival%20Summer!</id>
+    <updated>2026-09-01T09:01:22.899Z</updated>
+    <link href="https://store.steampowered.com/bundle/69433/"/>
+    <summary>Price drop on steam (GB): 181.8 GBP → 159.75 GBP.</summary>
+  </entry>
+  <entry>
+    <title>↓ Super Survival Summer! — 215.57 → 189.47 EUR (steam, BE)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-09-01T09:01:22.899Z-steam-BE-Super%20Survival%20Summer!</id>
+    <updated>2026-09-01T09:01:22.899Z</updated>
+    <link href="https://store.steampowered.com/bundle/69433/"/>
+    <summary>Price drop on steam (BE): 215.57 EUR → 189.47 EUR.</summary>
+  </entry>
+  <entry>
+    <title>↓ Super Survival Summer! — 215.57 → 189.47 EUR (steam, FR)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-09-01T09:01:22.899Z-steam-FR-Super%20Survival%20Summer!</id>
+    <updated>2026-09-01T09:01:22.899Z</updated>
+    <link href="https://store.steampowered.com/bundle/69433/"/>
+    <summary>Price drop on steam (FR): 215.57 EUR → 189.47 EUR.</summary>
+  </entry>
 </feed>
