@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-01T09:01:22.899Z",
+  "generated_at": "2026-09-02T09:01:22.288Z",
   "count": 113,
   "at_lowest_known": 113,
   "ends_soonest": "2026-09-04T09:59:59.0000000Z",
@@ -16,7 +16,7 @@
       "discount_pct": 75,
       "ends": "2026-09-07T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/bundle/27909/"
+      "url": "https://store.steampowered.com/bundle/27909/ARK_Big_Small_Survive_them_All"
     },
     {
       "product": "ARK: Big & Small, Survive them All",
@@ -29,7 +29,7 @@
       "discount_pct": 75,
       "ends": "2026-09-07T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/bundle/27909/"
+      "url": "https://store.steampowered.com/bundle/27909/ARK_Big_Small_Survive_them_All"
     },
     {
       "product": "ARK: Big & Small, Survive them All",
@@ -42,7 +42,7 @@
       "discount_pct": 75,
       "ends": "2026-09-07T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/bundle/27909/"
+      "url": "https://store.steampowered.com/bundle/27909/ARK_Big_Small_Survive_them_All"
     },
     {
       "product": "ARK: Big & Small, Survive them All",
@@ -50,12 +50,12 @@
       "market": "US",
       "price": 14.61,
       "currency": "USD",
-      "price_eur": 12.6,
+      "price_eur": 12.61,
       "original": 58.48,
       "discount_pct": 75,
       "ends": "2026-09-07T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/bundle/27909/"
+      "url": "https://store.steampowered.com/bundle/27909/ARK_Big_Small_Survive_them_All"
     },
     {
       "product": "ARK: Big & Small, Survive them All",
@@ -63,12 +63,12 @@
       "market": "CA",
       "price": 19.34,
       "currency": "CAD",
-      "price_eur": 12.01,
+      "price_eur": 12.02,
       "original": 77.39,
       "discount_pct": 75,
       "ends": "2026-09-07T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/bundle/27909/"
+      "url": "https://store.steampowered.com/bundle/27909/ARK_Big_Small_Survive_them_All"
     },
     {
       "product": "ARK: Survival Ascended",
@@ -115,7 +115,7 @@
       "market": "US",
       "price": 11.24,
       "currency": "USD",
-      "price_eur": 9.69,
+      "price_eur": 9.7,
       "original": 44.99,
       "discount_pct": 75,
       "ends": "2026-09-07T17:00:00.000Z",
@@ -180,7 +180,7 @@
       "market": "US",
       "price": 11.24,
       "currency": "USD",
-      "price_eur": 9.69,
+      "price_eur": 9.7,
       "original": 44.99,
       "discount_pct": 75,
       "ends": "2026-09-04T09:59:59.0000000Z",
@@ -232,7 +232,7 @@
       "market": "US",
       "price": 11.24,
       "currency": "USD",
-      "price_eur": 9.69,
+      "price_eur": 9.7,
       "original": 44.99,
       "discount_pct": 75,
       "ends": "2026-09-10T06:59:00.000Z",
@@ -263,7 +263,7 @@
       "discount_pct": 72,
       "ends": "2026-09-07T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/bundle/44687/"
+      "url": "https://store.steampowered.com/bundle/44687/ARK_Bobs_Bundle"
     },
     {
       "product": "ARK: Bob's Bundle",
@@ -276,7 +276,7 @@
       "discount_pct": 72,
       "ends": "2026-09-07T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/bundle/44687/"
+      "url": "https://store.steampowered.com/bundle/44687/ARK_Bobs_Bundle"
     },
     {
       "product": "ARK: Bob's Bundle",
@@ -284,12 +284,12 @@
       "market": "GB",
       "price": 14.18,
       "currency": "GBP",
-      "price_eur": 16.56,
+      "price_eur": 16.55,
       "original": 50.38,
       "discount_pct": 72,
       "ends": "2026-09-07T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/bundle/44687/"
+      "url": "https://store.steampowered.com/bundle/44687/ARK_Bobs_Bundle"
     },
     {
       "product": "ARK: Bob's Bundle",
@@ -297,12 +297,12 @@
       "market": "US",
       "price": 16.9,
       "currency": "USD",
-      "price_eur": 14.57,
+      "price_eur": 14.58,
       "original": 59.98,
       "discount_pct": 72,
       "ends": "2026-09-07T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/bundle/44687/"
+      "url": "https://store.steampowered.com/bundle/44687/ARK_Bobs_Bundle"
     },
     {
       "product": "ARK: Bob's Bundle",
@@ -310,12 +310,12 @@
       "market": "CA",
       "price": 22.82,
       "currency": "CAD",
-      "price_eur": 14.17,
+      "price_eur": 14.18,
       "original": 80.8,
       "discount_pct": 72,
       "ends": "2026-09-07T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/bundle/44687/"
+      "url": "https://store.steampowered.com/bundle/44687/ARK_Bobs_Bundle"
     },
     {
       "product": "ARK Animated Series 109-Costumes Pack",
@@ -510,7 +510,7 @@
       "discount_pct": 67,
       "ends": "2026-09-07T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames__Dreadmare"
+      "url": "https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames_Dreadmare"
     },
     {
       "product": "ARK Fantastic Tames - Dreadmare",
@@ -523,7 +523,7 @@
       "discount_pct": 67,
       "ends": "2026-09-07T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames__Dreadmare"
+      "url": "https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames_Dreadmare"
     },
     {
       "product": "ARK Fantastic Tames - Dreadmare",
@@ -536,7 +536,7 @@
       "discount_pct": 67,
       "ends": "2026-09-07T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames__Dreadmare"
+      "url": "https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames_Dreadmare"
     },
     {
       "product": "ARK Fantastic Tames - Dreadmare",
@@ -544,12 +544,12 @@
       "market": "US",
       "price": 1.64,
       "currency": "USD",
-      "price_eur": 1.41,
+      "price_eur": 1.42,
       "original": 4.99,
       "discount_pct": 67,
       "ends": "2026-09-07T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames__Dreadmare"
+      "url": "https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames_Dreadmare"
     },
     {
       "product": "ARK Fantastic Tames - Dreadmare",
@@ -562,7 +562,7 @@
       "discount_pct": 67,
       "ends": "2026-09-07T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames__Dreadmare"
+      "url": "https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames_Dreadmare"
     },
     {
       "product": "ARK Fantastic Tames - Dreadmare",
@@ -609,7 +609,7 @@
       "market": "US",
       "price": 1.64,
       "currency": "USD",
-      "price_eur": 1.41,
+      "price_eur": 1.42,
       "original": 4.99,
       "discount_pct": 67,
       "ends": "2026-09-04T09:59:59.0000000Z",
@@ -661,7 +661,7 @@
       "market": "US",
       "price": 1.64,
       "currency": "USD",
-      "price_eur": 1.41,
+      "price_eur": 1.42,
       "original": 4.99,
       "discount_pct": 67,
       "ends": "2026-09-10T06:59:00.000Z",
@@ -692,7 +692,7 @@
       "discount_pct": 67,
       "ends": "2026-09-07T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames__Pyromane"
+      "url": "https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames_Pyromane"
     },
     {
       "product": "ARK Fantastic Tames - Pyromane",
@@ -705,7 +705,7 @@
       "discount_pct": 67,
       "ends": "2026-09-07T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames__Pyromane"
+      "url": "https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames_Pyromane"
     },
     {
       "product": "ARK Fantastic Tames - Pyromane",
@@ -718,7 +718,7 @@
       "discount_pct": 67,
       "ends": "2026-09-07T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames__Pyromane"
+      "url": "https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames_Pyromane"
     },
     {
       "product": "ARK Fantastic Tames - Pyromane",
@@ -726,12 +726,12 @@
       "market": "US",
       "price": 1.64,
       "currency": "USD",
-      "price_eur": 1.41,
+      "price_eur": 1.42,
       "original": 4.99,
       "discount_pct": 67,
       "ends": "2026-09-07T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames__Pyromane"
+      "url": "https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames_Pyromane"
     },
     {
       "product": "ARK Fantastic Tames - Pyromane",
@@ -744,7 +744,7 @@
       "discount_pct": 67,
       "ends": "2026-09-07T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames__Pyromane"
+      "url": "https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames_Pyromane"
     },
     {
       "product": "ARK Fantastic Tames - Pyromane",
@@ -791,7 +791,7 @@
       "market": "US",
       "price": 1.64,
       "currency": "USD",
-      "price_eur": 1.41,
+      "price_eur": 1.42,
       "original": 4.99,
       "discount_pct": 67,
       "ends": "2026-09-04T09:59:59.0000000Z",
@@ -843,7 +843,7 @@
       "market": "US",
       "price": 1.64,
       "currency": "USD",
-      "price_eur": 1.41,
+      "price_eur": 1.42,
       "original": 4.99,
       "discount_pct": 67,
       "ends": "2026-09-10T06:59:00.000Z",
@@ -1103,7 +1103,7 @@
       "market": "CA",
       "price": 13.53,
       "currency": "CAD",
-      "price_eur": 8.4,
+      "price_eur": 8.41,
       "original": 41,
       "discount_pct": 67,
       "ends": "2026-09-07T17:00:00.000Z",
@@ -1168,7 +1168,7 @@
       "market": "CA",
       "price": 13.66,
       "currency": "CAD",
-      "price_eur": 8.48,
+      "price_eur": 8.49,
       "original": 41.4,
       "discount_pct": 67,
       "ends": "2026-09-04T09:59:59.0000000Z",
@@ -1402,7 +1402,7 @@
       "market": "CA",
       "price": 19.99,
       "currency": "CAD",
-      "price_eur": 12.41,
+      "price_eur": 12.42,
       "original": 39.99,
       "discount_pct": 50,
       "ends": "2026-09-10T06:59:00.000Z",
@@ -1420,7 +1420,7 @@
       "discount_pct": 24,
       "ends": "2026-09-08T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/bundle/69433/"
+      "url": "https://store.steampowered.com/bundle/69433/Super_Survival_Summer"
     },
     {
       "product": "Super Survival Summer!",
@@ -1433,7 +1433,7 @@
       "discount_pct": 24,
       "ends": "2026-09-08T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/bundle/69433/"
+      "url": "https://store.steampowered.com/bundle/69433/Super_Survival_Summer"
     },
     {
       "product": "Super Survival Summer!",
@@ -1441,12 +1441,12 @@
       "market": "GB",
       "price": 159.75,
       "currency": "GBP",
-      "price_eur": 186.52,
+      "price_eur": 186.5,
       "original": 210.66,
       "discount_pct": 24,
       "ends": "2026-09-08T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/bundle/69433/"
+      "url": "https://store.steampowered.com/bundle/69433/Super_Survival_Summer"
     },
     {
       "product": "Super Survival Summer!",
@@ -1454,12 +1454,12 @@
       "market": "US",
       "price": 190.59,
       "currency": "USD",
-      "price_eur": 164.36,
+      "price_eur": 164.44,
       "original": 251.15,
       "discount_pct": 24,
       "ends": "2026-09-08T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/bundle/69433/"
+      "url": "https://store.steampowered.com/bundle/69433/Super_Survival_Summer"
     },
     {
       "product": "Super Survival Summer!",
@@ -1467,12 +1467,12 @@
       "market": "CA",
       "price": 246.59,
       "currency": "CAD",
-      "price_eur": 153.14,
+      "price_eur": 153.2,
       "original": 325.41,
       "discount_pct": 24,
       "ends": "2026-09-08T17:00:00.000Z",
       "lowest_known": true,
-      "url": "https://store.steampowered.com/bundle/69433/"
+      "url": "https://store.steampowered.com/bundle/69433/Super_Survival_Summer"
     }
   ]
 }
