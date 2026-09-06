@@ -1,4 +1,4 @@
-# ARK: Survival Ascended — prices as of 2026-09-05
+# ARK: Survival Ascended — prices as of 2026-09-06
 
 Daily automated collection from the PlayStation Store, the Microsoft Store (Xbox) and Steam, across 5 markets. 24 products, 282 offers, 10 currently discounted.
 

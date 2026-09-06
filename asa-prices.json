@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-05T09:01:24.047Z",
+  "generated_at": "2026-09-06T09:01:22.535Z",
   "game": "ARK: Survival Ascended",
   "markets": [
     "FR",
@@ -38,7 +38,7 @@
           "price_low": 4.94,
           "price_high": 4.94,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/3571730/ARK_Animated_Series_109Costumes_Pack"
         },
@@ -55,7 +55,7 @@
           "price_low": 4.94,
           "price_high": 4.94,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/3571730/ARK_Animated_Series_109Costumes_Pack"
         },
@@ -72,7 +72,7 @@
           "price_low": 4.22,
           "price_high": 4.22,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/3571730/ARK_Animated_Series_109Costumes_Pack"
         },
@@ -89,7 +89,7 @@
           "price_low": 4.94,
           "price_high": 4.94,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/3571730/ARK_Animated_Series_109Costumes_Pack"
         },
@@ -106,7 +106,7 @@
           "price_low": 7.09,
           "price_high": 7.09,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/3571730/ARK_Animated_Series_109Costumes_Pack"
         },
@@ -123,7 +123,7 @@
           "price_low": 4.94,
           "price_high": 14.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9PD404NWVVWT"
         },
@@ -140,7 +140,7 @@
           "price_low": 4.94,
           "price_high": 14.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9PD404NWVVWT"
         },
@@ -157,7 +157,7 @@
           "price_low": 3.84,
           "price_high": 11.64,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9PD404NWVVWT"
         },
@@ -174,7 +174,7 @@
           "price_low": 4.94,
           "price_high": 14.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9PD404NWVVWT"
         },
@@ -191,7 +191,7 @@
           "price_low": 7.11,
           "price_high": 21.55,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9PD404NWVVWT"
         },
@@ -208,7 +208,7 @@
           "price_low": 4.94,
           "price_high": 4.94,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ANIMATEDSERIES01"
         },
@@ -225,7 +225,7 @@
           "price_low": 3.95,
           "price_high": 3.95,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-gb/product/EP0688-PPSA17101_00-ANIMATEDSERIES01"
         },
@@ -242,7 +242,7 @@
           "price_low": 4.94,
           "price_high": 4.94,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-us/product/UP0691-PPSA16810_00-ANIMATEDSERIES01"
         },
@@ -259,7 +259,7 @@
           "price_low": 6.59,
           "price_high": 6.59,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-ca/product/UP0691-PPSA16810_00-ANIMATEDSERIES01"
         }
@@ -397,7 +397,7 @@
           "price_low": 1.64,
           "price_high": 1.64,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames_Dreadmare"
         },
@@ -414,7 +414,7 @@
           "price_low": 1.64,
           "price_high": 1.64,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames_Dreadmare"
         },
@@ -431,7 +431,7 @@
           "price_low": 1.41,
           "price_high": 1.41,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames_Dreadmare"
         },
@@ -448,7 +448,7 @@
           "price_low": 1.64,
           "price_high": 1.64,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames_Dreadmare"
         },
@@ -465,7 +465,7 @@
           "price_low": 2.24,
           "price_high": 2.24,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames_Dreadmare"
         },
@@ -482,7 +482,7 @@
           "price_low": 1.64,
           "price_high": 4.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9PCZK1GND95Z"
         },
@@ -499,7 +499,7 @@
           "price_low": 1.64,
           "price_high": 4.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9PCZK1GND95Z"
         },
@@ -516,7 +516,7 @@
           "price_low": 1.22,
           "price_high": 3.7,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9PCZK1GND95Z"
         },
@@ -533,7 +533,7 @@
           "price_low": 1.64,
           "price_high": 4.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9PCZK1GND95Z"
         },
@@ -550,7 +550,7 @@
           "price_low": 2.3,
           "price_high": 6.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9PCZK1GND95Z"
         },
@@ -567,7 +567,7 @@
           "price_low": 1.64,
           "price_high": 1.64,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ASADREADMAREDLC1"
         },
@@ -584,7 +584,7 @@
           "price_low": 1.31,
           "price_high": 1.31,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-gb/product/EP0688-PPSA17101_00-ASADREADMAREDLC1"
         },
@@ -601,7 +601,7 @@
           "price_low": 1.64,
           "price_high": 1.64,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-us/product/UP0691-PPSA16810_00-ASADREADMAREDLC1"
         },
@@ -618,7 +618,7 @@
           "price_low": 2.3,
           "price_high": 2.3,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-ca/product/UP0691-PPSA16810_00-ASADREADMAREDLC1"
         }
@@ -756,7 +756,7 @@
           "price_low": 1.64,
           "price_high": 1.64,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames_Pyromane"
         },
@@ -773,7 +773,7 @@
           "price_low": 1.64,
           "price_high": 1.64,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames_Pyromane"
         },
@@ -790,7 +790,7 @@
           "price_low": 1.41,
           "price_high": 1.41,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames_Pyromane"
         },
@@ -807,7 +807,7 @@
           "price_low": 1.64,
           "price_high": 1.64,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames_Pyromane"
         },
@@ -824,7 +824,7 @@
           "price_low": 2.25,
           "price_high": 2.25,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames_Pyromane"
         },
@@ -841,7 +841,7 @@
           "price_low": 1.64,
           "price_high": 4.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9N6DQ0G4CW2V"
         },
@@ -858,7 +858,7 @@
           "price_low": 1.64,
           "price_high": 4.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9N6DQ0G4CW2V"
         },
@@ -875,7 +875,7 @@
           "price_low": 1.22,
           "price_high": 3.7,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9N6DQ0G4CW2V"
         },
@@ -892,7 +892,7 @@
           "price_low": 1.64,
           "price_high": 4.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9N6DQ0G4CW2V"
         },
@@ -909,7 +909,7 @@
           "price_low": 2.3,
           "price_high": 6.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9N6DQ0G4CW2V"
         },
@@ -926,7 +926,7 @@
           "price_low": 1.64,
           "price_high": 1.64,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ASAFIRELIONDLC00"
         },
@@ -943,7 +943,7 @@
           "price_low": 1.31,
           "price_high": 1.31,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-gb/product/EP0688-PPSA17101_00-ASAFIRELIONDLC00"
         },
@@ -960,7 +960,7 @@
           "price_low": 1.64,
           "price_high": 1.64,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-us/product/UP0691-PPSA16810_00-ASAFIRELIONDLC00"
         },
@@ -977,7 +977,7 @@
           "price_low": 2.3,
           "price_high": 2.3,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-ca/product/UP0691-PPSA16810_00-ASAFIRELIONDLC00"
         }
@@ -1013,7 +1013,7 @@
           "price_low": 9.99,
           "price_high": 9.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/4558510/ARK_Fantastic_Tames_Season_1"
         },
@@ -1030,7 +1030,7 @@
           "price_low": 9.99,
           "price_high": 9.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/4558510/ARK_Fantastic_Tames_Season_1"
         },
@@ -1047,7 +1047,7 @@
           "price_low": 7.49,
           "price_high": 7.49,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/4558510/ARK_Fantastic_Tames_Season_1"
         },
@@ -1064,7 +1064,7 @@
           "price_low": 9.99,
           "price_high": 9.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/4558510/ARK_Fantastic_Tames_Season_1"
         },
@@ -1081,7 +1081,7 @@
           "price_low": 13.75,
           "price_high": 13.75,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/4558510/ARK_Fantastic_Tames_Season_1"
         },
@@ -1098,7 +1098,7 @@
           "price_low": 9.99,
           "price_high": 9.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9PJB6T8P7M06"
         },
@@ -1115,7 +1115,7 @@
           "price_low": 9.99,
           "price_high": 9.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9PJB6T8P7M06"
         },
@@ -1132,7 +1132,7 @@
           "price_low": 7.49,
           "price_high": 7.49,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9PJB6T8P7M06"
         },
@@ -1149,7 +1149,7 @@
           "price_low": 9.99,
           "price_high": 9.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9PJB6T8P7M06"
         },
@@ -1166,7 +1166,7 @@
           "price_low": 13.64,
           "price_high": 13.64,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9PJB6T8P7M06"
         },
@@ -1183,7 +1183,7 @@
           "price_low": 9.99,
           "price_high": 9.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-FANTASTICSEASON1"
         },
@@ -1200,7 +1200,7 @@
           "price_low": 7.99,
           "price_high": 7.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-gb/product/EP0688-PPSA17101_00-FANTASTICSEASON1"
         },
@@ -1217,7 +1217,7 @@
           "price_low": 9.99,
           "price_high": 9.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-us/product/UP0691-PPSA16810_00-FANTASTICSEASON1"
         },
@@ -1234,7 +1234,7 @@
           "price_low": 13.49,
           "price_high": 13.49,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-ca/product/UP0691-PPSA16810_00-FANTASTICSEASON1"
         }
@@ -1270,7 +1270,7 @@
           "price_low": 19.99,
           "price_high": 19.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/4558480/ARK_Tides_of_Fortune"
         },
@@ -1287,7 +1287,7 @@
           "price_low": 19.99,
           "price_high": 19.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/4558480/ARK_Tides_of_Fortune"
         },
@@ -1304,7 +1304,7 @@
           "price_low": 17.75,
           "price_high": 17.75,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/4558480/ARK_Tides_of_Fortune"
         },
@@ -1321,7 +1321,7 @@
           "price_low": 19.99,
           "price_high": 19.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/4558480/ARK_Tides_of_Fortune"
         },
@@ -1338,7 +1338,7 @@
           "price_low": 27.99,
           "price_high": 27.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/4558480/ARK_Tides_of_Fortune"
         },
@@ -1355,7 +1355,7 @@
           "price_low": 19.99,
           "price_high": 19.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NW717HPJDK9"
         },
@@ -1372,7 +1372,7 @@
           "price_low": 19.99,
           "price_high": 19.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NW717HPJDK9"
         },
@@ -1389,7 +1389,7 @@
           "price_low": 17.75,
           "price_high": 17.75,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NW717HPJDK9"
         },
@@ -1406,7 +1406,7 @@
           "price_low": 19.99,
           "price_high": 19.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NW717HPJDK9"
         },
@@ -1423,7 +1423,7 @@
           "price_low": 27.99,
           "price_high": 27.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NW717HPJDK9"
         },
@@ -1440,7 +1440,7 @@
           "price_low": 19.99,
           "price_high": 19.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-TIDESOFFORTUNE01"
         },
@@ -1457,7 +1457,7 @@
           "price_low": 15.99,
           "price_high": 15.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-gb/product/EP0688-PPSA17101_00-TIDESOFFORTUNE01"
         },
@@ -1474,7 +1474,7 @@
           "price_low": 19.99,
           "price_high": 19.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-us/product/UP0691-PPSA16810_00-TIDESOFFORTUNE01"
         },
@@ -1491,7 +1491,7 @@
           "price_low": 26.99,
           "price_high": 26.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-ca/product/UP0691-PPSA16810_00-TIDESOFFORTUNE01"
         }
@@ -1784,7 +1784,7 @@
           "price_low": 4.94,
           "price_high": 4.94,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/3483400/ARK_Astraeos"
         },
@@ -1801,7 +1801,7 @@
           "price_low": 4.94,
           "price_high": 4.94,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/3483400/ARK_Astraeos"
         },
@@ -1818,7 +1818,7 @@
           "price_low": 4.22,
           "price_high": 4.22,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/3483400/ARK_Astraeos"
         },
@@ -1835,7 +1835,7 @@
           "price_low": 4.94,
           "price_high": 4.94,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/3483400/ARK_Astraeos"
         },
@@ -1852,7 +1852,7 @@
           "price_low": 7.09,
           "price_high": 7.09,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/3483400/ARK_Astraeos"
         },
@@ -1869,7 +1869,7 @@
           "price_low": 4.94,
           "price_high": 14.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NDWFV6QL35S"
         },
@@ -1886,7 +1886,7 @@
           "price_low": 4.94,
           "price_high": 14.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NDWFV6QL35S"
         },
@@ -1903,7 +1903,7 @@
           "price_low": 3.96,
           "price_high": 12,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NDWFV6QL35S"
         },
@@ -1920,7 +1920,7 @@
           "price_low": 4.94,
           "price_high": 14.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NDWFV6QL35S"
         },
@@ -1937,7 +1937,7 @@
           "price_low": 7.11,
           "price_high": 21.57,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NDWFV6QL35S"
         },
@@ -1954,7 +1954,7 @@
           "price_low": 4.94,
           "price_high": 4.94,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ASAASTRAEOSDLC00"
         },
@@ -1971,7 +1971,7 @@
           "price_low": 3.95,
           "price_high": 3.95,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-gb/product/EP0688-PPSA17101_00-ASAASTRAEOSDLC00"
         },
@@ -1988,7 +1988,7 @@
           "price_low": 4.94,
           "price_high": 4.94,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-us/product/UP0691-PPSA16810_00-ASAASTRAEOSDLC00"
         },
@@ -2005,7 +2005,7 @@
           "price_low": 6.59,
           "price_high": 6.59,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-ca/product/UP0691-PPSA16810_00-ASAASTRAEOSDLC00"
         }
@@ -2041,7 +2041,7 @@
           "price_low": 14.5,
           "price_high": 14.5,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/bundle/27909/ARK_Big_Small_Survive_them_All"
         },
@@ -2058,7 +2058,7 @@
           "price_low": 14.5,
           "price_high": 14.5,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/bundle/27909/ARK_Big_Small_Survive_them_All"
         },
@@ -2075,7 +2075,7 @@
           "price_low": 12.3,
           "price_high": 12.3,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/bundle/27909/ARK_Big_Small_Survive_them_All"
         },
@@ -2092,7 +2092,7 @@
           "price_low": 14.61,
           "price_high": 14.61,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/bundle/27909/ARK_Big_Small_Survive_them_All"
         },
@@ -2109,7 +2109,7 @@
           "price_low": 19.34,
           "price_high": 19.34,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/bundle/27909/ARK_Big_Small_Survive_them_All"
         }
@@ -2141,7 +2141,7 @@
           "price_low": 16.9,
           "price_high": 16.9,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/bundle/44687/ARK_Bobs_Bundle"
         },
@@ -2158,7 +2158,7 @@
           "price_low": 16.9,
           "price_high": 16.9,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/bundle/44687/ARK_Bobs_Bundle"
         },
@@ -2175,7 +2175,7 @@
           "price_low": 14.18,
           "price_high": 14.18,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/bundle/44687/ARK_Bobs_Bundle"
         },
@@ -2192,7 +2192,7 @@
           "price_low": 16.9,
           "price_high": 16.9,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/bundle/44687/ARK_Bobs_Bundle"
         },
@@ -2209,7 +2209,7 @@
           "price_low": 22.82,
           "price_high": 22.82,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/bundle/44687/ARK_Bobs_Bundle"
         },
@@ -2226,7 +2226,7 @@
           "price_low": 63.49,
           "price_high": 63.49,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NF0RTSMR2ST"
         },
@@ -2243,7 +2243,7 @@
           "price_low": 63.99,
           "price_high": 63.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NF0RTSMR2ST"
         },
@@ -2260,7 +2260,7 @@
           "price_low": 49.99,
           "price_high": 49.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NF0RTSMR2ST"
         },
@@ -2277,7 +2277,7 @@
           "price_low": 59.99,
           "price_high": 59.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NF0RTSMR2ST"
         },
@@ -2294,7 +2294,7 @@
           "price_low": 76.99,
           "price_high": 76.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NF0RTSMR2ST"
         },
@@ -2311,7 +2311,7 @@
           "price_low": 59.99,
           "price_high": 59.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-ASABOBSBUNDLEDLC"
         },
@@ -2328,7 +2328,7 @@
           "price_low": 49.99,
           "price_high": 49.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-gb/product/EP0688-PPSA17101_00-ASABOBSBUNDLEDLC"
         },
@@ -2345,7 +2345,7 @@
           "price_low": 59.99,
           "price_high": 59.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-us/product/UP0691-PPSA16810_00-ASABOBSBUNDLEDLC"
         },
@@ -2362,7 +2362,7 @@
           "price_low": 79.99,
           "price_high": 79.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-ca/product/UP0691-PPSA16810_00-ASABOBSBUNDLEDLC"
         }
@@ -2397,7 +2397,7 @@
           "price_low": 9.89,
           "price_high": 9.89,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/2881150/ARK_Bobs_Tall_Tales"
         },
@@ -2414,7 +2414,7 @@
           "price_low": 9.89,
           "price_high": 9.89,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/2881150/ARK_Bobs_Tall_Tales"
         },
@@ -2431,7 +2431,7 @@
           "price_low": 8.24,
           "price_high": 8.24,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/2881150/ARK_Bobs_Tall_Tales"
         },
@@ -2448,7 +2448,7 @@
           "price_low": 9.89,
           "price_high": 9.89,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/2881150/ARK_Bobs_Tall_Tales"
         },
@@ -2465,7 +2465,7 @@
           "price_low": 13.53,
           "price_high": 13.53,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/2881150/ARK_Bobs_Tall_Tales"
         },
@@ -2482,7 +2482,7 @@
           "price_low": 9.89,
           "price_high": 29.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NLQCCNGN3DX"
         },
@@ -2499,7 +2499,7 @@
           "price_low": 9.89,
           "price_high": 29.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NLQCCNGN3DX"
         },
@@ -2516,7 +2516,7 @@
           "price_low": 7.45,
           "price_high": 22.6,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NLQCCNGN3DX"
         },
@@ -2533,7 +2533,7 @@
           "price_low": 9.89,
           "price_high": 29.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NLQCCNGN3DX"
         },
@@ -2550,7 +2550,7 @@
           "price_low": 13.66,
           "price_high": 41.4,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NLQCCNGN3DX"
         },
@@ -2567,7 +2567,7 @@
           "price_low": 9.89,
           "price_high": 9.89,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-BOBSTALLTALES000"
         },
@@ -2584,7 +2584,7 @@
           "price_low": 8.24,
           "price_high": 8.24,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-gb/product/EP0688-PPSA17101_00-BOBSTALLTALES000"
         },
@@ -2601,7 +2601,7 @@
           "price_low": 9.89,
           "price_high": 9.89,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-us/product/UP0691-PPSA16810_00-BOBSTALLTALES000"
         },
@@ -2618,7 +2618,7 @@
           "price_low": 13.19,
           "price_high": 13.19,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-ca/product/UP0691-PPSA16810_00-BOBSTALLTALES000"
         }
@@ -2654,7 +2654,7 @@
           "price_low": 29.99,
           "price_high": 29.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/4558490/ARK_Dragontopia"
         },
@@ -2671,7 +2671,7 @@
           "price_low": 29.99,
           "price_high": 29.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/4558490/ARK_Dragontopia"
         },
@@ -2688,7 +2688,7 @@
           "price_low": 26.75,
           "price_high": 26.75,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/4558490/ARK_Dragontopia"
         },
@@ -2705,7 +2705,7 @@
           "price_low": 29.99,
           "price_high": 29.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/4558490/ARK_Dragontopia"
         },
@@ -2722,7 +2722,7 @@
           "price_low": 41.79,
           "price_high": 41.79,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/4558490/ARK_Dragontopia"
         },
@@ -2739,7 +2739,7 @@
           "price_low": 29.99,
           "price_high": 29.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NB7PMZ290KX"
         },
@@ -2756,7 +2756,7 @@
           "price_low": 29.99,
           "price_high": 29.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NB7PMZ290KX"
         },
@@ -2773,7 +2773,7 @@
           "price_low": 26.75,
           "price_high": 26.75,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NB7PMZ290KX"
         },
@@ -2790,7 +2790,7 @@
           "price_low": 29.99,
           "price_high": 29.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NB7PMZ290KX"
         },
@@ -2807,7 +2807,7 @@
           "price_low": 41.79,
           "price_high": 41.79,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9NB7PMZ290KX"
         },
@@ -2824,7 +2824,7 @@
           "price_low": 29.99,
           "price_high": 29.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-DRAGONTOPIADLC01"
         },
@@ -2841,7 +2841,7 @@
           "price_low": 24.99,
           "price_high": 24.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-gb/product/EP0688-PPSA17101_00-DRAGONTOPIADLC01"
         },
@@ -2858,7 +2858,7 @@
           "price_low": 29.99,
           "price_high": 29.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-us/product/UP0691-PPSA16810_00-DRAGONTOPIADLC01"
         },
@@ -2875,7 +2875,7 @@
           "price_low": 39.99,
           "price_high": 39.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-ca/product/UP0691-PPSA16810_00-DRAGONTOPIADLC01"
         }
@@ -3527,7 +3527,7 @@
           "price_low": 14.99,
           "price_high": 14.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/3720100/ARK_Lost_Colony_Expansion_Pass"
         },
@@ -3544,7 +3544,7 @@
           "price_low": 14.99,
           "price_high": 14.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/3720100/ARK_Lost_Colony_Expansion_Pass"
         },
@@ -3561,7 +3561,7 @@
           "price_low": 14.99,
           "price_high": 14.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/3720100/ARK_Lost_Colony_Expansion_Pass"
         },
@@ -3578,7 +3578,7 @@
           "price_low": 14.99,
           "price_high": 14.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/3720100/ARK_Lost_Colony_Expansion_Pass"
         },
@@ -3595,7 +3595,7 @@
           "price_low": 20.72,
           "price_high": 20.72,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/3720100/ARK_Lost_Colony_Expansion_Pass"
         },
@@ -3612,7 +3612,7 @@
           "price_low": 14.99,
           "price_high": 29.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9PCSM2RFXT8K"
         },
@@ -3629,7 +3629,7 @@
           "price_low": 14.99,
           "price_high": 29.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9PCSM2RFXT8K"
         },
@@ -3646,7 +3646,7 @@
           "price_low": 11.3,
           "price_high": 22.6,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9PCSM2RFXT8K"
         },
@@ -3663,7 +3663,7 @@
           "price_low": 14.99,
           "price_high": 29.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9PCSM2RFXT8K"
         },
@@ -3680,7 +3680,7 @@
           "price_low": 20.7,
           "price_high": 41.4,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9PCSM2RFXT8K"
         },
@@ -3697,7 +3697,7 @@
           "price_low": 14.99,
           "price_high": 14.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-LOSTCOLONYEXPASS"
         },
@@ -3714,7 +3714,7 @@
           "price_low": 12.49,
           "price_high": 12.49,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-gb/product/EP0688-PPSA17101_00-LOSTCOLONYEXPASS"
         },
@@ -3731,7 +3731,7 @@
           "price_low": 14.99,
           "price_high": 14.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-us/product/UP0691-PPSA16810_00-LOSTCOLONYEXPASS"
         },
@@ -3748,7 +3748,7 @@
           "price_low": 19.99,
           "price_high": 19.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-ca/product/UP0691-PPSA16810_00-LOSTCOLONYEXPASS"
         }
@@ -4400,7 +4400,7 @@
           "price_low": 11.24,
           "price_high": 11.24,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/2399830/ARK_Survival_Ascended"
         },
@@ -4417,7 +4417,7 @@
           "price_low": 11.24,
           "price_high": 11.24,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/2399830/ARK_Survival_Ascended"
         },
@@ -4434,7 +4434,7 @@
           "price_low": 9.49,
           "price_high": 9.49,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/2399830/ARK_Survival_Ascended"
         },
@@ -4451,7 +4451,7 @@
           "price_low": 11.24,
           "price_high": 11.24,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/2399830/ARK_Survival_Ascended"
         },
@@ -4468,7 +4468,7 @@
           "price_low": 15,
           "price_high": 15,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/app/2399830/ARK_Survival_Ascended"
         },
@@ -4485,7 +4485,7 @@
           "price_low": 11.24,
           "price_high": 44.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9P33VJGVPHVP"
         },
@@ -4502,7 +4502,7 @@
           "price_low": 11.24,
           "price_high": 44.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9P33VJGVPHVP"
         },
@@ -4519,7 +4519,7 @@
           "price_low": 8.35,
           "price_high": 33.43,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9P33VJGVPHVP"
         },
@@ -4536,7 +4536,7 @@
           "price_low": 11.24,
           "price_high": 44.99,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9P33VJGVPHVP"
         },
@@ -4553,7 +4553,7 @@
           "price_low": 15.44,
           "price_high": 61.76,
           "is_lowest_known": false,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://www.xbox.com/fr-FR/games/store/-/9P33VJGVPHVP"
         },
@@ -4570,7 +4570,7 @@
           "price_low": 11.24,
           "price_high": 11.24,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/fr-fr/product/EP0688-PPSA17101_00-SURVIVALASCENDED"
         },
@@ -4587,7 +4587,7 @@
           "price_low": 9.99,
           "price_high": 9.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-gb/product/EP0688-PPSA17101_00-SURVIVALASCENDED"
         },
@@ -4604,7 +4604,7 @@
           "price_low": 11.24,
           "price_high": 11.24,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-us/product/UP0691-PPSA16810_00-SURVIVALASCENDED"
         },
@@ -4621,7 +4621,7 @@
           "price_low": 14.99,
           "price_high": 14.99,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.playstation.com/en-ca/product/UP0691-PPSA16810_00-SURVIVALASCENDED"
         }
@@ -5171,7 +5171,7 @@
           "price_low": 189.47,
           "price_high": 215.57,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/bundle/69433/Super_Survival_Summer"
         },
@@ -5188,7 +5188,7 @@
           "price_low": 189.47,
           "price_high": 215.57,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/bundle/69433/Super_Survival_Summer"
         },
@@ -5205,7 +5205,7 @@
           "price_low": 159.75,
           "price_high": 181.8,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/bundle/69433/Super_Survival_Summer"
         },
@@ -5222,7 +5222,7 @@
           "price_low": 190.59,
           "price_high": 216.84,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/bundle/69433/Super_Survival_Summer"
         },
@@ -5239,7 +5239,7 @@
           "price_low": 246.59,
           "price_high": 279.89,
           "is_lowest_known": true,
-          "history_days": 7,
+          "history_days": 8,
           "status": "sale",
           "url": "https://store.steampowered.com/bundle/69433/Super_Survival_Summer"
         }
