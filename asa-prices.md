@@ -1,124 +1,124 @@
-# ARK: Survival Ascended — prices as of 2026-09-06
+# ARK: Survival Ascended — prices as of 2026-11-22
 
 Daily automated collection from the PlayStation Store, the Microsoft Store (Xbox) and Steam, across 5 markets. 24 products, 282 offers, 10 currently discounted.
 
 Source: https://devredious.github.io/asa-prices/ · JSON: https://devredious.github.io/asa-prices/asa-prices.json · Repository: https://github.com/DevRedious/asa-prices
 
-Exchange rates used to convert to euros: 1 EUR = 0.85898 GBP, 1 EUR = 1.1622 USD, 1 EUR = 1.6038 CAD.
+Exchange rates used to convert to euros: 1 EUR = 0.83735 GBP, 1 EUR = 1.099 USD, 1 EUR = 1.5723 CAD.
 
 ## Best price per product, all stores and markets
 
 | Product | Best price (EUR) | Store | Market | On sale | Released |
 |---|---|---|---|---|---|
-| ARK Animated Series 109-Costumes Pack | 4.11 | playstation | CA | yes | 2025-03-27 |
+| ARK Animated Series 109-Costumes Pack | 4.19 | playstation | CA | yes | 2025-03-27 |
 | ARK Fantastic Tames - Drakelings | free | — | — | no | 2025-12-18 |
-| ARK Fantastic Tames - Dreadmare | 1.4 | steam | CA | yes | 2024-10-30 |
+| ARK Fantastic Tames - Dreadmare | 1.46 | playstation | CA | yes | 2024-10-30 |
 | ARK Fantastic Tames - Elderclaw | free | — | — | no | 2025-12-18 |
-| ARK Fantastic Tames - Pyromane | 1.4 | steam | CA | yes | 2024-06-05 |
-| ARK Fantastic Tames Season 1 | 8.41 | playstation | CA | no | 2026-05-20 |
-| ARK Tides of Fortune | 16.83 | playstation | CA | no | 2026-07-02 |
+| ARK Fantastic Tames - Pyromane | 1.46 | playstation | CA | yes | 2024-06-05 |
+| ARK Fantastic Tames Season 1 | 6.86 | playstation | CA | yes | 2026-05-20 |
+| ARK Tides of Fortune | 13.73 | playstation | CA | yes | 2026-07-02 |
 | ARK: Aberration Ascended | free | — | — | no | 2024-09-05 |
-| ARK: Astraeos | 4.11 | playstation | CA | yes | 2025-02-14 |
-| ARK: Big & Small, Survive them All | 12.06 | steam | CA | yes | — |
-| ARK: Bob's Bundle | 14.23 | steam | CA | yes | 2024-12-16 |
-| ARK: Bob's Tall Tales | 8.22 | playstation | CA | yes | 2024-04-01 |
-| ARK: Dragontopia | 24.93 | playstation | CA | no | 2026-07-02 |
+| ARK: Astraeos | 4.19 | playstation | CA | yes | 2025-02-14 |
+| ARK: Big & Small, Survive them All | 49.22 | steam | CA | no | — |
+| ARK: Bob's Bundle | 16.15 | xbox | CA | yes | 2024-12-16 |
+| ARK: Bob's Tall Tales | 8.39 | playstation | CA | yes | 2024-04-01 |
+| ARK: Dragontopia | 25.43 | playstation | CA | no | 2026-07-02 |
 | ARK: Extinction Ascended | free | — | — | no | 2024-12-20 |
 | ARK: Genesis Ascended Part 1 | free | — | — | no | 2026-07-02 |
 | ARK: Lost Colony | free | — | — | no | 2025-12-19 |
-| ARK: Lost Colony Expansion Pass | 12.46 | playstation | CA | yes | 2025-06-18 |
+| ARK: Lost Colony Expansion Pass | 12.71 | playstation | CA | yes | 2025-06-18 |
 | ARK: Lost Colony Original Soundtrack | free | — | — | no | 2025-12-25 |
 | ARK: Ragnarok Ascended | free | — | — | no | 2025-06-19 |
 | ARK: Scorched Earth Ascended | free | — | — | no | 2024-04-02 |
-| ARK: Survival Ascended | 9.35 | steam | CA | yes | 2023-10-26 |
+| ARK: Survival Ascended | 9.53 | playstation | CA | yes | 2023-10-26 |
 | ARK: The Center Ascended | free | — | — | no | 2024-06-05 |
 | ARK: Valguero Ascended | free | — | — | no | 2025-10-08 |
-| Super Survival Summer! | 153.75 | steam | CA | yes | — |
+| Super Survival Summer! | 188.37 | steam | CA | no | — |
 
 ## Every offer
 
 | Product | Store | Market | Price | Currency | In EUR | Was | Discount | Sale ends | Status |
 |---|---|---|---|---|---|---|---|---|---|
-| ARK Animated Series 109-Costumes Pack | steam | FR | 4.94 | EUR | 4.94 | 14.99 | 67% | 2026-09-07 | sale |
-| ARK Animated Series 109-Costumes Pack | steam | BE | 4.94 | EUR | 4.94 | 14.99 | 67% | 2026-09-07 | sale |
-| ARK Animated Series 109-Costumes Pack | steam | GB | 4.22 | GBP | 4.91 | 12.79 | 67% | 2026-09-07 | sale |
-| ARK Animated Series 109-Costumes Pack | steam | US | 4.94 | USD | 4.25 | 14.99 | 67% | 2026-09-07 | sale |
-| ARK Animated Series 109-Costumes Pack | steam | CA | 7.09 | CAD | 4.42 | 21.5 | 67% | 2026-09-07 | sale |
+| ARK Animated Series 109-Costumes Pack | steam | FR | 14.99 | EUR | 14.99 | 14.99 | — | — | sale |
+| ARK Animated Series 109-Costumes Pack | steam | BE | 14.99 | EUR | 14.99 | 14.99 | — | — | sale |
+| ARK Animated Series 109-Costumes Pack | steam | GB | 12.79 | GBP | 15.27 | 12.79 | — | — | sale |
+| ARK Animated Series 109-Costumes Pack | steam | US | 14.99 | USD | 13.64 | 14.99 | — | — | sale |
+| ARK Animated Series 109-Costumes Pack | steam | CA | 21.5 | CAD | 13.67 | 21.5 | — | — | sale |
 | ARK Animated Series 109-Costumes Pack | xbox | FR | 14.99 | EUR | 14.99 | 14.99 | — | — | sale |
 | ARK Animated Series 109-Costumes Pack | xbox | BE | 14.99 | EUR | 14.99 | 14.99 | — | — | sale |
-| ARK Animated Series 109-Costumes Pack | xbox | GB | 11.64 | GBP | 13.55 | 11.64 | — | — | sale |
-| ARK Animated Series 109-Costumes Pack | xbox | US | 14.99 | USD | 12.9 | 14.99 | — | — | sale |
-| ARK Animated Series 109-Costumes Pack | xbox | CA | 21.55 | CAD | 13.44 | 21.55 | — | — | sale |
-| ARK Animated Series 109-Costumes Pack | playstation | FR/BE | 4.94 | EUR | 4.94 | 14.99 | 67% | 2026-09-09 | sale |
-| ARK Animated Series 109-Costumes Pack | playstation | GB | 3.95 | GBP | 4.6 | 11.99 | 67% | 2026-09-09 | sale |
-| ARK Animated Series 109-Costumes Pack | playstation | US | 4.94 | USD | 4.25 | 14.99 | 67% | 2026-09-10 | sale |
-| ARK Animated Series 109-Costumes Pack | playstation | CA | 6.59 | CAD | 4.11 | 19.99 | 67% | 2026-09-10 | sale |
+| ARK Animated Series 109-Costumes Pack | xbox | GB | 11.64 | GBP | 13.9 | 11.64 | — | — | sale |
+| ARK Animated Series 109-Costumes Pack | xbox | US | 14.99 | USD | 13.64 | 14.99 | — | — | sale |
+| ARK Animated Series 109-Costumes Pack | xbox | CA | 21.55 | CAD | 13.71 | 21.55 | — | — | sale |
+| ARK Animated Series 109-Costumes Pack | playstation | FR/BE | 4.94 | EUR | 4.94 | 14.99 | 67% | 2026-11-30 | sale |
+| ARK Animated Series 109-Costumes Pack | playstation | GB | 3.95 | GBP | 4.72 | 11.99 | 67% | 2026-11-30 | sale |
+| ARK Animated Series 109-Costumes Pack | playstation | US | 4.94 | USD | 4.49 | 14.99 | 67% | 2026-12-01 | sale |
+| ARK Animated Series 109-Costumes Pack | playstation | CA | 6.59 | CAD | 4.19 | 19.99 | 67% | 2026-12-01 | sale |
 | ARK Fantastic Tames - Drakelings | steam | FR | 0 | EUR | 0 | 0 | — | — | no_price |
 | ARK Fantastic Tames - Drakelings | steam | BE | 0 | EUR | 0 | 0 | — | — | no_price |
 | ARK Fantastic Tames - Drakelings | steam | GB | 0 | GBP | 0 | 0 | — | — | no_price |
 | ARK Fantastic Tames - Drakelings | steam | US | 0 | USD | 0 | 0 | — | — | no_price |
 | ARK Fantastic Tames - Drakelings | steam | CA | 0 | CAD | 0 | 0 | — | — | no_price |
-| ARK Fantastic Tames - Dreadmare | steam | FR | 1.64 | EUR | 1.64 | 4.99 | 67% | 2026-09-07 | sale |
-| ARK Fantastic Tames - Dreadmare | steam | BE | 1.64 | EUR | 1.64 | 4.99 | 67% | 2026-09-07 | sale |
-| ARK Fantastic Tames - Dreadmare | steam | GB | 1.41 | GBP | 1.64 | 4.29 | 67% | 2026-09-07 | sale |
-| ARK Fantastic Tames - Dreadmare | steam | US | 1.64 | USD | 1.41 | 4.99 | 67% | 2026-09-07 | sale |
-| ARK Fantastic Tames - Dreadmare | steam | CA | 2.24 | CAD | 1.4 | 6.8 | 67% | 2026-09-07 | sale |
+| ARK Fantastic Tames - Dreadmare | steam | FR | 4.99 | EUR | 4.99 | 4.99 | — | — | sale |
+| ARK Fantastic Tames - Dreadmare | steam | BE | 4.99 | EUR | 4.99 | 4.99 | — | — | sale |
+| ARK Fantastic Tames - Dreadmare | steam | GB | 4.29 | GBP | 5.12 | 4.29 | — | — | sale |
+| ARK Fantastic Tames - Dreadmare | steam | US | 4.99 | USD | 4.54 | 4.99 | — | — | sale |
+| ARK Fantastic Tames - Dreadmare | steam | CA | 6.8 | CAD | 4.32 | 6.8 | — | — | sale |
 | ARK Fantastic Tames - Dreadmare | xbox | FR | 4.99 | EUR | 4.99 | 4.99 | — | — | sale |
 | ARK Fantastic Tames - Dreadmare | xbox | BE | 4.99 | EUR | 4.99 | 4.99 | — | — | sale |
-| ARK Fantastic Tames - Dreadmare | xbox | GB | 3.7 | GBP | 4.31 | 3.7 | — | — | sale |
-| ARK Fantastic Tames - Dreadmare | xbox | US | 4.99 | USD | 4.29 | 4.99 | — | — | sale |
-| ARK Fantastic Tames - Dreadmare | xbox | CA | 6.99 | CAD | 4.36 | 6.99 | — | — | sale |
-| ARK Fantastic Tames - Dreadmare | playstation | FR/BE | 1.64 | EUR | 1.64 | 4.99 | 67% | 2026-09-09 | sale |
-| ARK Fantastic Tames - Dreadmare | playstation | GB | 1.31 | GBP | 1.53 | 3.99 | 67% | 2026-09-09 | sale |
-| ARK Fantastic Tames - Dreadmare | playstation | US | 1.64 | USD | 1.41 | 4.99 | 67% | 2026-09-10 | sale |
-| ARK Fantastic Tames - Dreadmare | playstation | CA | 2.3 | CAD | 1.43 | 6.99 | 67% | 2026-09-10 | sale |
+| ARK Fantastic Tames - Dreadmare | xbox | GB | 3.7 | GBP | 4.42 | 3.7 | — | — | sale |
+| ARK Fantastic Tames - Dreadmare | xbox | US | 4.99 | USD | 4.54 | 4.99 | — | — | sale |
+| ARK Fantastic Tames - Dreadmare | xbox | CA | 6.99 | CAD | 4.45 | 6.99 | — | — | sale |
+| ARK Fantastic Tames - Dreadmare | playstation | FR/BE | 1.64 | EUR | 1.64 | 4.99 | 67% | 2026-11-30 | sale |
+| ARK Fantastic Tames - Dreadmare | playstation | GB | 1.31 | GBP | 1.56 | 3.99 | 67% | 2026-11-30 | sale |
+| ARK Fantastic Tames - Dreadmare | playstation | US | 1.64 | USD | 1.49 | 4.99 | 67% | 2026-12-01 | sale |
+| ARK Fantastic Tames - Dreadmare | playstation | CA | 2.3 | CAD | 1.46 | 6.99 | 67% | 2026-12-01 | sale |
 | ARK Fantastic Tames - Elderclaw | steam | FR | 0 | EUR | 0 | 0 | — | — | no_price |
 | ARK Fantastic Tames - Elderclaw | steam | BE | 0 | EUR | 0 | 0 | — | — | no_price |
 | ARK Fantastic Tames - Elderclaw | steam | GB | 0 | GBP | 0 | 0 | — | — | no_price |
 | ARK Fantastic Tames - Elderclaw | steam | US | 0 | USD | 0 | 0 | — | — | no_price |
 | ARK Fantastic Tames - Elderclaw | steam | CA | 0 | CAD | 0 | 0 | — | — | no_price |
-| ARK Fantastic Tames - Pyromane | steam | FR | 1.64 | EUR | 1.64 | 4.99 | 67% | 2026-09-07 | sale |
-| ARK Fantastic Tames - Pyromane | steam | BE | 1.64 | EUR | 1.64 | 4.99 | 67% | 2026-09-07 | sale |
-| ARK Fantastic Tames - Pyromane | steam | GB | 1.41 | GBP | 1.64 | 4.29 | 67% | 2026-09-07 | sale |
-| ARK Fantastic Tames - Pyromane | steam | US | 1.64 | USD | 1.41 | 4.99 | 67% | 2026-09-07 | sale |
-| ARK Fantastic Tames - Pyromane | steam | CA | 2.25 | CAD | 1.4 | 6.82 | 67% | 2026-09-07 | sale |
+| ARK Fantastic Tames - Pyromane | steam | FR | 4.99 | EUR | 4.99 | 4.99 | — | — | sale |
+| ARK Fantastic Tames - Pyromane | steam | BE | 4.99 | EUR | 4.99 | 4.99 | — | — | sale |
+| ARK Fantastic Tames - Pyromane | steam | GB | 4.29 | GBP | 5.12 | 4.29 | — | — | sale |
+| ARK Fantastic Tames - Pyromane | steam | US | 4.99 | USD | 4.54 | 4.99 | — | — | sale |
+| ARK Fantastic Tames - Pyromane | steam | CA | 6.82 | CAD | 4.34 | 6.82 | — | — | sale |
 | ARK Fantastic Tames - Pyromane | xbox | FR | 4.99 | EUR | 4.99 | 4.99 | — | — | sale |
 | ARK Fantastic Tames - Pyromane | xbox | BE | 4.99 | EUR | 4.99 | 4.99 | — | — | sale |
-| ARK Fantastic Tames - Pyromane | xbox | GB | 3.7 | GBP | 4.31 | 3.7 | — | — | sale |
-| ARK Fantastic Tames - Pyromane | xbox | US | 4.99 | USD | 4.29 | 4.99 | — | — | sale |
-| ARK Fantastic Tames - Pyromane | xbox | CA | 6.99 | CAD | 4.36 | 6.99 | — | — | sale |
-| ARK Fantastic Tames - Pyromane | playstation | FR/BE | 1.64 | EUR | 1.64 | 4.99 | 67% | 2026-09-09 | sale |
-| ARK Fantastic Tames - Pyromane | playstation | GB | 1.31 | GBP | 1.53 | 3.99 | 67% | 2026-09-09 | sale |
-| ARK Fantastic Tames - Pyromane | playstation | US | 1.64 | USD | 1.41 | 4.99 | 67% | 2026-09-10 | sale |
-| ARK Fantastic Tames - Pyromane | playstation | CA | 2.3 | CAD | 1.43 | 6.99 | 67% | 2026-09-10 | sale |
+| ARK Fantastic Tames - Pyromane | xbox | GB | 3.7 | GBP | 4.42 | 3.7 | — | — | sale |
+| ARK Fantastic Tames - Pyromane | xbox | US | 4.99 | USD | 4.54 | 4.99 | — | — | sale |
+| ARK Fantastic Tames - Pyromane | xbox | CA | 6.99 | CAD | 4.45 | 6.99 | — | — | sale |
+| ARK Fantastic Tames - Pyromane | playstation | FR/BE | 1.64 | EUR | 1.64 | 4.99 | 67% | 2026-11-30 | sale |
+| ARK Fantastic Tames - Pyromane | playstation | GB | 1.31 | GBP | 1.56 | 3.99 | 67% | 2026-11-30 | sale |
+| ARK Fantastic Tames - Pyromane | playstation | US | 1.64 | USD | 1.49 | 4.99 | 67% | 2026-12-01 | sale |
+| ARK Fantastic Tames - Pyromane | playstation | CA | 2.3 | CAD | 1.46 | 6.99 | 67% | 2026-12-01 | sale |
 | ARK Fantastic Tames Season 1 | steam | FR | 9.99 | EUR | 9.99 | 9.99 | — | — | sale |
 | ARK Fantastic Tames Season 1 | steam | BE | 9.99 | EUR | 9.99 | 9.99 | — | — | sale |
-| ARK Fantastic Tames Season 1 | steam | GB | 7.49 | GBP | 8.72 | 7.49 | — | — | sale |
-| ARK Fantastic Tames Season 1 | steam | US | 9.99 | USD | 8.6 | 9.99 | — | — | sale |
-| ARK Fantastic Tames Season 1 | steam | CA | 13.75 | CAD | 8.57 | 13.75 | — | — | sale |
+| ARK Fantastic Tames Season 1 | steam | GB | 7.49 | GBP | 8.94 | 7.49 | — | — | sale |
+| ARK Fantastic Tames Season 1 | steam | US | 9.99 | USD | 9.09 | 9.99 | — | — | sale |
+| ARK Fantastic Tames Season 1 | steam | CA | 13.75 | CAD | 8.75 | 13.75 | — | — | sale |
 | ARK Fantastic Tames Season 1 | xbox | FR | 9.99 | EUR | 9.99 | 9.99 | — | — | sale |
 | ARK Fantastic Tames Season 1 | xbox | BE | 9.99 | EUR | 9.99 | 9.99 | — | — | sale |
-| ARK Fantastic Tames Season 1 | xbox | GB | 7.49 | GBP | 8.72 | 7.49 | — | — | sale |
-| ARK Fantastic Tames Season 1 | xbox | US | 9.99 | USD | 8.6 | 9.99 | — | — | sale |
-| ARK Fantastic Tames Season 1 | xbox | CA | 13.64 | CAD | 8.5 | 13.64 | — | — | sale |
-| ARK Fantastic Tames Season 1 | playstation | FR/BE | 9.99 | EUR | 9.99 | 9.99 | — | — | sale |
-| ARK Fantastic Tames Season 1 | playstation | GB | 7.99 | GBP | 9.3 | 7.99 | — | — | sale |
-| ARK Fantastic Tames Season 1 | playstation | US | 9.99 | USD | 8.6 | 9.99 | — | — | sale |
-| ARK Fantastic Tames Season 1 | playstation | CA | 13.49 | CAD | 8.41 | 13.49 | — | — | sale |
+| ARK Fantastic Tames Season 1 | xbox | GB | 7.49 | GBP | 8.94 | 7.49 | — | — | sale |
+| ARK Fantastic Tames Season 1 | xbox | US | 9.99 | USD | 9.09 | 9.99 | — | — | sale |
+| ARK Fantastic Tames Season 1 | xbox | CA | 13.64 | CAD | 8.68 | 13.64 | — | — | sale |
+| ARK Fantastic Tames Season 1 | playstation | FR/BE | 7.99 | EUR | 7.99 | 9.99 | 20% | 2026-11-30 | sale |
+| ARK Fantastic Tames Season 1 | playstation | GB | 6.39 | GBP | 7.63 | 7.99 | 20% | 2026-11-30 | sale |
+| ARK Fantastic Tames Season 1 | playstation | US | 7.99 | USD | 7.27 | 9.99 | 20% | 2026-12-01 | sale |
+| ARK Fantastic Tames Season 1 | playstation | CA | 10.79 | CAD | 6.86 | 13.49 | 20% | 2026-12-01 | sale |
 | ARK Tides of Fortune | steam | FR | 19.99 | EUR | 19.99 | 19.99 | — | — | sale |
 | ARK Tides of Fortune | steam | BE | 19.99 | EUR | 19.99 | 19.99 | — | — | sale |
-| ARK Tides of Fortune | steam | GB | 17.75 | GBP | 20.66 | 17.75 | — | — | sale |
-| ARK Tides of Fortune | steam | US | 19.99 | USD | 17.2 | 19.99 | — | — | sale |
-| ARK Tides of Fortune | steam | CA | 27.99 | CAD | 17.45 | 27.99 | — | — | sale |
+| ARK Tides of Fortune | steam | GB | 17.75 | GBP | 21.2 | 17.75 | — | — | sale |
+| ARK Tides of Fortune | steam | US | 19.99 | USD | 18.19 | 19.99 | — | — | sale |
+| ARK Tides of Fortune | steam | CA | 27.99 | CAD | 17.8 | 27.99 | — | — | sale |
 | ARK Tides of Fortune | xbox | FR | 19.99 | EUR | 19.99 | 19.99 | — | — | sale |
 | ARK Tides of Fortune | xbox | BE | 19.99 | EUR | 19.99 | 19.99 | — | — | sale |
-| ARK Tides of Fortune | xbox | GB | 17.75 | GBP | 20.66 | 17.75 | — | — | sale |
-| ARK Tides of Fortune | xbox | US | 19.99 | USD | 17.2 | 19.99 | — | — | sale |
-| ARK Tides of Fortune | xbox | CA | 27.99 | CAD | 17.45 | 27.99 | — | — | sale |
-| ARK Tides of Fortune | playstation | FR/BE | 19.99 | EUR | 19.99 | 19.99 | — | — | sale |
-| ARK Tides of Fortune | playstation | GB | 15.99 | GBP | 18.62 | 15.99 | — | — | sale |
-| ARK Tides of Fortune | playstation | US | 19.99 | USD | 17.2 | 19.99 | — | — | sale |
-| ARK Tides of Fortune | playstation | CA | 26.99 | CAD | 16.83 | 26.99 | — | — | sale |
+| ARK Tides of Fortune | xbox | GB | 17.75 | GBP | 21.2 | 17.75 | — | — | sale |
+| ARK Tides of Fortune | xbox | US | 19.99 | USD | 18.19 | 19.99 | — | — | sale |
+| ARK Tides of Fortune | xbox | CA | 27.99 | CAD | 17.8 | 27.99 | — | — | sale |
+| ARK Tides of Fortune | playstation | FR/BE | 15.99 | EUR | 15.99 | 19.99 | 20% | 2026-11-30 | sale |
+| ARK Tides of Fortune | playstation | GB | 12.79 | GBP | 15.27 | 15.99 | 20% | 2026-11-30 | sale |
+| ARK Tides of Fortune | playstation | US | 15.99 | USD | 14.55 | 19.99 | 20% | 2026-12-01 | sale |
+| ARK Tides of Fortune | playstation | CA | 21.59 | CAD | 13.73 | 26.99 | 20% | 2026-12-01 | sale |
 | ARK: Aberration Ascended | steam | FR | 0 | EUR | 0 | 0 | — | — | no_price |
 | ARK: Aberration Ascended | steam | BE | 0 | EUR | 0 | 0 | — | — | no_price |
 | ARK: Aberration Ascended | steam | GB | 0 | GBP | 0 | 0 | — | — | no_price |
@@ -133,67 +133,67 @@ Exchange rates used to convert to euros: 1 EUR = 0.85898 GBP, 1 EUR = 1.1622 USD
 | ARK: Aberration Ascended | playstation | GB | 0 | GBP | 0 | 0 | — | — | free |
 | ARK: Aberration Ascended | playstation | US | 0 | USD | 0 | 0 | — | — | free |
 | ARK: Aberration Ascended | playstation | CA | 0 | CAD | 0 | 0 | — | — | free |
-| ARK: Astraeos | steam | FR | 4.94 | EUR | 4.94 | 14.99 | 67% | 2026-09-07 | sale |
-| ARK: Astraeos | steam | BE | 4.94 | EUR | 4.94 | 14.99 | 67% | 2026-09-07 | sale |
-| ARK: Astraeos | steam | GB | 4.22 | GBP | 4.91 | 12.79 | 67% | 2026-09-07 | sale |
-| ARK: Astraeos | steam | US | 4.94 | USD | 4.25 | 14.99 | 67% | 2026-09-07 | sale |
-| ARK: Astraeos | steam | CA | 7.09 | CAD | 4.42 | 21.49 | 67% | 2026-09-07 | sale |
+| ARK: Astraeos | steam | FR | 14.99 | EUR | 14.99 | 14.99 | — | — | sale |
+| ARK: Astraeos | steam | BE | 14.99 | EUR | 14.99 | 14.99 | — | — | sale |
+| ARK: Astraeos | steam | GB | 12.79 | GBP | 15.27 | 12.79 | — | — | sale |
+| ARK: Astraeos | steam | US | 14.99 | USD | 13.64 | 14.99 | — | — | sale |
+| ARK: Astraeos | steam | CA | 21.49 | CAD | 13.67 | 21.49 | — | — | sale |
 | ARK: Astraeos | xbox | FR | 14.99 | EUR | 14.99 | 14.99 | — | — | sale |
 | ARK: Astraeos | xbox | BE | 14.99 | EUR | 14.99 | 14.99 | — | — | sale |
-| ARK: Astraeos | xbox | GB | 12 | GBP | 13.97 | 12 | — | — | sale |
-| ARK: Astraeos | xbox | US | 14.99 | USD | 12.9 | 14.99 | — | — | sale |
-| ARK: Astraeos | xbox | CA | 21.57 | CAD | 13.45 | 21.57 | — | — | sale |
-| ARK: Astraeos | playstation | FR/BE | 4.94 | EUR | 4.94 | 14.99 | 67% | 2026-09-09 | sale |
-| ARK: Astraeos | playstation | GB | 3.95 | GBP | 4.6 | 11.99 | 67% | 2026-09-09 | sale |
-| ARK: Astraeos | playstation | US | 4.94 | USD | 4.25 | 14.99 | 67% | 2026-09-10 | sale |
-| ARK: Astraeos | playstation | CA | 6.59 | CAD | 4.11 | 19.99 | 67% | 2026-09-10 | sale |
-| ARK: Big & Small, Survive them All | steam | FR | 14.5 | EUR | 14.5 | 58.04 | 75% | 2026-09-07 | sale |
-| ARK: Big & Small, Survive them All | steam | BE | 14.5 | EUR | 14.5 | 58.04 | 75% | 2026-09-07 | sale |
-| ARK: Big & Small, Survive them All | steam | GB | 12.3 | GBP | 14.32 | 49.26 | 75% | 2026-09-07 | sale |
-| ARK: Big & Small, Survive them All | steam | US | 14.61 | USD | 12.57 | 58.48 | 75% | 2026-09-07 | sale |
-| ARK: Big & Small, Survive them All | steam | CA | 19.34 | CAD | 12.06 | 77.39 | 75% | 2026-09-07 | sale |
-| ARK: Bob's Bundle | steam | FR | 16.9 | EUR | 16.9 | 59.98 | 72% | 2026-09-07 | sale |
-| ARK: Bob's Bundle | steam | BE | 16.9 | EUR | 16.9 | 59.98 | 72% | 2026-09-07 | sale |
-| ARK: Bob's Bundle | steam | GB | 14.18 | GBP | 16.51 | 50.38 | 72% | 2026-09-07 | sale |
-| ARK: Bob's Bundle | steam | US | 16.9 | USD | 14.54 | 59.98 | 72% | 2026-09-07 | sale |
-| ARK: Bob's Bundle | steam | CA | 22.82 | CAD | 14.23 | 80.8 | 72% | 2026-09-07 | sale |
-| ARK: Bob's Bundle | xbox | FR | 63.49 | EUR | 63.49 | 63.49 | — | — | sale |
-| ARK: Bob's Bundle | xbox | BE | 63.99 | EUR | 63.99 | 63.99 | — | — | sale |
-| ARK: Bob's Bundle | xbox | GB | 49.99 | GBP | 58.2 | 49.99 | — | — | sale |
-| ARK: Bob's Bundle | xbox | US | 59.99 | USD | 51.62 | 59.99 | — | — | sale |
-| ARK: Bob's Bundle | xbox | CA | 76.99 | CAD | 48 | 76.99 | — | — | sale |
+| ARK: Astraeos | xbox | GB | 12 | GBP | 14.33 | 12 | — | — | sale |
+| ARK: Astraeos | xbox | US | 14.99 | USD | 13.64 | 14.99 | — | — | sale |
+| ARK: Astraeos | xbox | CA | 21.57 | CAD | 13.72 | 21.57 | — | — | sale |
+| ARK: Astraeos | playstation | FR/BE | 4.94 | EUR | 4.94 | 14.99 | 67% | 2026-11-30 | sale |
+| ARK: Astraeos | playstation | GB | 3.95 | GBP | 4.72 | 11.99 | 67% | 2026-11-30 | sale |
+| ARK: Astraeos | playstation | US | 4.94 | USD | 4.49 | 14.99 | 67% | 2026-12-01 | sale |
+| ARK: Astraeos | playstation | CA | 6.59 | CAD | 4.19 | 19.99 | 67% | 2026-12-01 | sale |
+| ARK: Big & Small, Survive them All | steam | FR | 58.04 | EUR | 58.04 | 58.04 | — | — | sale |
+| ARK: Big & Small, Survive them All | steam | BE | 58.04 | EUR | 58.04 | 58.04 | — | — | sale |
+| ARK: Big & Small, Survive them All | steam | GB | 49.26 | GBP | 58.83 | 49.26 | — | — | sale |
+| ARK: Big & Small, Survive them All | steam | US | 58.48 | USD | 53.21 | 58.48 | — | — | sale |
+| ARK: Big & Small, Survive them All | steam | CA | 77.39 | CAD | 49.22 | 77.39 | — | — | sale |
+| ARK: Bob's Bundle | steam | FR | 59.98 | EUR | 59.98 | 59.98 | — | — | sale |
+| ARK: Bob's Bundle | steam | BE | 59.98 | EUR | 59.98 | 59.98 | — | — | sale |
+| ARK: Bob's Bundle | steam | GB | 50.38 | GBP | 60.17 | 50.38 | — | — | sale |
+| ARK: Bob's Bundle | steam | US | 59.98 | USD | 54.58 | 59.98 | — | — | sale |
+| ARK: Bob's Bundle | steam | CA | 80.8 | CAD | 51.39 | 80.8 | — | — | sale |
+| ARK: Bob's Bundle | xbox | FR | 20.95 | EUR | 20.95 | 63.49 | 67% | 2026-12-03 | sale |
+| ARK: Bob's Bundle | xbox | BE | 21.11 | EUR | 21.11 | 63.99 | 67% | 2026-12-03 | sale |
+| ARK: Bob's Bundle | xbox | GB | 16.49 | GBP | 19.69 | 49.99 | 67% | 2026-12-03 | sale |
+| ARK: Bob's Bundle | xbox | US | 19.79 | USD | 18.01 | 59.99 | 67% | 2026-12-03 | sale |
+| ARK: Bob's Bundle | xbox | CA | 25.4 | CAD | 16.15 | 76.99 | 67% | 2026-12-03 | sale |
 | ARK: Bob's Bundle | playstation | FR/BE | 59.99 | EUR | 59.99 | 59.99 | — | — | sale |
-| ARK: Bob's Bundle | playstation | GB | 49.99 | GBP | 58.2 | 49.99 | — | — | sale |
-| ARK: Bob's Bundle | playstation | US | 59.99 | USD | 51.62 | 59.99 | — | — | sale |
-| ARK: Bob's Bundle | playstation | CA | 79.99 | CAD | 49.88 | 79.99 | — | — | sale |
-| ARK: Bob's Tall Tales | steam | FR | 9.89 | EUR | 9.89 | 29.99 | 67% | 2026-09-07 | sale |
-| ARK: Bob's Tall Tales | steam | BE | 9.89 | EUR | 9.89 | 29.99 | 67% | 2026-09-07 | sale |
-| ARK: Bob's Tall Tales | steam | GB | 8.24 | GBP | 9.59 | 24.99 | 67% | 2026-09-07 | sale |
-| ARK: Bob's Tall Tales | steam | US | 9.89 | USD | 8.51 | 29.99 | 67% | 2026-09-07 | sale |
-| ARK: Bob's Tall Tales | steam | CA | 13.53 | CAD | 8.44 | 41 | 67% | 2026-09-07 | sale |
+| ARK: Bob's Bundle | playstation | GB | 49.99 | GBP | 59.7 | 49.99 | — | — | sale |
+| ARK: Bob's Bundle | playstation | US | 59.99 | USD | 54.59 | 59.99 | — | — | sale |
+| ARK: Bob's Bundle | playstation | CA | 79.99 | CAD | 50.87 | 79.99 | — | — | sale |
+| ARK: Bob's Tall Tales | steam | FR | 29.99 | EUR | 29.99 | 29.99 | — | — | sale |
+| ARK: Bob's Tall Tales | steam | BE | 29.99 | EUR | 29.99 | 29.99 | — | — | sale |
+| ARK: Bob's Tall Tales | steam | GB | 24.99 | GBP | 29.84 | 24.99 | — | — | sale |
+| ARK: Bob's Tall Tales | steam | US | 29.99 | USD | 27.29 | 29.99 | — | — | sale |
+| ARK: Bob's Tall Tales | steam | CA | 41 | CAD | 26.08 | 41 | — | — | sale |
 | ARK: Bob's Tall Tales | xbox | FR | 29.99 | EUR | 29.99 | 29.99 | — | — | sale |
 | ARK: Bob's Tall Tales | xbox | BE | 29.99 | EUR | 29.99 | 29.99 | — | — | sale |
-| ARK: Bob's Tall Tales | xbox | GB | 22.6 | GBP | 26.31 | 22.6 | — | — | sale |
-| ARK: Bob's Tall Tales | xbox | US | 29.99 | USD | 25.8 | 29.99 | — | — | sale |
-| ARK: Bob's Tall Tales | xbox | CA | 41.4 | CAD | 25.81 | 41.4 | — | — | sale |
-| ARK: Bob's Tall Tales | playstation | FR/BE | 9.89 | EUR | 9.89 | 29.99 | 67% | 2026-09-09 | sale |
-| ARK: Bob's Tall Tales | playstation | GB | 8.24 | GBP | 9.59 | 24.99 | 67% | 2026-09-09 | sale |
-| ARK: Bob's Tall Tales | playstation | US | 9.89 | USD | 8.51 | 29.99 | 67% | 2026-09-10 | sale |
-| ARK: Bob's Tall Tales | playstation | CA | 13.19 | CAD | 8.22 | 39.99 | 67% | 2026-09-10 | sale |
+| ARK: Bob's Tall Tales | xbox | GB | 22.6 | GBP | 26.99 | 22.6 | — | — | sale |
+| ARK: Bob's Tall Tales | xbox | US | 29.99 | USD | 27.29 | 29.99 | — | — | sale |
+| ARK: Bob's Tall Tales | xbox | CA | 41.4 | CAD | 26.33 | 41.4 | — | — | sale |
+| ARK: Bob's Tall Tales | playstation | FR/BE | 9.89 | EUR | 9.89 | 29.99 | 67% | 2026-11-30 | sale |
+| ARK: Bob's Tall Tales | playstation | GB | 8.24 | GBP | 9.84 | 24.99 | 67% | 2026-11-30 | sale |
+| ARK: Bob's Tall Tales | playstation | US | 9.89 | USD | 9 | 29.99 | 67% | 2026-12-01 | sale |
+| ARK: Bob's Tall Tales | playstation | CA | 13.19 | CAD | 8.39 | 39.99 | 67% | 2026-12-01 | sale |
 | ARK: Dragontopia | steam | FR | 29.99 | EUR | 29.99 | 29.99 | — | — | sale |
 | ARK: Dragontopia | steam | BE | 29.99 | EUR | 29.99 | 29.99 | — | — | sale |
-| ARK: Dragontopia | steam | GB | 26.75 | GBP | 31.14 | 26.75 | — | — | sale |
-| ARK: Dragontopia | steam | US | 29.99 | USD | 25.8 | 29.99 | — | — | sale |
-| ARK: Dragontopia | steam | CA | 41.79 | CAD | 26.06 | 41.79 | — | — | sale |
+| ARK: Dragontopia | steam | GB | 26.75 | GBP | 31.95 | 26.75 | — | — | sale |
+| ARK: Dragontopia | steam | US | 29.99 | USD | 27.29 | 29.99 | — | — | sale |
+| ARK: Dragontopia | steam | CA | 41.79 | CAD | 26.58 | 41.79 | — | — | sale |
 | ARK: Dragontopia | xbox | FR | 29.99 | EUR | 29.99 | 29.99 | — | — | sale |
 | ARK: Dragontopia | xbox | BE | 29.99 | EUR | 29.99 | 29.99 | — | — | sale |
-| ARK: Dragontopia | xbox | GB | 26.75 | GBP | 31.14 | 26.75 | — | — | sale |
-| ARK: Dragontopia | xbox | US | 29.99 | USD | 25.8 | 29.99 | — | — | sale |
-| ARK: Dragontopia | xbox | CA | 41.79 | CAD | 26.06 | 41.79 | — | — | sale |
+| ARK: Dragontopia | xbox | GB | 26.75 | GBP | 31.95 | 26.75 | — | — | sale |
+| ARK: Dragontopia | xbox | US | 29.99 | USD | 27.29 | 29.99 | — | — | sale |
+| ARK: Dragontopia | xbox | CA | 41.79 | CAD | 26.58 | 41.79 | — | — | sale |
 | ARK: Dragontopia | playstation | FR/BE | 29.99 | EUR | 29.99 | 29.99 | — | — | sale |
-| ARK: Dragontopia | playstation | GB | 24.99 | GBP | 29.09 | 24.99 | — | — | sale |
-| ARK: Dragontopia | playstation | US | 29.99 | USD | 25.8 | 29.99 | — | — | sale |
-| ARK: Dragontopia | playstation | CA | 39.99 | CAD | 24.93 | 39.99 | — | — | sale |
+| ARK: Dragontopia | playstation | GB | 24.99 | GBP | 29.84 | 24.99 | — | — | sale |
+| ARK: Dragontopia | playstation | US | 29.99 | USD | 27.29 | 29.99 | — | — | sale |
+| ARK: Dragontopia | playstation | CA | 39.99 | CAD | 25.43 | 39.99 | — | — | sale |
 | ARK: Extinction Ascended | steam | FR | 0 | EUR | 0 | 0 | — | — | no_price |
 | ARK: Extinction Ascended | steam | BE | 0 | EUR | 0 | 0 | — | — | no_price |
 | ARK: Extinction Ascended | steam | GB | 0 | GBP | 0 | 0 | — | — | no_price |
@@ -227,20 +227,20 @@ Exchange rates used to convert to euros: 1 EUR = 0.85898 GBP, 1 EUR = 1.1622 USD
 | ARK: Lost Colony | steam | GB | 0 | GBP | 0 | 0 | — | — | no_price |
 | ARK: Lost Colony | steam | US | 0 | USD | 0 | 0 | — | — | no_price |
 | ARK: Lost Colony | steam | CA | 0 | CAD | 0 | 0 | — | — | no_price |
-| ARK: Lost Colony Expansion Pass | steam | FR | 14.99 | EUR | 14.99 | 29.99 | 50% | 2026-09-07 | sale |
-| ARK: Lost Colony Expansion Pass | steam | BE | 14.99 | EUR | 14.99 | 29.99 | 50% | 2026-09-07 | sale |
-| ARK: Lost Colony Expansion Pass | steam | GB | 14.99 | GBP | 17.45 | 29.99 | 50% | 2026-09-07 | sale |
-| ARK: Lost Colony Expansion Pass | steam | US | 14.99 | USD | 12.9 | 29.99 | 50% | 2026-09-07 | sale |
-| ARK: Lost Colony Expansion Pass | steam | CA | 20.72 | CAD | 12.92 | 41.45 | 50% | 2026-09-07 | sale |
+| ARK: Lost Colony Expansion Pass | steam | FR | 29.99 | EUR | 29.99 | 29.99 | — | — | sale |
+| ARK: Lost Colony Expansion Pass | steam | BE | 29.99 | EUR | 29.99 | 29.99 | — | — | sale |
+| ARK: Lost Colony Expansion Pass | steam | GB | 29.99 | GBP | 35.82 | 29.99 | — | — | sale |
+| ARK: Lost Colony Expansion Pass | steam | US | 29.99 | USD | 27.29 | 29.99 | — | — | sale |
+| ARK: Lost Colony Expansion Pass | steam | CA | 41.45 | CAD | 26.36 | 41.45 | — | — | sale |
 | ARK: Lost Colony Expansion Pass | xbox | FR | 29.99 | EUR | 29.99 | 29.99 | — | — | sale |
 | ARK: Lost Colony Expansion Pass | xbox | BE | 29.99 | EUR | 29.99 | 29.99 | — | — | sale |
-| ARK: Lost Colony Expansion Pass | xbox | GB | 22.6 | GBP | 26.31 | 22.6 | — | — | sale |
-| ARK: Lost Colony Expansion Pass | xbox | US | 29.99 | USD | 25.8 | 29.99 | — | — | sale |
-| ARK: Lost Colony Expansion Pass | xbox | CA | 41.4 | CAD | 25.81 | 41.4 | — | — | sale |
-| ARK: Lost Colony Expansion Pass | playstation | FR/BE | 14.99 | EUR | 14.99 | 29.99 | 50% | 2026-09-09 | sale |
-| ARK: Lost Colony Expansion Pass | playstation | GB | 12.49 | GBP | 14.54 | 24.99 | 50% | 2026-09-09 | sale |
-| ARK: Lost Colony Expansion Pass | playstation | US | 14.99 | USD | 12.9 | 29.99 | 50% | 2026-09-10 | sale |
-| ARK: Lost Colony Expansion Pass | playstation | CA | 19.99 | CAD | 12.46 | 39.99 | 50% | 2026-09-10 | sale |
+| ARK: Lost Colony Expansion Pass | xbox | GB | 22.6 | GBP | 26.99 | 22.6 | — | — | sale |
+| ARK: Lost Colony Expansion Pass | xbox | US | 29.99 | USD | 27.29 | 29.99 | — | — | sale |
+| ARK: Lost Colony Expansion Pass | xbox | CA | 41.4 | CAD | 26.33 | 41.4 | — | — | sale |
+| ARK: Lost Colony Expansion Pass | playstation | FR/BE | 14.99 | EUR | 14.99 | 29.99 | 50% | 2026-11-30 | sale |
+| ARK: Lost Colony Expansion Pass | playstation | GB | 12.49 | GBP | 14.92 | 24.99 | 50% | 2026-11-30 | sale |
+| ARK: Lost Colony Expansion Pass | playstation | US | 14.99 | USD | 13.64 | 29.99 | 50% | 2026-12-01 | sale |
+| ARK: Lost Colony Expansion Pass | playstation | CA | 19.99 | CAD | 12.71 | 39.99 | 50% | 2026-12-01 | sale |
 | ARK: Lost Colony Original Soundtrack | steam | FR | 0 | EUR | 0 | 0 | — | — | no_price |
 | ARK: Lost Colony Original Soundtrack | steam | BE | 0 | EUR | 0 | 0 | — | — | no_price |
 | ARK: Lost Colony Original Soundtrack | steam | GB | 0 | GBP | 0 | 0 | — | — | no_price |
@@ -274,20 +274,20 @@ Exchange rates used to convert to euros: 1 EUR = 0.85898 GBP, 1 EUR = 1.1622 USD
 | ARK: Scorched Earth Ascended | playstation | GB | 0 | GBP | 0 | 0 | — | — | free |
 | ARK: Scorched Earth Ascended | playstation | US | 0 | USD | 0 | 0 | — | — | free |
 | ARK: Scorched Earth Ascended | playstation | CA | 0 | CAD | 0 | 0 | — | — | free |
-| ARK: Survival Ascended | steam | FR | 11.24 | EUR | 11.24 | 44.99 | 75% | 2026-09-07 | sale |
-| ARK: Survival Ascended | steam | BE | 11.24 | EUR | 11.24 | 44.99 | 75% | 2026-09-07 | sale |
-| ARK: Survival Ascended | steam | GB | 9.49 | GBP | 11.05 | 37.99 | 75% | 2026-09-07 | sale |
-| ARK: Survival Ascended | steam | US | 11.24 | USD | 9.67 | 44.99 | 75% | 2026-09-07 | sale |
-| ARK: Survival Ascended | steam | CA | 15 | CAD | 9.35 | 60 | 75% | 2026-09-07 | sale |
+| ARK: Survival Ascended | steam | FR | 44.99 | EUR | 44.99 | 44.99 | — | — | sale |
+| ARK: Survival Ascended | steam | BE | 44.99 | EUR | 44.99 | 44.99 | — | — | sale |
+| ARK: Survival Ascended | steam | GB | 37.99 | GBP | 45.37 | 37.99 | — | — | sale |
+| ARK: Survival Ascended | steam | US | 44.99 | USD | 40.94 | 44.99 | — | — | sale |
+| ARK: Survival Ascended | steam | CA | 60 | CAD | 38.16 | 60 | — | — | sale |
 | ARK: Survival Ascended | xbox | FR | 44.99 | EUR | 44.99 | 44.99 | — | — | sale |
 | ARK: Survival Ascended | xbox | BE | 44.99 | EUR | 44.99 | 44.99 | — | — | sale |
-| ARK: Survival Ascended | xbox | GB | 33.43 | GBP | 38.92 | 33.43 | — | — | sale |
-| ARK: Survival Ascended | xbox | US | 44.99 | USD | 38.71 | 44.99 | — | — | sale |
-| ARK: Survival Ascended | xbox | CA | 61.76 | CAD | 38.51 | 61.76 | — | — | sale |
-| ARK: Survival Ascended | playstation | FR/BE | 11.24 | EUR | 11.24 | 44.99 | 75% | 2026-09-09 | sale |
-| ARK: Survival Ascended | playstation | GB | 9.99 | GBP | 11.63 | 39.99 | 75% | 2026-09-09 | sale |
-| ARK: Survival Ascended | playstation | US | 11.24 | USD | 9.67 | 44.99 | 75% | 2026-09-10 | sale |
-| ARK: Survival Ascended | playstation | CA | 14.99 | CAD | 9.35 | 59.99 | 75% | 2026-09-10 | sale |
+| ARK: Survival Ascended | xbox | GB | 33.43 | GBP | 39.92 | 33.43 | — | — | sale |
+| ARK: Survival Ascended | xbox | US | 44.99 | USD | 40.94 | 44.99 | — | — | sale |
+| ARK: Survival Ascended | xbox | CA | 61.76 | CAD | 39.28 | 61.76 | — | — | sale |
+| ARK: Survival Ascended | playstation | FR/BE | 11.24 | EUR | 11.24 | 44.99 | 75% | 2026-11-30 | sale |
+| ARK: Survival Ascended | playstation | GB | 9.99 | GBP | 11.93 | 39.99 | 75% | 2026-11-30 | sale |
+| ARK: Survival Ascended | playstation | US | 11.24 | USD | 10.23 | 44.99 | 75% | 2026-12-01 | sale |
+| ARK: Survival Ascended | playstation | CA | 14.99 | CAD | 9.53 | 59.99 | 75% | 2026-12-01 | sale |
 | ARK: The Center Ascended | steam | FR | 0 | EUR | 0 | 0 | — | — | no_price |
 | ARK: The Center Ascended | steam | BE | 0 | EUR | 0 | 0 | — | — | no_price |
 | ARK: The Center Ascended | steam | GB | 0 | GBP | 0 | 0 | — | — | no_price |
@@ -316,11 +316,11 @@ Exchange rates used to convert to euros: 1 EUR = 0.85898 GBP, 1 EUR = 1.1622 USD
 | ARK: Valguero Ascended | playstation | GB | 0 | GBP | 0 | 0 | — | — | free |
 | ARK: Valguero Ascended | playstation | US | 0 | USD | 0 | 0 | — | — | free |
 | ARK: Valguero Ascended | playstation | CA | 0 | CAD | 0 | 0 | — | — | free |
-| Super Survival Summer! | steam | FR | 189.47 | EUR | 189.47 | 249.65 | 24% | 2026-09-08 | sale |
-| Super Survival Summer! | steam | BE | 189.47 | EUR | 189.47 | 249.65 | 24% | 2026-09-08 | sale |
-| Super Survival Summer! | steam | GB | 159.75 | GBP | 185.98 | 210.66 | 24% | 2026-09-08 | sale |
-| Super Survival Summer! | steam | US | 190.59 | USD | 163.99 | 251.15 | 24% | 2026-09-08 | sale |
-| Super Survival Summer! | steam | CA | 246.59 | CAD | 153.75 | 325.41 | 24% | 2026-09-08 | sale |
+| Super Survival Summer! | steam | FR | 227.16 | EUR | 227.16 | 227.16 | — | — | sale |
+| Super Survival Summer! | steam | BE | 227.16 | EUR | 227.16 | 227.16 | — | — | sale |
+| Super Survival Summer! | steam | GB | 191.92 | GBP | 229.2 | 191.92 | — | — | sale |
+| Super Survival Summer! | steam | US | 228.66 | USD | 208.06 | 228.66 | — | — | sale |
+| Super Survival Summer! | steam | CA | 296.17 | CAD | 188.37 | 296.17 | — | — | sale |
 
 Status: `sale` sold · `free` free with the game · `no_price` bundled into a pass, not sold separately.
 All instants are UTC. Foreign prices converted for indication only.

@@ -5,287 +5,357 @@
   <id>https://devredious.github.io/asa-prices/feed.xml</id>
   <link href="https://devredious.github.io/asa-prices/feed.xml" rel="self"/>
   <link href="https://devredious.github.io/asa-prices/en/"/>
-  <updated>2026-09-06T09:01:22.535Z</updated>
+  <updated>2026-11-22T21:31:52.582Z</updated>
   <author><name>DevRedious</name><uri>https://github.com/DevRedious</uri></author>
   <rights>CC BY 4.0 — ARK: Survival Ascended price data by DevRedious</rights>
   <entry>
-    <title>↑ ARK Animated Series 109-Costumes Pack — 7.11 → 21.55 CAD (xbox, CA)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-CA-ARK%20Animated%20Series%20109-Costumes%20Pack</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9PD404NWVVWT"/>
-    <summary>Price increase on xbox (CA): 7.11 CAD → 21.55 CAD.</summary>
+    <title>↑ ARK: Survival Ascended — 11.24 → 44.99 EUR (steam, FR)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-FR-ARK%3A%20Survival%20Ascended</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/2399830/ARK_Survival_Ascended"/>
+    <summary>Price increase on steam (FR): 11.24 EUR → 44.99 EUR.</summary>
   </entry>
   <entry>
-    <title>↑ ARK Fantastic Tames - Dreadmare — 2.3 → 6.99 CAD (xbox, CA)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-CA-ARK%20Fantastic%20Tames%20-%20Dreadmare</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9PCZK1GND95Z"/>
-    <summary>Price increase on xbox (CA): 2.3 CAD → 6.99 CAD.</summary>
+    <title>↑ ARK: Lost Colony Expansion Pass — 14.99 → 29.99 EUR (steam, FR)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-FR-ARK%3A%20Lost%20Colony%20Expansion%20Pass</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/3720100/ARK_Lost_Colony_Expansion_Pass"/>
+    <summary>Price increase on steam (FR): 14.99 EUR → 29.99 EUR.</summary>
   </entry>
   <entry>
-    <title>↑ ARK Fantastic Tames - Pyromane — 2.3 → 6.99 CAD (xbox, CA)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-CA-ARK%20Fantastic%20Tames%20-%20Pyromane</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9N6DQ0G4CW2V"/>
-    <summary>Price increase on xbox (CA): 2.3 CAD → 6.99 CAD.</summary>
+    <title>↑ ARK: Bob's Tall Tales — 9.89 → 29.99 EUR (steam, FR)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-FR-ARK%3A%20Bob's%20Tall%20Tales</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/2881150/ARK_Bobs_Tall_Tales"/>
+    <summary>Price increase on steam (FR): 9.89 EUR → 29.99 EUR.</summary>
   </entry>
   <entry>
-    <title>↑ ARK: Bob's Tall Tales — 13.66 → 41.4 CAD (xbox, CA)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-CA-ARK%3A%20Bob's%20Tall%20Tales</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9NLQCCNGN3DX"/>
-    <summary>Price increase on xbox (CA): 13.66 CAD → 41.4 CAD.</summary>
+    <title>↑ ARK: Astraeos — 4.94 → 14.99 EUR (steam, FR)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-FR-ARK%3A%20Astraeos</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/3483400/ARK_Astraeos"/>
+    <summary>Price increase on steam (FR): 4.94 EUR → 14.99 EUR.</summary>
   </entry>
   <entry>
-    <title>↑ ARK: Lost Colony Expansion Pass — 20.7 → 41.4 CAD (xbox, CA)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-CA-ARK%3A%20Lost%20Colony%20Expansion%20Pass</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9PCSM2RFXT8K"/>
-    <summary>Price increase on xbox (CA): 20.7 CAD → 41.4 CAD.</summary>
+    <title>↑ ARK Fantastic Tames - Dreadmare — 1.64 → 4.99 EUR (steam, FR)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-FR-ARK%20Fantastic%20Tames%20-%20Dreadmare</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames_Dreadmare"/>
+    <summary>Price increase on steam (FR): 1.64 EUR → 4.99 EUR.</summary>
   </entry>
   <entry>
-    <title>↑ ARK: Astraeos — 7.11 → 21.57 CAD (xbox, CA)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-CA-ARK%3A%20Astraeos</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9NDWFV6QL35S"/>
-    <summary>Price increase on xbox (CA): 7.11 CAD → 21.57 CAD.</summary>
+    <title>↑ ARK Fantastic Tames - Pyromane — 1.64 → 4.99 EUR (steam, FR)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-FR-ARK%20Fantastic%20Tames%20-%20Pyromane</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames_Pyromane"/>
+    <summary>Price increase on steam (FR): 1.64 EUR → 4.99 EUR.</summary>
   </entry>
   <entry>
-    <title>↑ ARK: Survival Ascended — 15.44 → 61.76 CAD (xbox, CA)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-CA-ARK%3A%20Survival%20Ascended</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9P33VJGVPHVP"/>
-    <summary>Price increase on xbox (CA): 15.44 CAD → 61.76 CAD.</summary>
+    <title>↑ ARK Animated Series 109-Costumes Pack — 4.94 → 14.99 EUR (steam, FR)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-FR-ARK%20Animated%20Series%20109-Costumes%20Pack</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/3571730/ARK_Animated_Series_109Costumes_Pack"/>
+    <summary>Price increase on steam (FR): 4.94 EUR → 14.99 EUR.</summary>
   </entry>
   <entry>
-    <title>↑ ARK Animated Series 109-Costumes Pack — 4.94 → 14.99 USD (xbox, US)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-US-ARK%20Animated%20Series%20109-Costumes%20Pack</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9PD404NWVVWT"/>
-    <summary>Price increase on xbox (US): 4.94 USD → 14.99 USD.</summary>
+    <title>↑ ARK: Big &amp; Small, Survive them All — 14.5 → 58.04 EUR (steam, FR)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-FR-ARK%3A%20Big%20%26%20Small%2C%20Survive%20them%20All</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/bundle/27909/ARK_Big_Small_Survive_them_All"/>
+    <summary>Price increase on steam (FR): 14.5 EUR → 58.04 EUR.</summary>
   </entry>
   <entry>
-    <title>↑ ARK Fantastic Tames - Dreadmare — 1.64 → 4.99 USD (xbox, US)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-US-ARK%20Fantastic%20Tames%20-%20Dreadmare</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9PCZK1GND95Z"/>
-    <summary>Price increase on xbox (US): 1.64 USD → 4.99 USD.</summary>
+    <title>↑ ARK: Bob's Bundle — 16.9 → 59.98 EUR (steam, FR)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-FR-ARK%3A%20Bob's%20Bundle</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/bundle/44687/ARK_Bobs_Bundle"/>
+    <summary>Price increase on steam (FR): 16.9 EUR → 59.98 EUR.</summary>
   </entry>
   <entry>
-    <title>↑ ARK Fantastic Tames - Pyromane — 1.64 → 4.99 USD (xbox, US)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-US-ARK%20Fantastic%20Tames%20-%20Pyromane</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9N6DQ0G4CW2V"/>
-    <summary>Price increase on xbox (US): 1.64 USD → 4.99 USD.</summary>
+    <title>↑ Super Survival Summer! — 189.47 → 227.16 EUR (steam, FR)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-FR-Super%20Survival%20Summer!</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/bundle/69433/Super_Survival_Summer"/>
+    <summary>Price increase on steam (FR): 189.47 EUR → 227.16 EUR.</summary>
   </entry>
   <entry>
-    <title>↑ ARK: Bob's Tall Tales — 9.89 → 29.99 USD (xbox, US)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-US-ARK%3A%20Bob's%20Tall%20Tales</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9NLQCCNGN3DX"/>
-    <summary>Price increase on xbox (US): 9.89 USD → 29.99 USD.</summary>
+    <title>↑ ARK: Survival Ascended — 11.24 → 44.99 EUR (steam, BE)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-BE-ARK%3A%20Survival%20Ascended</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/2399830/ARK_Survival_Ascended"/>
+    <summary>Price increase on steam (BE): 11.24 EUR → 44.99 EUR.</summary>
   </entry>
   <entry>
-    <title>↑ ARK: Lost Colony Expansion Pass — 14.99 → 29.99 USD (xbox, US)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-US-ARK%3A%20Lost%20Colony%20Expansion%20Pass</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9PCSM2RFXT8K"/>
-    <summary>Price increase on xbox (US): 14.99 USD → 29.99 USD.</summary>
+    <title>↑ ARK: Lost Colony Expansion Pass — 14.99 → 29.99 EUR (steam, BE)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-BE-ARK%3A%20Lost%20Colony%20Expansion%20Pass</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/3720100/ARK_Lost_Colony_Expansion_Pass"/>
+    <summary>Price increase on steam (BE): 14.99 EUR → 29.99 EUR.</summary>
   </entry>
   <entry>
-    <title>↑ ARK: Astraeos — 4.94 → 14.99 USD (xbox, US)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-US-ARK%3A%20Astraeos</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9NDWFV6QL35S"/>
-    <summary>Price increase on xbox (US): 4.94 USD → 14.99 USD.</summary>
+    <title>↑ ARK: Bob's Tall Tales — 9.89 → 29.99 EUR (steam, BE)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-BE-ARK%3A%20Bob's%20Tall%20Tales</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/2881150/ARK_Bobs_Tall_Tales"/>
+    <summary>Price increase on steam (BE): 9.89 EUR → 29.99 EUR.</summary>
   </entry>
   <entry>
-    <title>↑ ARK: Survival Ascended — 11.24 → 44.99 USD (xbox, US)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-US-ARK%3A%20Survival%20Ascended</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9P33VJGVPHVP"/>
-    <summary>Price increase on xbox (US): 11.24 USD → 44.99 USD.</summary>
+    <title>↑ ARK: Astraeos — 4.94 → 14.99 EUR (steam, BE)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-BE-ARK%3A%20Astraeos</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/3483400/ARK_Astraeos"/>
+    <summary>Price increase on steam (BE): 4.94 EUR → 14.99 EUR.</summary>
   </entry>
   <entry>
-    <title>↑ ARK Animated Series 109-Costumes Pack — 3.84 → 11.64 GBP (xbox, GB)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-GB-ARK%20Animated%20Series%20109-Costumes%20Pack</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9PD404NWVVWT"/>
-    <summary>Price increase on xbox (GB): 3.84 GBP → 11.64 GBP.</summary>
+    <title>↑ ARK Fantastic Tames - Dreadmare — 1.64 → 4.99 EUR (steam, BE)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-BE-ARK%20Fantastic%20Tames%20-%20Dreadmare</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames_Dreadmare"/>
+    <summary>Price increase on steam (BE): 1.64 EUR → 4.99 EUR.</summary>
   </entry>
   <entry>
-    <title>↑ ARK Fantastic Tames - Dreadmare — 1.22 → 3.7 GBP (xbox, GB)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-GB-ARK%20Fantastic%20Tames%20-%20Dreadmare</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9PCZK1GND95Z"/>
-    <summary>Price increase on xbox (GB): 1.22 GBP → 3.7 GBP.</summary>
+    <title>↑ ARK Fantastic Tames - Pyromane — 1.64 → 4.99 EUR (steam, BE)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-BE-ARK%20Fantastic%20Tames%20-%20Pyromane</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames_Pyromane"/>
+    <summary>Price increase on steam (BE): 1.64 EUR → 4.99 EUR.</summary>
   </entry>
   <entry>
-    <title>↑ ARK Fantastic Tames - Pyromane — 1.22 → 3.7 GBP (xbox, GB)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-GB-ARK%20Fantastic%20Tames%20-%20Pyromane</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9N6DQ0G4CW2V"/>
-    <summary>Price increase on xbox (GB): 1.22 GBP → 3.7 GBP.</summary>
+    <title>↑ ARK Animated Series 109-Costumes Pack — 4.94 → 14.99 EUR (steam, BE)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-BE-ARK%20Animated%20Series%20109-Costumes%20Pack</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/3571730/ARK_Animated_Series_109Costumes_Pack"/>
+    <summary>Price increase on steam (BE): 4.94 EUR → 14.99 EUR.</summary>
   </entry>
   <entry>
-    <title>↑ ARK: Bob's Tall Tales — 7.45 → 22.6 GBP (xbox, GB)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-GB-ARK%3A%20Bob's%20Tall%20Tales</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9NLQCCNGN3DX"/>
-    <summary>Price increase on xbox (GB): 7.45 GBP → 22.6 GBP.</summary>
+    <title>↑ ARK: Big &amp; Small, Survive them All — 14.5 → 58.04 EUR (steam, BE)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-BE-ARK%3A%20Big%20%26%20Small%2C%20Survive%20them%20All</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/bundle/27909/ARK_Big_Small_Survive_them_All"/>
+    <summary>Price increase on steam (BE): 14.5 EUR → 58.04 EUR.</summary>
   </entry>
   <entry>
-    <title>↑ ARK: Lost Colony Expansion Pass — 11.3 → 22.6 GBP (xbox, GB)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-GB-ARK%3A%20Lost%20Colony%20Expansion%20Pass</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9PCSM2RFXT8K"/>
-    <summary>Price increase on xbox (GB): 11.3 GBP → 22.6 GBP.</summary>
+    <title>↑ ARK: Bob's Bundle — 16.9 → 59.98 EUR (steam, BE)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-BE-ARK%3A%20Bob's%20Bundle</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/bundle/44687/ARK_Bobs_Bundle"/>
+    <summary>Price increase on steam (BE): 16.9 EUR → 59.98 EUR.</summary>
   </entry>
   <entry>
-    <title>↑ ARK: Astraeos — 3.96 → 12 GBP (xbox, GB)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-GB-ARK%3A%20Astraeos</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9NDWFV6QL35S"/>
-    <summary>Price increase on xbox (GB): 3.96 GBP → 12 GBP.</summary>
+    <title>↑ Super Survival Summer! — 189.47 → 227.16 EUR (steam, BE)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-BE-Super%20Survival%20Summer!</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/bundle/69433/Super_Survival_Summer"/>
+    <summary>Price increase on steam (BE): 189.47 EUR → 227.16 EUR.</summary>
   </entry>
   <entry>
-    <title>↑ ARK: Survival Ascended — 8.35 → 33.43 GBP (xbox, GB)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-GB-ARK%3A%20Survival%20Ascended</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9P33VJGVPHVP"/>
-    <summary>Price increase on xbox (GB): 8.35 GBP → 33.43 GBP.</summary>
+    <title>↑ ARK: Survival Ascended — 9.49 → 37.99 GBP (steam, GB)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-GB-ARK%3A%20Survival%20Ascended</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/2399830/ARK_Survival_Ascended"/>
+    <summary>Price increase on steam (GB): 9.49 GBP → 37.99 GBP.</summary>
   </entry>
   <entry>
-    <title>↑ ARK Animated Series 109-Costumes Pack — 4.94 → 14.99 EUR (xbox, BE)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-BE-ARK%20Animated%20Series%20109-Costumes%20Pack</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9PD404NWVVWT"/>
-    <summary>Price increase on xbox (BE): 4.94 EUR → 14.99 EUR.</summary>
+    <title>↑ ARK: Lost Colony Expansion Pass — 14.99 → 29.99 GBP (steam, GB)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-GB-ARK%3A%20Lost%20Colony%20Expansion%20Pass</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/3720100/ARK_Lost_Colony_Expansion_Pass"/>
+    <summary>Price increase on steam (GB): 14.99 GBP → 29.99 GBP.</summary>
   </entry>
   <entry>
-    <title>↑ ARK Fantastic Tames - Dreadmare — 1.64 → 4.99 EUR (xbox, BE)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-BE-ARK%20Fantastic%20Tames%20-%20Dreadmare</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9PCZK1GND95Z"/>
-    <summary>Price increase on xbox (BE): 1.64 EUR → 4.99 EUR.</summary>
+    <title>↑ ARK: Bob's Tall Tales — 8.24 → 24.99 GBP (steam, GB)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-GB-ARK%3A%20Bob's%20Tall%20Tales</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/2881150/ARK_Bobs_Tall_Tales"/>
+    <summary>Price increase on steam (GB): 8.24 GBP → 24.99 GBP.</summary>
   </entry>
   <entry>
-    <title>↑ ARK Fantastic Tames - Pyromane — 1.64 → 4.99 EUR (xbox, BE)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-BE-ARK%20Fantastic%20Tames%20-%20Pyromane</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9N6DQ0G4CW2V"/>
-    <summary>Price increase on xbox (BE): 1.64 EUR → 4.99 EUR.</summary>
+    <title>↑ ARK: Astraeos — 4.22 → 12.79 GBP (steam, GB)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-GB-ARK%3A%20Astraeos</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/3483400/ARK_Astraeos"/>
+    <summary>Price increase on steam (GB): 4.22 GBP → 12.79 GBP.</summary>
   </entry>
   <entry>
-    <title>↑ ARK: Bob's Tall Tales — 9.89 → 29.99 EUR (xbox, BE)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-BE-ARK%3A%20Bob's%20Tall%20Tales</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9NLQCCNGN3DX"/>
-    <summary>Price increase on xbox (BE): 9.89 EUR → 29.99 EUR.</summary>
+    <title>↑ ARK Fantastic Tames - Dreadmare — 1.41 → 4.29 GBP (steam, GB)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-GB-ARK%20Fantastic%20Tames%20-%20Dreadmare</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames_Dreadmare"/>
+    <summary>Price increase on steam (GB): 1.41 GBP → 4.29 GBP.</summary>
   </entry>
   <entry>
-    <title>↑ ARK: Lost Colony Expansion Pass — 14.99 → 29.99 EUR (xbox, BE)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-BE-ARK%3A%20Lost%20Colony%20Expansion%20Pass</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9PCSM2RFXT8K"/>
-    <summary>Price increase on xbox (BE): 14.99 EUR → 29.99 EUR.</summary>
+    <title>↑ ARK Fantastic Tames - Pyromane — 1.41 → 4.29 GBP (steam, GB)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-GB-ARK%20Fantastic%20Tames%20-%20Pyromane</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames_Pyromane"/>
+    <summary>Price increase on steam (GB): 1.41 GBP → 4.29 GBP.</summary>
   </entry>
   <entry>
-    <title>↑ ARK: Astraeos — 4.94 → 14.99 EUR (xbox, BE)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-BE-ARK%3A%20Astraeos</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9NDWFV6QL35S"/>
-    <summary>Price increase on xbox (BE): 4.94 EUR → 14.99 EUR.</summary>
+    <title>↑ ARK Animated Series 109-Costumes Pack — 4.22 → 12.79 GBP (steam, GB)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-GB-ARK%20Animated%20Series%20109-Costumes%20Pack</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/3571730/ARK_Animated_Series_109Costumes_Pack"/>
+    <summary>Price increase on steam (GB): 4.22 GBP → 12.79 GBP.</summary>
   </entry>
   <entry>
-    <title>↑ ARK: Survival Ascended — 11.24 → 44.99 EUR (xbox, BE)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-BE-ARK%3A%20Survival%20Ascended</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9P33VJGVPHVP"/>
-    <summary>Price increase on xbox (BE): 11.24 EUR → 44.99 EUR.</summary>
+    <title>↑ ARK: Big &amp; Small, Survive them All — 12.3 → 49.26 GBP (steam, GB)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-GB-ARK%3A%20Big%20%26%20Small%2C%20Survive%20them%20All</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/bundle/27909/ARK_Big_Small_Survive_them_All"/>
+    <summary>Price increase on steam (GB): 12.3 GBP → 49.26 GBP.</summary>
   </entry>
   <entry>
-    <title>↑ ARK Animated Series 109-Costumes Pack — 4.94 → 14.99 EUR (xbox, FR)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-FR-ARK%20Animated%20Series%20109-Costumes%20Pack</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9PD404NWVVWT"/>
-    <summary>Price increase on xbox (FR): 4.94 EUR → 14.99 EUR.</summary>
+    <title>↑ ARK: Bob's Bundle — 14.18 → 50.38 GBP (steam, GB)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-GB-ARK%3A%20Bob's%20Bundle</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/bundle/44687/ARK_Bobs_Bundle"/>
+    <summary>Price increase on steam (GB): 14.18 GBP → 50.38 GBP.</summary>
   </entry>
   <entry>
-    <title>↑ ARK Fantastic Tames - Dreadmare — 1.64 → 4.99 EUR (xbox, FR)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-FR-ARK%20Fantastic%20Tames%20-%20Dreadmare</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9PCZK1GND95Z"/>
-    <summary>Price increase on xbox (FR): 1.64 EUR → 4.99 EUR.</summary>
+    <title>↑ Super Survival Summer! — 159.75 → 191.92 GBP (steam, GB)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-GB-Super%20Survival%20Summer!</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/bundle/69433/Super_Survival_Summer"/>
+    <summary>Price increase on steam (GB): 159.75 GBP → 191.92 GBP.</summary>
   </entry>
   <entry>
-    <title>↑ ARK Fantastic Tames - Pyromane — 1.64 → 4.99 EUR (xbox, FR)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-FR-ARK%20Fantastic%20Tames%20-%20Pyromane</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9N6DQ0G4CW2V"/>
-    <summary>Price increase on xbox (FR): 1.64 EUR → 4.99 EUR.</summary>
+    <title>↑ ARK: Survival Ascended — 11.24 → 44.99 USD (steam, US)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-US-ARK%3A%20Survival%20Ascended</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/2399830/ARK_Survival_Ascended"/>
+    <summary>Price increase on steam (US): 11.24 USD → 44.99 USD.</summary>
   </entry>
   <entry>
-    <title>↑ ARK: Bob's Tall Tales — 9.89 → 29.99 EUR (xbox, FR)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-FR-ARK%3A%20Bob's%20Tall%20Tales</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9NLQCCNGN3DX"/>
-    <summary>Price increase on xbox (FR): 9.89 EUR → 29.99 EUR.</summary>
+    <title>↑ ARK: Lost Colony Expansion Pass — 14.99 → 29.99 USD (steam, US)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-US-ARK%3A%20Lost%20Colony%20Expansion%20Pass</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/3720100/ARK_Lost_Colony_Expansion_Pass"/>
+    <summary>Price increase on steam (US): 14.99 USD → 29.99 USD.</summary>
   </entry>
   <entry>
-    <title>↑ ARK: Lost Colony Expansion Pass — 14.99 → 29.99 EUR (xbox, FR)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-FR-ARK%3A%20Lost%20Colony%20Expansion%20Pass</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9PCSM2RFXT8K"/>
-    <summary>Price increase on xbox (FR): 14.99 EUR → 29.99 EUR.</summary>
+    <title>↑ ARK: Bob's Tall Tales — 9.89 → 29.99 USD (steam, US)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-US-ARK%3A%20Bob's%20Tall%20Tales</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/2881150/ARK_Bobs_Tall_Tales"/>
+    <summary>Price increase on steam (US): 9.89 USD → 29.99 USD.</summary>
   </entry>
   <entry>
-    <title>↑ ARK: Astraeos — 4.94 → 14.99 EUR (xbox, FR)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-FR-ARK%3A%20Astraeos</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9NDWFV6QL35S"/>
-    <summary>Price increase on xbox (FR): 4.94 EUR → 14.99 EUR.</summary>
+    <title>↑ ARK: Astraeos — 4.94 → 14.99 USD (steam, US)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-US-ARK%3A%20Astraeos</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/3483400/ARK_Astraeos"/>
+    <summary>Price increase on steam (US): 4.94 USD → 14.99 USD.</summary>
   </entry>
   <entry>
-    <title>↑ ARK: Survival Ascended — 11.24 → 44.99 EUR (xbox, FR)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-05T09:01:24.047Z-xbox-FR-ARK%3A%20Survival%20Ascended</id>
-    <updated>2026-09-05T09:01:24.047Z</updated>
-    <link href="https://www.xbox.com/fr-FR/games/store/-/9P33VJGVPHVP"/>
-    <summary>Price increase on xbox (FR): 11.24 EUR → 44.99 EUR.</summary>
+    <title>↑ ARK Fantastic Tames - Dreadmare — 1.64 → 4.99 USD (steam, US)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-US-ARK%20Fantastic%20Tames%20-%20Dreadmare</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames_Dreadmare"/>
+    <summary>Price increase on steam (US): 1.64 USD → 4.99 USD.</summary>
   </entry>
   <entry>
-    <title>↓ Super Survival Summer! — 279.89 → 246.59 CAD (steam, CA)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-01T09:01:22.899Z-steam-CA-Super%20Survival%20Summer!</id>
-    <updated>2026-09-01T09:01:22.899Z</updated>
-    <link href="https://store.steampowered.com/bundle/69433/"/>
-    <summary>Price drop on steam (CA): 279.89 CAD → 246.59 CAD.</summary>
+    <title>↑ ARK Fantastic Tames - Pyromane — 1.64 → 4.99 USD (steam, US)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-US-ARK%20Fantastic%20Tames%20-%20Pyromane</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames_Pyromane"/>
+    <summary>Price increase on steam (US): 1.64 USD → 4.99 USD.</summary>
   </entry>
   <entry>
-    <title>↓ Super Survival Summer! — 216.84 → 190.59 USD (steam, US)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-01T09:01:22.899Z-steam-US-Super%20Survival%20Summer!</id>
-    <updated>2026-09-01T09:01:22.899Z</updated>
-    <link href="https://store.steampowered.com/bundle/69433/"/>
-    <summary>Price drop on steam (US): 216.84 USD → 190.59 USD.</summary>
+    <title>↑ ARK Animated Series 109-Costumes Pack — 4.94 → 14.99 USD (steam, US)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-US-ARK%20Animated%20Series%20109-Costumes%20Pack</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/3571730/ARK_Animated_Series_109Costumes_Pack"/>
+    <summary>Price increase on steam (US): 4.94 USD → 14.99 USD.</summary>
   </entry>
   <entry>
-    <title>↓ Super Survival Summer! — 181.8 → 159.75 GBP (steam, GB)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-01T09:01:22.899Z-steam-GB-Super%20Survival%20Summer!</id>
-    <updated>2026-09-01T09:01:22.899Z</updated>
-    <link href="https://store.steampowered.com/bundle/69433/"/>
-    <summary>Price drop on steam (GB): 181.8 GBP → 159.75 GBP.</summary>
+    <title>↑ ARK: Big &amp; Small, Survive them All — 14.61 → 58.48 USD (steam, US)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-US-ARK%3A%20Big%20%26%20Small%2C%20Survive%20them%20All</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/bundle/27909/ARK_Big_Small_Survive_them_All"/>
+    <summary>Price increase on steam (US): 14.61 USD → 58.48 USD.</summary>
   </entry>
   <entry>
-    <title>↓ Super Survival Summer! — 215.57 → 189.47 EUR (steam, BE)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-01T09:01:22.899Z-steam-BE-Super%20Survival%20Summer!</id>
-    <updated>2026-09-01T09:01:22.899Z</updated>
-    <link href="https://store.steampowered.com/bundle/69433/"/>
-    <summary>Price drop on steam (BE): 215.57 EUR → 189.47 EUR.</summary>
+    <title>↑ ARK: Bob's Bundle — 16.9 → 59.98 USD (steam, US)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-US-ARK%3A%20Bob's%20Bundle</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/bundle/44687/ARK_Bobs_Bundle"/>
+    <summary>Price increase on steam (US): 16.9 USD → 59.98 USD.</summary>
   </entry>
   <entry>
-    <title>↓ Super Survival Summer! — 215.57 → 189.47 EUR (steam, FR)</title>
-    <id>https://devredious.github.io/asa-prices/#2026-09-01T09:01:22.899Z-steam-FR-Super%20Survival%20Summer!</id>
-    <updated>2026-09-01T09:01:22.899Z</updated>
-    <link href="https://store.steampowered.com/bundle/69433/"/>
-    <summary>Price drop on steam (FR): 215.57 EUR → 189.47 EUR.</summary>
+    <title>↑ Super Survival Summer! — 190.59 → 228.66 USD (steam, US)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-US-Super%20Survival%20Summer!</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/bundle/69433/Super_Survival_Summer"/>
+    <summary>Price increase on steam (US): 190.59 USD → 228.66 USD.</summary>
+  </entry>
+  <entry>
+    <title>↑ ARK: Survival Ascended — 15 → 60 CAD (steam, CA)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-CA-ARK%3A%20Survival%20Ascended</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/2399830/ARK_Survival_Ascended"/>
+    <summary>Price increase on steam (CA): 15 CAD → 60 CAD.</summary>
+  </entry>
+  <entry>
+    <title>↑ ARK: Lost Colony Expansion Pass — 20.72 → 41.45 CAD (steam, CA)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-CA-ARK%3A%20Lost%20Colony%20Expansion%20Pass</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/3720100/ARK_Lost_Colony_Expansion_Pass"/>
+    <summary>Price increase on steam (CA): 20.72 CAD → 41.45 CAD.</summary>
+  </entry>
+  <entry>
+    <title>↑ ARK: Bob's Tall Tales — 13.53 → 41 CAD (steam, CA)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-CA-ARK%3A%20Bob's%20Tall%20Tales</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/2881150/ARK_Bobs_Tall_Tales"/>
+    <summary>Price increase on steam (CA): 13.53 CAD → 41 CAD.</summary>
+  </entry>
+  <entry>
+    <title>↑ ARK: Astraeos — 7.09 → 21.49 CAD (steam, CA)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-CA-ARK%3A%20Astraeos</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/3483400/ARK_Astraeos"/>
+    <summary>Price increase on steam (CA): 7.09 CAD → 21.49 CAD.</summary>
+  </entry>
+  <entry>
+    <title>↑ ARK Fantastic Tames - Dreadmare — 2.24 → 6.8 CAD (steam, CA)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-CA-ARK%20Fantastic%20Tames%20-%20Dreadmare</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/3282470/ARK_Fantastic_Tames_Dreadmare"/>
+    <summary>Price increase on steam (CA): 2.24 CAD → 6.8 CAD.</summary>
+  </entry>
+  <entry>
+    <title>↑ ARK Fantastic Tames - Pyromane — 2.25 → 6.82 CAD (steam, CA)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-CA-ARK%20Fantastic%20Tames%20-%20Pyromane</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/2972680/ARK_Fantastic_Tames_Pyromane"/>
+    <summary>Price increase on steam (CA): 2.25 CAD → 6.82 CAD.</summary>
+  </entry>
+  <entry>
+    <title>↑ ARK Animated Series 109-Costumes Pack — 7.09 → 21.5 CAD (steam, CA)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-CA-ARK%20Animated%20Series%20109-Costumes%20Pack</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/app/3571730/ARK_Animated_Series_109Costumes_Pack"/>
+    <summary>Price increase on steam (CA): 7.09 CAD → 21.5 CAD.</summary>
+  </entry>
+  <entry>
+    <title>↑ ARK: Big &amp; Small, Survive them All — 19.34 → 77.39 CAD (steam, CA)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-CA-ARK%3A%20Big%20%26%20Small%2C%20Survive%20them%20All</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/bundle/27909/ARK_Big_Small_Survive_them_All"/>
+    <summary>Price increase on steam (CA): 19.34 CAD → 77.39 CAD.</summary>
+  </entry>
+  <entry>
+    <title>↑ ARK: Bob's Bundle — 22.82 → 80.8 CAD (steam, CA)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-CA-ARK%3A%20Bob's%20Bundle</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/bundle/44687/ARK_Bobs_Bundle"/>
+    <summary>Price increase on steam (CA): 22.82 CAD → 80.8 CAD.</summary>
+  </entry>
+  <entry>
+    <title>↑ Super Survival Summer! — 246.59 → 296.17 CAD (steam, CA)</title>
+    <id>https://devredious.github.io/asa-prices/#2026-11-22T21:31:52.582Z-steam-CA-Super%20Survival%20Summer!</id>
+    <updated>2026-11-22T21:31:52.582Z</updated>
+    <link href="https://store.steampowered.com/bundle/69433/Super_Survival_Summer"/>
+    <summary>Price increase on steam (CA): 246.59 CAD → 296.17 CAD.</summary>
   </entry>
 </feed>
